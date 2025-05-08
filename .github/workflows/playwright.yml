@@ -27,7 +27,7 @@ jobs:
         run: npx playwright install --with-deps
 
       - name: Create LoginAuth.json from secret
-        run: echo '${{ secrets.LOGIN_STATE }}' > LoginAuth.json
+        run: echo '${{ secrets.LOGINAUTH }}' > LoginAuth.json
 
       - name: Run Playwright tests
         run: npx playwright test
