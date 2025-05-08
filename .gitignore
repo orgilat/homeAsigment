@@ -1,0 +1,22 @@
+# תיקיות Node
+node_modules/
+
+# תוצאות בדיקות
+test-results/
+allure-results/
+allure-report/
+
+# קבצים זמניים ולוגים
+*.log
+*.tmp
+
+# קבצי מערכת
+.DS_Store
+Thumbs.db
+
+# קבצים של סביבת פיתוח
+.vscode/
+.idea/
+
+# קבצי סביבה
+.env
