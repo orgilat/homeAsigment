@@ -8,7 +8,6 @@ export class HomePage {
   readonly step2: Locator;
   readonly confirm: Locator;
   readonly allInputs: Locator;
-  readonly plusButton: Locator;
   readonly minusc: Locator;
   readonly sal: Locator;
   readonly cartCount: Locator;
@@ -45,7 +44,6 @@ export class HomePage {
     try {
       await this.cartCount.waitFor({ state: 'attached', timeout: 30000 });
     } catch (e) {
-      // בדיקה וניפוי באגים: שמירת ה־HTML כדי להבין מה באמת התרחש ב־CI
       const bodyHtml = await this.page.locator('body').innerHTML();
       allure.attachment('Body HTML at cartCount failure', bodyHtml, 'text/html');
       throw e;
@@ -60,13 +58,10 @@ export class HomePage {
       logger.info("📦 הסל לא ריק - מבצע לחיצה לפתיחת הסל");
       await this.expandCartBtn.waitFor({ state: 'visible', timeout: 30000 });
       await this.expandCartBtn.click();
-
       await this.expandCartBtn2.waitFor({ state: 'visible', timeout: 30000 });
       await this.expandCartBtn2.click();
-
       await this.expandCartBtn3.waitFor({ state: 'visible', timeout: 30000 });
       await this.expandCartBtn3.click();
-
       // סוגרים חזרה את הסל
       await this.expandCartBtn.waitFor({ state: 'visible', timeout: 30000 });
       await this.expandCartBtn.click();

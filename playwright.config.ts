@@ -9,6 +9,9 @@ export default defineConfig({
     screenshot: 'only-on-failure',
     video: { mode: 'on', size: { width: 1281, height: 720 } },
     viewport: { width: 1280, height: 720 },
+    // כאן הוספנו:
+    baseURL: process.env.BASE_URL || 'https://staging.shufersal.co.il',
+    ignoreHTTPSErrors: true,
   },
   reporter: [
     ['list'],
