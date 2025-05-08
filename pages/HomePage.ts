@@ -38,23 +38,34 @@ export class HomePage {
     }
 
     async checkCartAndExpandIfNeeded() {
+        // ודא שהאלמנט באמת קיים לפני שאתה שואל את הטקסט שלו
+        await this.cartCount.waitFor({ timeout: 10000 }); // עד 10 שניות לחכות
+    
         const countText = await this.cartCount.innerText();
         const numericCount = parseInt(countText.replace(/[^\d]/g, ''), 10);
-
+    
         logger.info(`🛒 מספר פריטים בסל בתחילת הבדיקה: ${numericCount}`);
         allure.attachment('Cart Item Count', `${numericCount}`, 'text/plain');
-
+    
         if (numericCount > 0) {
             logger.info("📦 הסל לא ריק - מבצע לחיצה לפתיחת הסל");
+    
+            // כדאי גם פה לוודא שהכפתורים זמינים לפני הקלקה
+            await this.expandCartBtn.waitFor({ timeout: 5000 });
             await this.expandCartBtn.click();
+    
+            await this.expandCartBtn2.waitFor({ timeout: 5000 });
             await this.expandCartBtn2.click();
+    
+            await this.expandCartBtn3.waitFor({ timeout: 5000 });
             await this.expandCartBtn3.click();
-            await this.expandCartBtn.click();
+    
+            await this.expandCartBtn.click(); // אם הכפתור הזה נלחץ שוב - תוודא שהוא עדיין קיים
         } else {
             logger.info("✅ הסל ריק - ממשיכים ללא פתיחה");
         }
     }
-
+    
     async navigate() {
         await expect(this.step).toBeVisible();
         await this.step.click();
