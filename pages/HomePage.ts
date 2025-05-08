@@ -26,8 +26,9 @@ export class HomePage {
         this.sal = page.locator('//button[contains(@class,"result-btn btn-sticky")]');
         this.cartCount = page.locator('#cartTotalItems');
         this.expandCartBtn = page.locator('//button[@data-focus="#cartMiddleContent"]');
-        this.expandCartBtn2 = page.getByRole('button', { name: 'ניקוי הסל' });
-        this.expandCartBtn3 = page.getByRole('button', { name: ' כן, רוקנו את הסל' });
+        this.expandCartBtn2 =page.getByRole('button', { name: 'ניקוי הסל' })
+        this.expandCartBtn3 =page.getByRole('button', { name: ' כן, רוקנו את הסל' })
+       
     }
 
     private async searchAndEnter(product: string) {
@@ -37,7 +38,6 @@ export class HomePage {
     }
 
     async checkCartAndExpandIfNeeded() {
-        await expect(this.cartCount).toBeVisible({ timeout: 10000 });
         const countText = await this.cartCount.innerText();
         const numericCount = parseInt(countText.replace(/[^\d]/g, ''), 10);
 
@@ -46,42 +46,31 @@ export class HomePage {
 
         if (numericCount > 0) {
             logger.info("📦 הסל לא ריק - מבצע לחיצה לפתיחת הסל");
-            await this.page.waitForLoadState('networkidle');
             await this.expandCartBtn.click();
-            await this.page.waitForLoadState('networkidle');
             await this.expandCartBtn2.click();
-            await this.page.waitForLoadState('networkidle');
             await this.expandCartBtn3.click();
-            await this.page.waitForLoadState('networkidle');
-            await this.expandCartBtn.click();
+            await this.expandCartBtn.click()
         } else {
             logger.info("✅ הסל ריק - ממשיכים ללא פתיחה");
         }
     }
 
     async navigate() {
-        await this.page.waitForLoadState('networkidle');
-        await expect(this.step).toBeVisible({ timeout: 15000 });
+        await expect(this.step).toBeVisible();
         await this.step.click();
-
-        await this.page.waitForLoadState('networkidle');
-        await expect(this.step2).toBeVisible({ timeout: 15000 });
+        await expect(this.step2).toBeVisible();
         await this.step2.click();
 
         const products = ["גבינה", "ביצים", "חלב"];
         for (const product of products) {
-            await this.page.waitForLoadState('networkidle');
             await this.searchAndEnter(product);
         }
 
-        await this.page.waitForLoadState('networkidle');
-        await expect(this.confirm).toBeVisible({ timeout: 15000 });
         await this.confirm.click();
         logger.info("לחצנו לאישור");
     }
 
     async calculate() {
-        await this.page.waitForLoadState('networkidle');
         const firstInput = this.allInputs.first();
         await expect(firstInput).toBeVisible({ timeout: 13000 });
         await firstInput.focus();
@@ -109,7 +98,6 @@ export class HomePage {
     }
 
     async button() {
-        await this.page.waitForLoadState('networkidle');
         const second = this.allInputs.nth(2);
         await expect(second).toBeVisible({ timeout: 3000 });
         await second.focus();
