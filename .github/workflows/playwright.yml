@@ -1,3 +1,11 @@
+name: Playwright CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
 jobs:
   tests_e2e:
     name: Run end-to-end tests
