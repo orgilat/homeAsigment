@@ -5,7 +5,7 @@ export default defineConfig({
   timeout: 280 * 1000,
   use: {
     headless: true,
-    storageState: 'LoginAuth.json',
+    storageState: 'LoginAuth.json',  // שימוש ב-cookies ששמרנו ב-global-setup
     screenshot: 'only-on-failure',
     video: { mode: 'on', size: { width: 1281, height: 720 } },
     viewport: { width: 1280, height: 720 },
@@ -16,4 +16,5 @@ export default defineConfig({
     ['list'],
     ['allure-playwright', { outputFolder: 'allure-results' }],
   ],
+  globalSetup: require.resolve('./global-setup'), // הפנייה ל-global-setup.ts
 });
