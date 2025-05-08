@@ -71,7 +71,7 @@ export class HomePage {
     await expect(this.step).toBeVisible({ timeout: 30000 });
     await this.step.click();
 
-    await expect(this.step2).toBeVisible({ timeout: 30000 });
+    await expect(this.step2).toBeVisible({ timeout: 30011 });
     await this.step2.click();
 
     for (const product of ['גבינה', 'ביצים', 'חלב']) {
