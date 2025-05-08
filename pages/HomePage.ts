@@ -26,9 +26,8 @@ export class HomePage {
         this.sal = page.locator('//button[contains(@class,"result-btn btn-sticky")]');
         this.cartCount = page.locator('#cartTotalItems');
         this.expandCartBtn = page.locator('//button[@data-focus="#cartMiddleContent"]');
-        this.expandCartBtn2 =page.getByRole('button', { name: 'ניקוי הסל' })
-        this.expandCartBtn3 =page.getByRole('button', { name: ' כן, רוקנו את הסל' })
-       
+        this.expandCartBtn2 = page.getByRole('button', { name: 'ניקוי הסל' });
+        this.expandCartBtn3 = page.getByRole('button', { name: ' כן, רוקנו את הסל' });
     }
 
     private async searchAndEnter(product: string) {
@@ -37,68 +36,51 @@ export class HomePage {
         logger.info(`הוזן מוצר: ${product}`);
     }
 
-async checkCartAndExpandIfNeeded() {
-    logger.info("⏳ מנסה לוודא שהאלמנט של הסל מופיע...");
-    const isVisible = await this.cartCount.isVisible();
+    async checkCartAndExpandIfNeeded() {
+        const countText = await this.cartCount.innerText();
+        const numericCount = parseInt(countText.replace(/[^\d]/g, ''), 10);
 
-    if (!isVisible) {
-        logger.warn("⚠️ האלמנט של הסל לא הופיע. מצלמה...");
-        await this.page.screenshot({ path: 'cart-not-visible.png' });
-        return;
+        logger.info(`🛒 מספר פריטים בסל בתחילת הבדיקה: ${numericCount}`);
+        allure.attachment('Cart Item Count', `${numericCount}`, 'text/plain');
+
+        if (numericCount > 0) {
+            logger.info("📦 הסל לא ריק - מבצע לחיצה לפתיחת הסל");
+            await this.page.waitForLoadState('networkidle');
+            await this.expandCartBtn.click();
+            await this.page.waitForLoadState('networkidle');
+            await this.expandCartBtn2.click();
+            await this.page.waitForLoadState('networkidle');
+            await this.expandCartBtn3.click();
+            await this.page.waitForLoadState('networkidle');
+            await this.expandCartBtn.click();
+        } else {
+            logger.info("✅ הסל ריק - ממשיכים ללא פתיחה");
+        }
     }
 
-    const countText = await this.cartCount.innerText();
-    const numericCount = parseInt(countText.replace(/[^\d]/g, ''), 10);
-
-    logger.info(`🛒 מספר פריטים בסל בתחילת הבדיקה: ${numericCount}`);
-    allure.attachment('Cart Item Count', `${numericCount}`, 'text/plain');
-
-    if (numericCount > 0) {
-        logger.info("📦 הסל לא ריק - מבצע לחיצה לפתיחת הסל");
-        await this.expandCartBtn.click();
-        await this.expandCartBtn2.click();
-        await this.expandCartBtn3.click();
-        await this.expandCartBtn.click();
-    } else {
-        logger.info("✅ הסל ריק - ממשיכים ללא פתיחה");
-    }
-}
-
-
-async navigate() {
-    await this.page.waitForLoadState('networkidle');
-    logger.info("🌐 טעינת העמוד הושלמה");
-
-    try {
-        logger.info("⏳ מוודא ששלב 1 מופיע...");
-        await this.step.waitFor({ state: 'visible', timeout: 20000 });
-        logger.info("✅ שלב 1 הופיע, לוחץ...");
+    async navigate() {
+        await this.page.waitForLoadState('networkidle');
+        await expect(this.step).toBeVisible({ timeout: 15000 });
         await this.step.click();
 
-        logger.info("⏳ מוודא ששלב 2 מופיע...");
-        await this.step2.waitFor({ state: 'visible', timeout: 20000 });
-        logger.info("✅ שלב 2 הופיע, לוחץ...");
+        await this.page.waitForLoadState('networkidle');
+        await expect(this.step2).toBeVisible({ timeout: 15000 });
         await this.step2.click();
 
         const products = ["גבינה", "ביצים", "חלב"];
         for (const product of products) {
-            logger.info(`🔍 מחפש מוצר: ${product}`);
+            await this.page.waitForLoadState('networkidle');
             await this.searchAndEnter(product);
         }
 
-        logger.info("✅ כל המוצרים הוזנו. לוחץ על אישור...");
-        await this.confirm.waitFor({ state: 'visible', timeout: 20000 });
+        await this.page.waitForLoadState('networkidle');
+        await expect(this.confirm).toBeVisible({ timeout: 15000 });
         await this.confirm.click();
-        logger.info("📦 לחצנו על אישור בהצלחה");
-    } catch (err) {
-        logger.error("❌ שגיאה בניווט: " + err);
-        await this.page.screenshot({ path: 'navigate-error.png', fullPage: true });
-        throw err;
+        logger.info("לחצנו לאישור");
     }
-}
-
 
     async calculate() {
+        await this.page.waitForLoadState('networkidle');
         const firstInput = this.allInputs.first();
         await expect(firstInput).toBeVisible({ timeout: 13000 });
         await firstInput.focus();
@@ -126,6 +108,7 @@ async navigate() {
     }
 
     async button() {
+        await this.page.waitForLoadState('networkidle');
         const second = this.allInputs.nth(2);
         await expect(second).toBeVisible({ timeout: 3000 });
         await second.focus();
