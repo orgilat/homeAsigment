@@ -14,9 +14,10 @@ allure-report/
 .DS_Store
 Thumbs.db
 
-# קבצים של סביבת פיתוח
+# קבצי סביבת פיתוח
 .vscode/
 .idea/
 
-# קבצי סביבה
+# קבצי סביבה רגישים
 .env
+LoginAuth.json
