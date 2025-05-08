@@ -32,11 +32,12 @@ export class SecondPage {
         await this.page.waitForLoadState('networkidle');
 
         const itemCount = await this.step.count();
-        logger.warn(`המספר פריטים עם הקלאס הזה: ${itemCount}`);
+        logger.warn(`🧾 מספר פריטים עם הקלאס הזה: ${itemCount}`);
 
         const rawText = await this.totalPrice.innerText();
         logger.info(`💸 הסכום לתשלום כפי שמוצג באתר: ${rawText.trim()}`);
 
+        // מעבר ללוגו ופרסומת
         await this.logo.click();
         await this.page.waitForLoadState('networkidle');
 
@@ -44,30 +45,33 @@ export class SecondPage {
         const adText = await this.picture.getAttribute('aria-label');
         logger.info(`📢 טקסט מתוך הפרסומת (aria-label): ${adText}`);
 
-        await this.expandCartBtn.waitFor({ state: 'visible', timeout: 7000 });
+        // פתיחת סל
+        await expect(this.expandCartBtn).toBeVisible({ timeout: 7000 });
         await this.page.waitForTimeout(1000);
         await this.expandCartBtn.click();
+        logger.info("📂 פתחנו את הסל");
 
-        logger.info("📂 סוגרים");
+        // ניווט לרשימות
         await this.page.waitForLoadState('networkidle');
         await this.one.click();
-        logger.info("📁 עברנו ל- רשימות שלי");
+        logger.info("📁 עברנו ל־'הרשימות שלי'");
         await this.page.waitForLoadState('networkidle');
         await this.two.click();
 
+        // סימון צ'קבוקס
         await this.page.waitForTimeout(2000);
-        await this.checkbox.waitFor({ state: 'visible', timeout: 5000 });
+        await expect(this.checkbox).toBeVisible({ timeout: 5000 });
         await this.checkbox.click();
-
         await this.page.waitForLoadState('networkidle');
 
+        // בדיקת כמות
         const counter = await this.alone.count();
-        logger.warn(`המספר פריטים עם הקלאס הזה: ${counter}`);
+        logger.warn(`🔢 כמות פריטים בפועל בעמוד: ${counter}`);
 
-        const stepingto1 = await this.compare.innerText();
-        const steping2 = parseInt(stepingto1.replace(/[^\d]/g, ''), 10);
-        logger.warn(`המספר פריטים עם להוספה הקלאס הזה: ${steping2}`);
+        const compareText = await this.compare.innerText();
+        const expectedCount = parseInt(compareText.replace(/[^\d]/g, ''), 10);
+        logger.warn(`🧮 מספר צפוי לפי אזור ההשוואה: ${expectedCount}`);
 
-        expect(counter, '❌ מספר הפריטים לאחר ההוספה לא תואם לציפייה').toBe(steping2 + 1);
+        expect(counter, '❌ מספר הפריטים לאחר ההוספה לא תואם לציפייה').toBe(expectedCount + 1);
     }
 }

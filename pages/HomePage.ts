@@ -37,7 +37,7 @@ export class HomePage {
     }
 
     async checkCartAndExpandIfNeeded() {
-        await this.cartCount.waitFor({ state: 'visible', timeout: 10000 });
+        await expect(this.cartCount).toBeVisible({ timeout: 10000 });
         const countText = await this.cartCount.innerText();
         const numericCount = parseInt(countText.replace(/[^\d]/g, ''), 10);
 
