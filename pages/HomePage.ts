@@ -24,7 +24,8 @@ export class HomePage {
         this.allInputs = page.locator('//input[@max="100"]');
         this.minusc = page.locator('text="כמות המינימלית בקניה 1 יח\'"');
         this.sal = page.locator('//button[contains(@class,"result-btn btn-sticky")]');
-        this.cartCount = page.locator('#cartTotalItems');
+        this.cartCount = page.locator('//span[@class="number miglog-regular"]');
+
         this.expandCartBtn = page.locator('//button[@data-focus="#cartMiddleContent"]');
         this.expandCartBtn2 =page.getByRole('button', { name: 'ניקוי הסל' })
         this.expandCartBtn3 =page.getByRole('button', { name: ' כן, רוקנו את הסל' })
