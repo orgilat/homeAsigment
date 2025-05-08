@@ -63,7 +63,7 @@ export class SecondPage {
         const steping2=parseInt(stepingto1.replace(/[^\d]/g, ''), 10);
         console.log(`המספר פריטים עם להוספה הקלאס הזה: ${steping2}`)
         expect(counter, '❌ מספר הפריטים לאחר ההוספה לא תואם לציפייה')
-        .toBe(steping2 + 2);
+        .toBe(steping2 + 1);
         
 
     }

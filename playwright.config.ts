@@ -8,7 +8,6 @@ export default defineConfig({
     storageState: 'LoginAuth.json',
     screenshot: 'only-on-failure',
     video: { mode: 'on', size: { width: 1281, height: 720 } },
-
     viewport: { width: 1280, height: 720 },
   },
   reporter: [
