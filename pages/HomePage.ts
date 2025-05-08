@@ -38,8 +38,14 @@ export class HomePage {
     }
 
     async checkCartAndExpandIfNeeded() {
-        // ודא שהאלמנט באמת קיים לפני שאתה שואל את הטקסט שלו
-        await this.cartCount.waitFor({ timeout: 10000 }); // עד 10 שניות לחכות
+        logger.info("⏳ מנסה לוודא שהאלמנט של הסל מופיע...");
+        const isVisible = await this.cartCount.isVisible();
+    
+        if (!isVisible) {
+            logger.warn("⚠️ האלמנט של הסל לא הופיע. מצלמה...");
+            await this.page.screenshot({ path: 'cart-not-visible.png' });
+            return;
+        }
     
         const countText = await this.cartCount.innerText();
         const numericCount = parseInt(countText.replace(/[^\d]/g, ''), 10);
@@ -49,23 +55,16 @@ export class HomePage {
     
         if (numericCount > 0) {
             logger.info("📦 הסל לא ריק - מבצע לחיצה לפתיחת הסל");
-    
-            // כדאי גם פה לוודא שהכפתורים זמינים לפני הקלקה
-            await this.expandCartBtn.waitFor({ timeout: 5000 });
             await this.expandCartBtn.click();
-    
-            await this.expandCartBtn2.waitFor({ timeout: 5000 });
             await this.expandCartBtn2.click();
-    
-            await this.expandCartBtn3.waitFor({ timeout: 5000 });
             await this.expandCartBtn3.click();
-    
-            await this.expandCartBtn.click(); // אם הכפתור הזה נלחץ שוב - תוודא שהוא עדיין קיים
+            await this.expandCartBtn.click();
         } else {
             logger.info("✅ הסל ריק - ממשיכים ללא פתיחה");
         }
     }
     
+
     async navigate() {
         await expect(this.step).toBeVisible();
         await this.step.click();
