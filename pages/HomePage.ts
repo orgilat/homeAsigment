@@ -37,48 +37,56 @@ export class HomePage {
         logger.info(`הוזן מוצר: ${product}`);
     }
 
-    async checkCartAndExpandIfNeeded() {
-        logger.info("⏳ מנסה לוודא שהאלמנט של הסל מופיע...");
-        const isVisible = await this.cartCount.isVisible();
-    
-        if (!isVisible) {
-            logger.warn("⚠️ האלמנט של הסל לא הופיע. מצלמה...");
-            await this.page.screenshot({ path: 'cart-not-visible.png' });
-            return;
-        }
-    
-        const countText = await this.cartCount.innerText();
-        const numericCount = parseInt(countText.replace(/[^\d]/g, ''), 10);
-    
-        logger.info(`🛒 מספר פריטים בסל בתחילת הבדיקה: ${numericCount}`);
-        allure.attachment('Cart Item Count', `${numericCount}`, 'text/plain');
-    
-        if (numericCount > 0) {
-            logger.info("📦 הסל לא ריק - מבצע לחיצה לפתיחת הסל");
-            await this.expandCartBtn.click();
-            await this.expandCartBtn2.click();
-            await this.expandCartBtn3.click();
-            await this.expandCartBtn.click();
-        } else {
-            logger.info("✅ הסל ריק - ממשיכים ללא פתיחה");
-        }
+async checkCartAndExpandIfNeeded() {
+    logger.info("⏳ מנסה לוודא שהאלמנט של הסל מופיע...");
+    const isVisible = await this.cartCount.isVisible();
+
+    if (!isVisible) {
+        logger.warn("⚠️ האלמנט של הסל לא הופיע. מצלמה...");
+        await this.page.screenshot({ path: 'cart-not-visible.png' });
+        return;
     }
-    
 
-    async navigate() {
-        await expect(this.step).toBeVisible();
-        await this.step.click();
-        await expect(this.step2).toBeVisible();
-        await this.step2.click();
+    const countText = await this.cartCount.innerText();
+    const numericCount = parseInt(countText.replace(/[^\d]/g, ''), 10);
 
-        const products = ["גבינה", "ביצים", "חלב"];
-        for (const product of products) {
-            await this.searchAndEnter(product);
-        }
+    logger.info(`🛒 מספר פריטים בסל בתחילת הבדיקה: ${numericCount}`);
+    allure.attachment('Cart Item Count', `${numericCount}`, 'text/plain');
 
-        await this.confirm.click();
-        logger.info("לחצנו לאישור");
+    if (numericCount > 0) {
+        logger.info("📦 הסל לא ריק - מבצע לחיצה לפתיחת הסל");
+        await this.expandCartBtn.click();
+        await this.expandCartBtn2.click();
+        await this.expandCartBtn3.click();
+        await this.expandCartBtn.click();
+    } else {
+        logger.info("✅ הסל ריק - ממשיכים ללא פתיחה");
     }
+}
+
+
+async navigate() {
+    logger.info("⏳ מוודא ששלב 1 מופיע...");
+    await this.step.waitFor({ state: 'visible', timeout: 10000 });
+    logger.info("✅ שלב 1 הופיע, לוחץ...");
+    await this.step.click();
+
+    logger.info("⏳ מוודא ששלב 2 מופיע...");
+    await this.step2.waitFor({ state: 'visible', timeout: 10000 });
+    logger.info("✅ שלב 2 הופיע, לוחץ...");
+    await this.step2.click();
+
+    const products = ["גבינה", "ביצים", "חלב"];
+    for (const product of products) {
+        logger.info(`🔍 מחפש מוצר: ${product}`);
+        await this.searchAndEnter(product);
+    }
+
+    logger.info("✅ כל המוצרים הוזנו. לוחץ על אישור...");
+    await this.confirm.waitFor({ state: 'visible', timeout: 10000 });
+    await this.confirm.click();
+    logger.info("📦 לחצנו על אישור בהצלחה");
+}
 
     async calculate() {
         const firstInput = this.allInputs.first();
