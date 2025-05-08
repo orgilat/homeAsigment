@@ -11,14 +11,16 @@ async function globalSetup() {
   // ניסיון לסגור פרסומת (אם קיימת)
   await page.locator('.dy-lb-close').click().catch(() => {});
 
-  // לחיצה על כפתור "כניסה"
+  // לחיצה על כפתור "כניסה" - חכה לוודא שהלוקייטור נטען
+  await page.locator('a.linkEnter').waitFor({ state: 'visible', timeout: 30000 });
   await page.locator('a.linkEnter').click();
 
   // מילוי פרטי התחברות
   await page.fill('#j_username', 'orgilat123@gmail.com');
   await page.fill('#j_password', 'Gilateam1!');
 
-  // לחיצה על כפתור הכניסה
+  // לחיצה על כפתור הכניסה - חכה לוודא שהלוקייטור נטען
+  await page.getByRole('button', { name: 'כניסה' }).waitFor({ state: 'visible', timeout: 30000 });
   await page.getByRole('button', { name: 'כניסה' }).click();
 
   // שמירת סטוראג'

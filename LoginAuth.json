@@ -2,7 +2,7 @@
   "cookies": [
     {
       "name": "taboola_session_id",
-      "value": "v2_9cbcd8fea6b64337b37ddb08422d843f_f6388810-d849-4640-be07-5b4848fecb84-tuctf164a22_1746715812_1746715815_CNawjgYQs-hnGKjXgIPrMiACKAMwZjiI6wpAr5AQSM_S2ANQ____________AVgAYABojoHKouiN7vRTcAGAAQA",
+      "value": "v2_050636a92a86d06b21a46bca471a9ddc_08ed5913-1c37-4497-8fc3-646fa16c2d5d-tuctf164c61_1746716388_1746716392_CNawjgYQs-hnGInxo4PrMiACKAMwZjiI6wpAr5AQSM_S2ANQ____________AVgAYABop8Ko067xrMY2cAGAAQA",
       "domain": ".taboola.com",
       "path": "/zenithdigital-shufersalonline-sc/",
       "expires": -1,
@@ -12,7 +12,7 @@
     },
     {
       "name": "f5avraaaaaaaaaaaaaaaa_session_",
-      "value": "PHNCDHJFNPICHHCIKDAEPGNPCIMPONDJGEHMJMODFEJIADCCMLGLEGJJNFIJKIEMELEDPBIMFECPEFDGKIKANFNAFMOKLPEFFGKOCICIMLANOCMJOMPCDJMAOEKIMOCF",
+      "value": "MDMBFJEKPEIALAMPIBIOMHGFNNEHHEBOJDEPLNKMKBNPEOJEGAPONMECECBFILMLPAJDOBKNGGBJOBMEGPHADBBBJMJAKGEGMFLICFEMGBMKPFCMKEPIBELFGNLOIIFI",
       "domain": "www.shufersal.co.il",
       "path": "/LandingPages/imc/scripts",
       "expires": -1,
@@ -22,7 +22,7 @@
     },
     {
       "name": "taboola_session_id",
-      "value": "v2_d4ceb59f03584064ac089cc491354db8_f6388810-d849-4640-be07-5b4848fecb84-tuctf164a22_1746715810_1746715815_CNawjgYQkbdQGKjXgIPrMiACKAEwZjiI6wpAr5AQSM_S2ANQ____________AVgAYABojoHKouiN7vRTcAGAAQA",
+      "value": "v2_94be11d2e8e06d74f1d85c9407cdafcc_08ed5913-1c37-4497-8fc3-646fa16c2d5d-tuctf164c61_1746716385_1746716392_CNawjgYQkbdQGInxo4PrMiACKAEwZjiI6wpAr5AQSM_S2ANQ____________AVgAYABop8Ko067xrMY2cAGAAQA",
       "domain": ".taboola.com",
       "path": "/yoyo-shufersal-video/",
       "expires": -1,
@@ -32,17 +32,17 @@
     },
     {
       "name": "miglog-cart",
-      "value": "948aa510-a3b7-4a5b-b47a-a501172590f0",
+      "value": "9079873d-8f60-4ee3-a549-b0b60a8402e0",
       "domain": "www.shufersal.co.il",
       "path": "/online",
-      "expires": 1778251814.645656,
+      "expires": 1778252391.149282,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "XSRF-TOKEN",
-      "value": "c17e50aa-c595-4ec7-8aa0-9405fd8747e0",
+      "value": "d8978458-c0bb-4554-b1e8-83fb27cd423a",
       "domain": "www.shufersal.co.il",
       "path": "/online",
       "expires": -1,
@@ -52,7 +52,7 @@
     },
     {
       "name": "JSESSIONID",
-      "value": "6CAEAEFAD8E198ADC1250CDE52EC5AC5",
+      "value": "C92EDADEA192D213D0BF29214E6E1E63",
       "domain": "www.shufersal.co.il",
       "path": "/online",
       "expires": -1,
@@ -62,17 +62,17 @@
     },
     {
       "name": "miglogstorefrontRememberMe",
-      "value": "b3JnaWxhdDEyM0BnbWFpbC5jb206MTc3ODI1MTgxNjM0MDo3MDQwYzFhNTcxZTc5NjQyYjllYzBkYTM0Mzk3MGFmYg",
+      "value": "b3JnaWxhdDEyM0BnbWFpbC5jb206MTc3ODI1MjM5MjkzNzo2NjVjMDNhYjgwYjQ4YTg2MDBhYmNjZWFlZjI4NDhjZQ",
       "domain": "www.shufersal.co.il",
       "path": "/online",
-      "expires": 1778251815.839647,
+      "expires": 1778252392.411448,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "TS0182e4cc",
-      "value": "0135176ca74df91ffd02c798c1454bd7cb9572d94a46f6c7105cc7f492e026bc681624edc5c4360aa8ad5f3d924f9a43ed4e2ebdf7e82d1a7a5ad3718491d54dbd98a490353fe912d85502c8d8d1dfbdd6a533eb6f6ec95e6b3c1d5768229e939284a370ce0168df7596924cf15e127748977e5184",
+      "value": "0135176ca748c44a2e543e1ed98dc607fe7f171bdb14594e9e818ae7b2cc4b3ac6c8e4ef3edf689fa37e8b417db18794debfe01a9d074d1f15513920576c75fc2de6d3009f0156a35bc4cbda69860343d8ca394621b3182e05ff868d3654b5da8a2602bf3a3dd39bdd6049b0be62f51d9e7f581105",
       "domain": "www.shufersal.co.il",
       "path": "/online",
       "expires": -1,
@@ -82,10 +82,10 @@
     },
     {
       "name": "_dyjsession",
-      "value": "izwow35xan0wy3h8fxrbufdgokmi2ivs",
+      "value": "j9jw0bcnh89abc2j9qm9n5tv0f68s7kp",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1746717614.284854,
+      "expires": 1746718192.937028,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -102,10 +102,10 @@
     },
     {
       "name": "_dyid",
-      "value": "7300335951197029535",
+      "value": "7201256750804944608",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1749307815,
+      "expires": 1749308391,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -115,7 +115,7 @@
       "value": "IL.AS.IL_M.IL_M_Rishon%20LeTsiyyon",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1749307815,
+      "expires": 1749308391,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -125,14 +125,24 @@
       "value": "Israel..Rishon%20LeTsiyyon",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1749307815,
+      "expires": 1749308391,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dy_toffset",
+      "value": "0",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1749308391,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "TSe2d96f83027",
-      "value": "08ee439653ab2000e0333ff81b4ca41d3e6af21c13403d15c18018b0d4232fa388a3eb797432c6fb081313917211300017b72d3dda159f66c2f0912234bdd29dc041f338c02990f6b5866f5c77c6015e9ad5e54ebd10ad69305c357357dcecb2",
+      "value": "08ee439653ab20009da88b5d66060815e37ce4a1197fa47f6b60a7189d955198a08dd9276287f6df0801a7f24111300043588eb19f50ebf93d470637e56bb32d7af486c4db4055106e6373b87ae7c8bcf92f79a078698ff35518ca64b4f26893",
       "domain": "www.shufersal.co.il",
       "path": "/",
       "expires": -1,
@@ -142,7 +152,7 @@
     },
     {
       "name": "YSC",
-      "value": "e8CfkB3tcOQ",
+      "value": "8o4ddA5uRhc",
       "domain": ".youtube.com",
       "path": "/",
       "expires": -1,
@@ -152,161 +162,141 @@
     },
     {
       "name": "VISITOR_INFO1_LIVE",
-      "value": "L0QxAXOq6Ts",
+      "value": "N1lf9tOMupA",
       "domain": ".youtube.com",
       "path": "/",
-      "expires": 1762267814.421056,
+      "expires": 1762268390.99773,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "VISITOR_PRIVACY_METADATA",
-      "value": "CgJJTBIEGgAgNg%3D%3D",
+      "value": "CgJJTBIEGgAgVA%3D%3D",
       "domain": ".youtube.com",
       "path": "/",
-      "expires": 1762267814.42113,
+      "expires": 1762268390.997792,
       "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "li_sugr",
-      "value": "313c964e-a2e1-43bc-8bfa-f153d7ad7419",
-      "domain": ".linkedin.com",
-      "path": "/",
-      "expires": 1754491815.07651,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "bcookie",
-      "value": "\"v=2&8ae55912-2629-417f-89f4-59e056d0504d\"",
-      "domain": ".linkedin.com",
-      "path": "/",
-      "expires": 1778251816.07656,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "lidc",
-      "value": "\"b=VGST02:s=V:r=V:a=V:p=V:g=3526:u=1:x=1:i=1746715808:t=1746802208:v=2:sig=AQHPJvrHZqX-xAKXBmDFBWjmx8dHuAhg\"",
-      "domain": ".linkedin.com",
-      "path": "/",
-      "expires": 1746802208.363884,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "g",
-      "value": "LIeYaIRytGR3DD94HdfV_1746715809170",
-      "domain": ".creativecdn.com",
-      "path": "/",
-      "expires": 1778251808.597532,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "c",
-      "value": "LIeYaIRytGR3DD94HdfV_0p0yQSDDb7AnVjAmJQpQ_1746715809170",
-      "domain": ".creativecdn.com",
-      "path": "/",
-      "expires": 1778251808.597577,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "ts",
-      "value": "1746715809",
-      "domain": ".creativecdn.com",
-      "path": "/",
-      "expires": 1778251808.597599,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "NID",
-      "value": "523=Tm1l4ej6hts480Y2f3oaWe5LfaniSS7i2blAqsbNcksMPTh6JT0rHfiqjjRUgRspjBBGCBRKBxhw0BeVHRdJ0Lv-4pAth1dSN5I9bRGNNBa_Hwz9z37L6qby9st0yxpJC6duKCSiF67CU0hpbRHTjmQHBJv1xxXKT8bm8NLoiq8zhX_AteQhhawjcAlbEczl",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1762527009.356927,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "UserMatchHistory",
-      "value": "AQKItIviup8joQAAAZawYBmg008iSwcjw_OT7AloTiZx0zUL7zzKfKKSLd5XpRKvZEyxgDXEVIF7XA",
-      "domain": ".linkedin.com",
-      "path": "/",
-      "expires": 1749307809.668908,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "AnalyticsSyncHistory",
-      "value": "AQJAGHcoLSGetQAAAZawYBmg7zNhOyDnaL-eEDpuDWUrmK39ad_uS1ECzv3OmMO3pfkioCqUrdS7jBrqGfJHGQ",
-      "domain": ".linkedin.com",
-      "path": "/",
-      "expires": 1749307809.668927,
-      "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "t_gid",
-      "value": "f6388810-d849-4640-be07-5b4848fecb84-tuctf164a22",
+      "value": "08ed5913-1c37-4497-8fc3-646fa16c2d5d-tuctf164c61",
       "domain": ".taboola.com",
       "path": "/",
-      "expires": 1778251814.982987,
+      "expires": 1778252391.849106,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "t_pt_gid",
-      "value": "f6388810-d849-4640-be07-5b4848fecb84-tuctf164a22",
+      "value": "08ed5913-1c37-4497-8fc3-646fa16c2d5d-tuctf164c61",
       "domain": ".taboola.com",
       "path": "/",
-      "expires": 1778251814.983039,
+      "expires": 1778252391.849183,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
-      "name": "receive-cookie-deprecation",
-      "value": "1",
-      "domain": ".taboola.com",
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CMvDgMev5Jm9ggEQ4rfBzZGUjQMY1ILMzZGUjQM%3D",
+      "domain": ".youtube.com",
       "path": "/",
-      "expires": 1778251814.983079,
+      "expires": 1762268385.416459,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "IDE",
-      "value": "AHWqTUkRpOezP8jFNsewX-VCUSsqdOWNasOImmZKHrJwCCF1DMeVNjm6PIlQMEcg",
+      "value": "AHWqTUkQzOdVWfVcjbvfwlNtyeFPVQtoPRevy8zBVTct8SptpRI7GY_z6Ybp7_9K",
       "domain": ".doubleclick.net",
       "path": "/",
-      "expires": 1781275809.882798,
+      "expires": 1781276385.426734,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
-      "name": "bscookie",
-      "value": "\"v=1&20250508145010809169e6-f800-4c5e-8857-a9d2018f0475AQGt20-4Ty9aFwxaW8whjiWJ-nLYUVo2\"",
-      "domain": ".www.linkedin.com",
+      "name": "li_sugr",
+      "value": "2c689031-d61a-4041-ac15-000e4d2da418",
+      "domain": ".linkedin.com",
       "path": "/",
-      "expires": 1778251810.928021,
-      "httpOnly": true,
+      "expires": 1754492391.792226,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&f44e2e40-62f6-494b-8662-c00024abc825\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1778252392.79226,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=OGST02:s=O:r=O:a=O:p=O:g=3559:u=1:x=1:i=1746716385:t=1746802785:v=2:sig=AQGz7bjYgEtpchRfRavusIn7Kg5eKWhg\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1746802785.427244,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "g",
+      "value": "0Zu2hoyvrEUcVFb79PRN_1746716386043",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1778252385.465494,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "0Zu2hoyvrEUcVFb79PRN_0p0yQSDDb7AnVjAmJQpQ_1746716386043",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1778252385.46554,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ts",
+      "value": "1746716386",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1778252385.46556,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQLT7MOQkJiH6AAAAZawaOcZF62vdo8WzBwt3NVU0wYfdgTn_d_PFWqCbgoIw1jXbglMoMKVAR_mJA",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1749308386.592046,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQKp7YgOYWITkwAAAZawaOcZG66GZ8c8_m3wDFqGW3jUm7_vMShpnqENLZD7R5A9NMaSWwLMmk6-9BjuC_eCBA",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1749308386.59206,
+      "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
@@ -315,27 +305,47 @@
       "value": "1",
       "domain": ".creativecdn.com",
       "path": "/",
-      "expires": 1778251810.278671,
+      "expires": 1778252386.700259,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&202505081459476e6d044d-edb0-40e1-84de-22375055f191AQFdMk2H51kmEi1yTFHXmOksuQflcIo4\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1778252387.095046,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "YoS9yMWgHJZrFYvpjVBbf0sR_fTrYQr6R2ze3q.b21Q-1746716387-1.0.1.1-3544xnKGMApL8lIjEyqZGtn49YW7pPKLG.Ld37qS8efzOt26jLTAHMtWfonoYBmjqGA2LeFwmkBPWDZVRXJf9pB5DAJTIE4N.QsK04NLh0E",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1746718187.095103,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "dicbo_id",
-      "value": "%7B%22dicbo_fetch%22%3A1746715810671%7D",
+      "value": "%7B%22dicbo_fetch%22%3A1746716387353%7D",
       "domain": "www.shufersal.co.il",
       "path": "/",
-      "expires": 1746716110,
+      "expires": 1746716687,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "_gid",
-      "value": "GA1.3.318786897.1746715811",
+      "value": "GA1.3.226662399.1746716387",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1746802214,
+      "expires": 1746802791,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -345,7 +355,7 @@
       "value": "1",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1746715870,
+      "expires": 1746716447,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -355,107 +365,47 @@
       "value": "1",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1746715870,
+      "expires": 1746716447,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "ar_debug",
-      "value": "1",
-      "domain": ".doubleclick.net",
+      "name": "_fbp",
+      "value": "fb.2.1746716388106.248311018494790041",
+      "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1749307815.055396,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
+      "expires": 1754492392,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
     },
     {
       "name": "receive-cookie-deprecation",
       "value": "1",
       "domain": ".doubleclick.net",
       "path": "/",
-      "expires": 1762267815.274323,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "_fbp",
-      "value": "fb.2.1746715811269.935253428254530327",
-      "domain": ".shufersal.co.il",
-      "path": "/",
-      "expires": 1754491815,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_hjSessionUser_2800675",
-      "value": "eyJpZCI6IjNmNWI4YjFjLWZkNGMtNTU4ZS04MmU2LWI3YTc2OTViNjE4NiIsImNyZWF0ZWQiOjE3NDY3MTU4MTE0NTgsImV4aXN0aW5nIjp0cnVlfQ==",
-      "domain": ".shufersal.co.il",
-      "path": "/",
-      "expires": 1778251815,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "XANDR_PANID",
-      "value": "d1C8PPr8VdXV8b-kHipJ5VdcSkHiOGsJVkK9wDRxJYnx-j-eJiYwzZdgN5ob3C7zZUoPE5lRO8r13BdxrHiOaakPhypSGyz9xmNb-nTIXj8.",
-      "domain": ".adnxs.com",
-      "path": "/",
-      "expires": 1754491812.446589,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "uuid2",
-      "value": "4017016925103060051",
-      "domain": ".adnxs.com",
-      "path": "/",
-      "expires": 1754491812.446676,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "_hjSession_2800675",
-      "value": "eyJpZCI6IjRlYTZmYjc4LTU4NTctNDI2Zi1iNzk4LWEyM2FjYTIwMmRjOSIsImMiOjE3NDY3MTU4MTE0NTksInMiOjEsInIiOjEsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
-      "domain": ".shufersal.co.il",
-      "path": "/",
-      "expires": 1746717612,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "anj",
-      "value": "dTM7k!M4/rD>6NRF']wIg2E>:ic+HP!@wnfH1YbZRGH!W=3>LYm=j+.ky=K`4hr^?a*n+W8QMd<2Ci5]f^QgPYx0jB.P'wfhi6ooBD?41p9$R8%nugO%v4VB%nlhN-6bHG",
-      "domain": ".adnxs.com",
-      "path": "/",
-      "expires": 1754491812.446657,
+      "expires": 1762268392.216324,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "com.silverpop.iMAWebCookie",
-      "value": "864b3719-c5d0-73a4-0603-d3213cea81c3",
+      "value": "66ca9b19-ca3b-7721-7772-a21d1796eb2b",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1781275813.147794,
+      "expires": 1781276389.456263,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "com.silverpop.iMA.session",
-      "value": "1be7123b-8c6d-a78d-6dd0-4c01481e0444",
+      "value": "ac0071d4-1e2c-7799-c42c-c8cca8b86e6d",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1746717013,
+      "expires": 1746717589,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -465,94 +415,84 @@
       "value": "-2103592356:",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1746717013,
+      "expires": 1746717589,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "AWSALBCORS",
-      "value": "JP3Wqg7qk3JEA/0rIBkJYgvGNNlr5hEPAW4BWsHvCbuUNrtyCOpSun51RoCYoJbftye5Tb1e0tgQy7vLT0MBQ4C4oyw+0G3lYDl8GImbLmngixmmgA8Km1xD5cH6",
+      "value": "dhuZtAExxZiEuYrnni5V+f8YCb5C0PcJPjXXyCjTeVHXhkENfZc1OyPDNreoE0TZ9uqt9zkLGk8p3hBKFpc453YiuOe8QT3iyfsZ2by+2EYLhue0ZYFu0txshjtU",
       "domain": "www.pages06.net",
       "path": "/",
-      "expires": 1747320613.402499,
+      "expires": 1747321189.668427,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
-      "name": "__Secure-ROLLOUT_TOKEN",
-      "value": "CJL2jd7VoJDOHxCNy7a6j5SNAxjerf-8j5SNAw%3D%3D",
-      "domain": ".youtube.com",
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".doubleclick.net",
       "path": "/",
-      "expires": 1762267813.555032,
+      "expires": 1749308392.216268,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "_dy_soct",
-      "value": "1746715814!1469236.-7'2284968.0'2405890.0'2424921.0!",
+      "value": "1746716390!1469236.-6'2284968.0'2405890.0'2424921.0!",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1778251814,
+      "expires": 1778252390,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "_ga",
-      "value": "GA1.1.345597663.1746715810",
+      "value": "GA1.1.1774711398.1746716387",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1781275814.595185,
+      "expires": 1781276391.208687,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "_dy_toffset",
-      "value": "-1",
-      "domain": ".shufersal.co.il",
-      "path": "/",
-      "expires": 1749307815,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
       "name": "__rtbh.lid",
-      "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%224H6rAnXqtm3JjO2eZlv2%22%2C%22expiryDate%22%3A%222026-05-08T14%3A50%3A15.123Z%22%7D",
+      "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%221RNXq8KSR7sCdAX0nJFe%22%2C%22expiryDate%22%3A%222026-05-08T14%3A59%3A51.579Z%22%7D",
       "domain": "www.shufersal.co.il",
       "path": "/",
-      "expires": 1778251815,
+      "expires": 1778252391,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "_ga_0MFC0GEGNX",
-      "value": "GS2.1.s1746715811$o1$g1$t1746715815$j0$l0$h0",
+      "value": "GS2.1.s1746716388$o1$g1$t1746716391$j0$l0$h0",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1781275815.295253,
+      "expires": 1781276391.799094,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "_gcl_au",
-      "value": "1.1.707600691.1746715808.1275262132.1746715815.1746715815",
+      "value": "1.1.894096935.1746716385.1861286649.1746716392.1746716392",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1754491808,
+      "expires": 1754492385,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "acceleratorSecureGUID",
-      "value": "48a56433a5e7bba456b9392bb8675e04ec1bdfc7",
+      "value": "d78adeba4f29516dedd550e0545a4558971f504c",
       "domain": "www.shufersal.co.il",
       "path": "/",
       "expires": -1,
@@ -562,37 +502,37 @@
     },
     {
       "name": "accjwt",
-      "value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAtMjU2In0.zZV4WkCiJfOno2djkoLowNfh1N5gQaBxgFZIyGKzEemJo0VGYKCxKMjSMV0IVaz4DZiWjM8ou6ig2y7BZqpwij9JPSKpNQ1zcH-kqq5zH57YnwehG36KIFID44pzDhyVcX9iRtEN4IBaqB0DLkpdLa6YiI3SaYm-Y2FzFgl8hW1j96C7r5fpo2wyUIVeXYhqKbuh7HRJPM-EJhG5htKRFH-5vbXvuqcvyCPx1WgBsXT-YAFs8hFOpjjFt2jG51Uv20AYIR2F2gRpRmiSr0oGQzagYS0ITZ7i_hyiQBQiCANBoTq7v5EGVNzQmm03UjSFX_12E5boJ8IHgMkKHn6kkw.qrI9Js3BOo3dq7Lv.3S57Npv63_D_kHrovvbsHR_g7djVe7lmXWZbVOXOPiVkBZI4Y5RiBIzIbQ8QKWlyhEt6tAmS9uw2f3t9tt8ejkHG9vdNO8Zx_AeFI0fXl4sopWHZ0BfmAIbCuqCpyq5xQFPSvfP7zkSb79UnAJ-AE1VHlrvUizjbWTLbzxZS2KkAPO3zNMf04RKUh9zc3UqV4xC-ixwhSgyAwrV-8VwS2hzwzFDuwD_vig8dpIQeCz2XGR_ZcHog9ibC_5AHy-92WW-xO8-qBeabzl3Z2M2YGh8rOIsvNj5Xh2jtd_Bb9NjrFH1DhLTzcBwu-SqkZCDlofsOyLSkGru3tTR5QmC3j9bm6da_3-oqluRsTlSaU_Ql2eSb78fSYyCnY6Y7sqTNS14lLu0MCEiE2JEuJYHjkF9Zx3eTNUXbi3Lg60CwaTHrKBR-_OHkdnHagtriKdCsESX49Z8gMgSF6Grdxk9sAYxdIoKnOQ6Z5BUi2GEjbQkN0dEVGUIlDzToUaMCjQWTmCBldD69-P8Ozee6tdw-VIFhI9PId1Alb_QHDe_y_-SEn9LWcTDXh67WgKHx3x6B98KCqgxRUadHERsZkMBgR7obLxITa5rv4OolDanbFB7ze3G4WPrt540AA0uvmAH3hjlfqYn9I4DLPvoHGKHQF50m4bJksiGMedNdzd1iom_34bgpMp5dO6vsuh0-zk_ijhkhPGv3zzDBQfpNZ58Rs0Tfabh134F3fyrl3IAwk_6sQXgJIYtPuQmHAA-pLMRd1gTKO90ykqfn7YfaaK1GX7SDxrvJqC6O_HPr3Dm0LFWjFNZsBraPKVPEbFNQJF7wAHM2wVxB56J37mP_P6xW7rSNPFEazh-1cDaTsIhdGAtXHQe5P93mzmK3OgwQB82EoH-KbbmYT43VwA6OExIix8TWpGIhyW4ZG8by27pbYLlqC5Mu7D-SeG5to-WIaM8oNQdHgd3oAyKec9PecmZkDAms_IcIwVBXFmdecCutk-DFgBpA7o0imEIj0H0--tV9VpvWIOgMhGWL44rnck5z_ryzchrxqbFAofqOD72R3HLvHpDb4GZ7pCMiZ7rAnl1dC0ICISIkI56lbq4Gm88e-MZnXazi4JxbHaXX2LdlHAKBCzyDRuC4AhOBwyDAZSDBCWiApj4mW2CC-vrUxc0_9jEH6EP8PI403nolq4pnJi9IpPyIKfm4rgIETSOVuCZN11TyEDbLUhcQzNg0-kAiMDkpY5fHOxS5Jzb5CrMDSDbTyrc.bxpquJp41KdmcqNV40NWWQ",
+      "value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAtMjU2In0.W82wakJHtmYKKgocVXaofW_2MP-4j8Zm9JDrZ7HVC8dyPYbEstlXrs1Xo_eHNqxwTWTYeKyBH7Ht85YdvFlOYeiqhyTurViv0U8zpR7-VXdXOLheJ46BU9Xw3oe0DRBYGpOmthOCLDDrjIZ9-pe1qDZhbCqO7Kx1suyc2Qx3oJJ06AZcT9PGW0zPhho-FhMQfTfs7nr82IEFiQCLSiVyQVYDaKBHqDoOHT8ADX6go_CpTuGBlsSKYUZdcXXIIHUHiYPJ0sYVUbSpv0JNwFDhoo7fyUMQOhPurcRZJJYgaApkEeUywHKqgZUfaflVErMbjpxhBTHAwAFLSyNFgTEPrg.SQ_kiyosneKpjYRg.rl-c5cVOo4m9yhXNGlJL5r8fkc8YEmH5xSjj1O-oxuSFXkWJBzvEVvOB-RKHVnpblak_ttEVcSkzRdLnbB5PXFlI4QQBKdAP0Qz_5c4AHzaQ_carkQl5Bzg5B4VKS_Gxg7MpgnSK_VPbXO5kY-CaTxePJ2XiEq-WzkKXbceP3gLksuhEXVCRJvN-Y2of6-poKjOUwS2pN6Bz9S3CYR3egCC7GbbjxBp8coF-ST_4myoGhl5eNWF6pDtGDQbbuhn22SooA-yh5CRqE9dgMJOdJ8tnMegf1fi4GO0qzo0rl20u8R9gcsGbJJVIL5gPqreAbS-_qRQtocOHubzXWs6JS9PciVU4_DfYm8MNkHuBu9kq6UkJA9Z04Nw33osQ72EF-Me5Lvt0LI43o1ECn9GSn3TqpVQXYMdtVDAH1wfiiFcgcaNUd6Ojaf9H46MHro8Z9vIMfaWUWwxlsq3WR-Os4AkKMRW52-XTiQs9UJwrXJagIBrJSUlZuDYkGCEC2m49YDa1QNBVgZwYKXz5bDdRK7XCcl3bHSRmRN16XB0-6H8pFSkR_d3KmyNUCqMcxrN2A6qWcGMv-PEPpEnIx3VZ7E0yzlYJu5nV5iPWE_04ADA0qG9Kdbul2sJ2cOybjvu4xm-YenxmMLjvbJZJeq2Iw_zCbqZElYb__MML_QVxyZejzwtypX5aLHgPrC1lQoTHPgAE4lIDcvJvsPDhcS88kUEjNTq6MDe33tAmM2neaErdAWhqEd5Qv6H-WFAhDdJaQn2Ujb1FOVB3_6WfLuKyjM5xFBS4qAJ_C--7eajQKq1ws6EiQbQiF2pQOZcp7VvzvYCXV60lfQINMwP9ihFYTt5nul4TtaUTyJY2mzlMFWsC0_D3duTcQ74tvJbzPtXL6ePbgxJ4CGVHpWx0NcZPAtYC72y3BdXEGhU-xUDe5gBFgwxjuww-SaJ7lmSVkbrnVpoTE4dfSHiiaM0o_yjD0yRDJxIC2jqhW2QqXJvX9xOV8PEDRCqeHcgw5-KdAeymA3Y95IP3rNgfd9-YukpSs6j7JZLBXAW9_nfKHScNOc8vxC7FgdYQn0pkw3QiF9uuN542caNmrnHlhOjmr29hfWHFXl-KBUIFlauD7XwY_PGJ7Ov5kGNGvoBythDvJj-ssfUmJjQMhbJthjidDFSbUEIkEtirvxXnxSUmm9QGyq8V1S8FFPIE-sXdClfkiLjNUywl3A0X6ObsqtLGKwdtPO5SHAVnyxLWpyR7odGn8PTfWV8.2tRYaKWfk6asXtN1Lc-8dA",
       "domain": "www.shufersal.co.il",
       "path": "/",
-      "expires": 1778251815.839779,
+      "expires": 1778252392.411489,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "AWSALB",
-      "value": "4w+Xp8Jjo/U8CbvY0BGBawSil2NC5liO/SLq9UTZJZ8DIRfMNd/XzCGvs79409k5N4NlyglQ0YTPB2GPyCLoki8f/260cdB2rdlXundGW/az/VShl2kV66iaFgvN",
+      "value": "bXoOEDsz9TXGmSb92UDYHbP3kE/kmWW0VfJ5o57rLkursx5P5XBt++7Sg1RU5x/ljn/d3pvWHMgaIgUIdyu1d2Wbk04oKtfRRgjbyj+WTETrdJ0/TpkABVkYngmR",
       "domain": "www.shufersal.co.il",
       "path": "/",
-      "expires": 1747320616.212332,
+      "expires": 1747321193.021735,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "AWSALBCORS",
-      "value": "4w+Xp8Jjo/U8CbvY0BGBawSil2NC5liO/SLq9UTZJZ8DIRfMNd/XzCGvs79409k5N4NlyglQ0YTPB2GPyCLoki8f/260cdB2rdlXundGW/az/VShl2kV66iaFgvN",
+      "value": "bXoOEDsz9TXGmSb92UDYHbP3kE/kmWW0VfJ5o57rLkursx5P5XBt++7Sg1RU5x/ljn/d3pvWHMgaIgUIdyu1d2Wbk04oKtfRRgjbyj+WTETrdJ0/TpkABVkYngmR",
       "domain": "www.shufersal.co.il",
       "path": "/",
-      "expires": 1747320616.212555,
+      "expires": 1747321193.021918,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "TS01ac0f6e",
-      "value": "0135176ca7c5d7d1e188c89e51571b517f32faae4646f6c7105cc7f492e026bc681624edc55a4f20176a74dff7fd313e9f54e2bd6b4e1c96cad324d42633362bac6af11a3b1b2f450646af0d0a517a9b334b12e6be781763ec3326c57306f8148bd78358204c73690066ea3c4f15217d3a5039268ea820804c0848a0fca97ab99a68465276",
+      "value": "0135176ca79308bc489b6ce38cf1fd4adf91c115df14594e9e818ae7b2cc4b3ac6c8e4ef3ed3e75ff10068daa9d65001579294dd50c7cb230139a5015352b46f8263e6e61666c44d85b8e023636230d34cabc4b7bbc8992a6ba4a07d6d348a9c973f5611823102cc329d8b4e74d52bb226802902ffb6ad7a2b4950a7132c20be7ae45c1aa7",
       "domain": ".www.shufersal.co.il",
       "path": "/",
       "expires": -1,
@@ -602,7 +542,7 @@
     },
     {
       "name": "TS4c4a83a5027",
-      "value": "0874a88bc8ab2000c142f17d04c69e67b579803075797c400df8bc66bc2814b28fad28e1eaca5cc1085fd79818113000648529c22befc3d2f044aeb14133742a7cd539821bee166a1e7f7f94e6e87a1a71b1a43f099fc76f7b83270662791ea0",
+      "value": "0874a88bc8ab20006a4f3967a62b4c8c5d7d1456479b19d02ae5bc35f881eeada374735757535f5a0858f035a01130000d75fb26d32a7757fdc2d1cbd5fcd5bb9bb3a7b46d50ff8b77bda61c5cb83e413c4c854a81c72145528fdc2c523ccf51",
       "domain": "www.shufersal.co.il",
       "path": "/",
       "expires": -1,
@@ -612,10 +552,10 @@
     },
     {
       "name": "_ga_JNGKGQCSJD",
-      "value": "GS2.1.s1746715810$o1$g1$t1746715816$j54$l0$h0",
+      "value": "GS2.1.s1746716386$o1$g1$t1746716393$j53$l0$h0",
       "domain": ".shufersal.co.il",
       "path": "/",
-      "expires": 1781275816.228653,
+      "expires": 1781276393.033045,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -627,11 +567,11 @@
       "localStorage": [
         {
           "name": "1317777:session-data",
-          "value": "v2_d4ceb59f03584064ac089cc491354db8_f6388810-d849-4640-be07-5b4848fecb84-tuctf164a22_1746715810_1746715815_CNawjgYQkbdQGKjXgIPrMiACKAEwZjiI6wpAr5AQSM_S2ANQ____________AVgAYABojoHKouiN7vRTcAGAAQA"
+          "value": "v2_94be11d2e8e06d74f1d85c9407cdafcc_08ed5913-1c37-4497-8fc3-646fa16c2d5d-tuctf164c61_1746716385_1746716392_CNawjgYQkbdQGInxo4PrMiACKAEwZjiI6wpAr5AQSM_S2ANQ____________AVgAYABop8Ko067xrMY2cAGAAQA"
         },
         {
           "name": "_dyid",
-          "value": "7300335951197029535"
+          "value": "7201256750804944608"
         },
         {
           "name": "_dy_geo",
@@ -639,19 +579,15 @@
         },
         {
           "name": "__rtbh.lid",
-          "value": "{\"eventType\":\"lid\",\"id\":\"4H6rAnXqtm3JjO2eZlv2\",\"expiryDate\":\"2026-05-08T14:50:15.123Z\"}"
+          "value": "{\"eventType\":\"lid\",\"id\":\"1RNXq8KSR7sCdAX0nJFe\",\"expiryDate\":\"2026-05-08T14:59:51.579Z\"}"
         },
         {
           "name": "eng_mt",
-          "value": "{\"ver\":36,\"sessionStartTime\":1746715809650,\"scrollDepth\":0,\"sessionDepth\":[\"496619832\",\"804285664\"],\"timeOnSite\":5869,\"crossSessionsData\":{\"sessionsHistory\":[1746715809650]}}"
-        },
-        {
-          "name": "topicsLastReferenceTime",
-          "value": "1746715815491"
+          "value": "{\"ver\":36,\"sessionStartTime\":1746716385137,\"scrollDepth\":0,\"sessionDepth\":[\"496619832\",\"804285664\"],\"timeOnSite\":7045,\"crossSessionsData\":{\"sessionsHistory\":[1746716385137]}}"
         },
         {
           "name": "_dy_att_exps",
-          "value": "1466188|102368686::0:1746715807342:32188:82713:1:0:0.08617324684746563:0.5581504325382411|101608908:101448605|2|82713:1746715807343##1586960|103971799::0:1746715807347:32188:82713:1:0:0.3293223411310464:0.6543405849952251|101998551:102310626|2|82713:1746715807347##1624111|103684136::0:1746715807347:32188:82713:1:0:0.6567951142787933:0.0582637011539191|102119082:102625743|2|82713:1746715807347##1739079|103488111::0:1746715807344:32188:82713:1:0:0.013428950682282448:0.9302456781733781|102482006|2|82713:1746715814302##1774517|103623351::0:1746715807344:32188:82713:1:0:0.26800692081451416:0.08061174931935966|102599587|2|82713:1746715814302##1781151|103672344::0:1746715814302:1643:82713:2:3:0:0.8647418802138418|102625762:103950101|2|82713:1746715814302##1837347|103958162::0:1746715807349:32188:82713:1:0:0.5770024752710015:0.8278927821666002|102839526:104478516|2|82713:1746715807349"
+          "value": "1466188|102368686::0:1746716384508:5211:56585:1:0:0.8062796401791275:0.7682548151351511|101608908:101448605|2|56585:1746716384509##1586960|103971799::0:1746716384513:5211:56585:1:0:0.30920427525416017:0.622832189546898|101998551:102310626|2|56585:1746716384513##1624111|103684136::0:1746716384513:5211:56585:1:0:0.4848780937027186:0.29948910092934966|102119082:102625743|2|56585:1746716384513##1739079|103488111::0:1746716384510:5211:56585:1:0:0.9820045533124357:0.19105858937837183|102482006|2|56585:1746716390926##1774517|103623351::0:1746716384510:5211:56585:1:0:0.309477076632902:0.33096836833283305|102599587|2|56585:1746716390926##1781151|103672344::0:1746716390926:11146:56585:2:3:0:0.19604831049218774|102625762:103950101|2|56585:1746716390927##1837347|103958162::0:1746716384515:5211:56585:1:0:0.4719125060364604:0.6868218784220517|102839526:104478516|2|56585:1746716384515"
         },
         {
           "name": "_dy_tsrc",
@@ -659,11 +595,11 @@
         },
         {
           "name": "_dyexps",
-          "value": "1348943|101805070::0:1746715807012:32188:82713:2:3:0:0.8136425027623773|101280235:101115005|0|82713:1746715814289##1466188|102368686::0:1746715807342:32188:82713:1:0:0.08617324684746563:0.5581504325382411|101608908:101448605|1|82713:1746715807343##1586960|103971799::0:1746715807347:32188:82713:1:0:0.3293223411310464:0.6543405849952251|101998551:102310626|1|82713:1746715807347##1624111|103684136::0:1746715807347:32188:82713:1:0:0.6567951142787933:0.0582637011539191|102119082:102625743|1|82713:1746715807347##1739079|103488111::0:1746715807344:32188:82713:1:0:0.013428950682282448:0.9302456781733781|102482006:103587339|1|82713:1746715814301##1774517|103623351::0:1746715807344:32188:82713:1:0:0.26800692081451416:0.08061174931935966|102599587:103895947|1|82713:1746715814302##1781151|103672344::0:1746715814302:1643:82713:2:3:0:0.8647418802138418|102625762:103950101|1|82713:1746715814302##1837347|103958162::0:1746715807349:32188:82713:1:0:0.5770024752710015:0.8278927821666002|102839526:104478516|1|82713:1746715807349"
+          "value": "1348943|101805070::0:1746716384267:5211:56585:2:3:0:0.9251676837448031|101280235:101115005|0|56585:1746716390908##1466188|102368686::0:1746716384508:5211:56585:1:0:0.8062796401791275:0.7682548151351511|101608908:101448605|1|56585:1746716384508##1586960|103971799::0:1746716384513:5211:56585:1:0:0.30920427525416017:0.622832189546898|101998551:102310626|1|56585:1746716384513##1624111|103684136::0:1746716384513:5211:56585:1:0:0.4848780937027186:0.29948910092934966|102119082:102625743|1|56585:1746716384513##1739079|103488111::0:1746716384510:5211:56585:1:0:0.9820045533124357:0.19105858937837183|102482006:103587339|1|56585:1746716390926##1774517|103623351::0:1746716384510:5211:56585:1:0:0.309477076632902:0.33096836833283305|102599587:103895947|1|56585:1746716390926##1781151|103672344::0:1746716390926:11146:56585:2:3:0:0.19604831049218774|102625762:103950101|1|56585:1746716390927##1837347|103958162::0:1746716384515:5211:56585:1:0:0.4719125060364604:0.6868218784220517|102839526:104478516|1|56585:1746716384515"
         },
         {
           "name": "_gcl_ls",
-          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":2,\"creationTimeMs\":1746715814998},\"expires\":1754491814998}}"
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":2,\"creationTimeMs\":1746716391407},\"expires\":1754492391407}}"
         },
         {
           "name": "_dyaud_page",
@@ -671,7 +607,7 @@
         },
         {
           "name": "_dy_soct",
-          "value": "1746715814!1469236.-7'2284968.0'2405890.0'2424921.0!"
+          "value": "1746716390!1469236.-6'2284968.0'2405890.0'2424921.0!"
         },
         {
           "name": "_dy_weather_9879135",
@@ -687,7 +623,7 @@
         },
         {
           "name": "lastExternalReferrerTime",
-          "value": "1746715811259"
+          "value": "1746716388101"
         },
         {
           "name": "dy_fs_page",
@@ -699,11 +635,11 @@
         },
         {
           "name": "_dy_csc",
-          "value": "{\"_pv\":4,\"_ses\":1,\"_prev_ses\":\"izwow35xan0wy3h8fxrbufdgokmi2ivs\",\"firstpv\":{\"ts\":1746715806938,\"ses\":1,\"pv\":1},\"lastevent_sync cart\":{\"ts\":1746715815296,\"ses\":1,\"pv\":4},\"closeaction_1168045\":{\"ts\":1746715813544,\"ses\":1,\"pv\":2},\"lastpv\":{\"ts\":1746715815615,\"ses\":1,\"pv\":4}}"
+          "value": "{\"_pv\":4,\"_ses\":1,\"_prev_ses\":\"j9jw0bcnh89abc2j9qm9n5tv0f68s7kp\",\"firstpv\":{\"ts\":1746716384240,\"ses\":1,\"pv\":1},\"lastevent_sync cart\":{\"ts\":1746716391929,\"ses\":1,\"pv\":4},\"closeaction_1168045\":{\"ts\":1746716389785,\"ses\":1,\"pv\":2},\"lastpv\":{\"ts\":1746716392222,\"ses\":1,\"pv\":4}}"
         },
         {
           "name": "_dyaud_nchc",
-          "value": "1787347.1869363.1894287*15979624@2**1498514@1.1498515@1.1498516@1.1656967@1.1683031@1.1683032@1.1687833@1.1764950@1.1780469@1.1780472@1.1780473@1.1780474@1.1780476@1.1780477@1.1780485@1.1780574@1.1782907@1.1783533@1.1783615@1.1787347@1.1797440@1.1797441@1.1804031@1.1805014@1.1805016@1.1806040@1.1844350@1.1844351@1.1846587@1.1869363@1.1894284@1.1894285@1.1894286@1.1894287@1.1900445@1.1926813@1.2048670@1.2100788@1.2100817@1"
+          "value": "1787347.1869363.1894287*15979624@1**1498514@1.1498515@1.1498516@1.1656967@1.1683031@1.1683032@1.1687833@1.1764950@1.1780469@1.1780472@1.1780473@1.1780474@1.1780476@1.1780477@1.1780485@1.1780574@1.1782907@1.1783533@1.1783615@1.1787347@1.1797440@1.1797441@1.1804031@1.1805014@1.1805016@1.1806040@1.1844350@1.1844351@1.1846587@1.1869363@1.1894284@1.1894285@1.1894286@1.1894287@1.1900445@1.1926813@1.2048670@1.2100788@1.2100817@1"
         },
         {
           "name": "_dy_device",
@@ -711,7 +647,7 @@
         },
         {
           "name": "taboola global:user-id",
-          "value": "f6388810-d849-4640-be07-5b4848fecb84-tuctf164a22"
+          "value": "08ed5913-1c37-4497-8fc3-646fa16c2d5d-tuctf164c61"
         },
         {
           "name": "lastExternalReferrer",
@@ -719,15 +655,15 @@
         },
         {
           "name": "li_adsId",
-          "value": "f9da7842-635e-43fe-8fcd-088217dae181"
+          "value": "88f6c10a-4a6a-494d-9d53-0463af6ff7b8"
         },
         {
           "name": "_dy_toffset",
-          "value": "-1"
+          "value": "0"
         },
         {
           "name": "1700915:session-data",
-          "value": "v2_9cbcd8fea6b64337b37ddb08422d843f_f6388810-d849-4640-be07-5b4848fecb84-tuctf164a22_1746715812_1746715815_CNawjgYQs-hnGKjXgIPrMiACKAMwZjiI6wpAr5AQSM_S2ANQ____________AVgAYABojoHKouiN7vRTcAGAAQA"
+          "value": "v2_050636a92a86d06b21a46bca471a9ddc_08ed5913-1c37-4497-8fc3-646fa16c2d5d-tuctf164c61_1746716388_1746716392_CNawjgYQs-hnGInxo4PrMiACKAMwZjiI6wpAr5AQSM_S2ANQ____________AVgAYABop8Ko067xrMY2cAGAAQA"
         }
       ]
     },
@@ -736,15 +672,15 @@
       "localStorage": [
         {
           "name": "yt-remote-connected-devices",
-          "value": "{\"data\":\"[]\",\"expiration\":1746802208983,\"creation\":1746715808983}"
+          "value": "{\"data\":\"[]\",\"expiration\":1746802788589,\"creation\":1746716388589}"
         },
         {
           "name": "yt-remote-device-id",
-          "value": "{\"data\":\"375be4ee-7a5c-484d-b4bc-0c075f6c7921\",\"expiration\":1778251808980,\"creation\":1746715808980}"
+          "value": "{\"data\":\"7f5ee952-6569-4b91-8c44-91b36c3dcc97\",\"expiration\":1778252388586,\"creation\":1746716388586}"
         },
         {
           "name": "ytidb::LAST_RESULT_ENTRY_KEY",
-          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1749307814473,\"creation\":1746715814473}"
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1749308391344,\"creation\":1746716391344}"
         }
       ]
     }
