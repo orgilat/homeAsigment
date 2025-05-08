@@ -15,18 +15,18 @@ test('בדיקה מלאה: מעבר לניהול הסקר ואז למסך עונ
   await page.goto('https://www.shufersal.co.il/online/he/A');
    logger.info("succes")
    await allure.step(' stage 1', async () => {
-    await homePage.checkCartAndExpandIfNeeded()
-   await homePage.navigate()
+    await homePage.checkCartAndExpandIfNeeded();
+   await homePage.navigate();
   })
   await allure.step(' stage 2', async () => {
-   await homePage.calculate()
+   await homePage.calculate();
   })
   await allure.step('stage 3', async () => {
-   await homePage.button()
+   await homePage.button();
    
   })
   await allure.step('stage 4', async () => {
-    await secondPage.countItems()
+    await secondPage.countItems();
     
    })
 });
