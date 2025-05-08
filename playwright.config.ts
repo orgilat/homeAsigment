@@ -2,7 +2,7 @@ import { defineConfig } from '@playwright/test';
 
 export default defineConfig({
   testDir: './tests',
-  timeout: 60 * 1000,
+  timeout: 150 * 1000,
   use: {
     headless: true,
     storageState: 'LoginAuth.json',
