@@ -37,33 +37,43 @@ export class HomePage {
         await this.step2.press("Enter");
         logger.info(`הוזן מוצר: ${product}`);
     }
-
     async checkCartAndExpandIfNeeded() {
-        await this.cartCount.waitFor({ state: 'visible', timeout: 30000 });
+        // ודא שהעמוד נטען לגמרי
+        await this.page.waitForLoadState('networkidle');
+    
+        // תחילה מחכים לכך שהאלמנט צורף ל-DOM
+        try {
+          await this.cartCount.waitFor({ state: 'attached', timeout: 30000 });
+        } catch (e) {
+          // בדיקה וניפוי באגים: שמירת ה־HTML כדי להבין מה באמת התרחש ב־CI
+          const bodyHtml = await this.page.locator('body').innerHTML();
+          allure.attachment('Body HTML at cartCount failure', bodyHtml, 'text/html');
+          throw e;
+        }
+    
         const countText = await this.cartCount.innerText();
         const numericCount = parseInt(countText.replace(/[^\d]/g, ''), 10);
-    
         logger.info(`🛒 מספר פריטים בסל בתחילת הבדיקה: ${numericCount}`);
         allure.attachment('Cart Item Count', `${numericCount}`, 'text/plain');
     
         if (numericCount > 0) {
-            logger.info("📦 הסל לא ריק - מבצע לחיצה לפתיחת הסל");
-            await this.expandCartBtn.waitFor({ state: 'visible', timeout: 30000 });
-            await this.expandCartBtn.click();
+          logger.info("📦 הסל לא ריק - מבצע לחיצה לפתיחת הסל");
+          await this.expandCartBtn.waitFor({ state: 'visible', timeout: 30000 });
+          await this.expandCartBtn.click();
     
-            await this.expandCartBtn2.waitFor({ state: 'visible', timeout: 30000 });
-            await this.expandCartBtn2.click();
+          await this.expandCartBtn2.waitFor({ state: 'visible', timeout: 30000 });
+          await this.expandCartBtn2.click();
     
-            await this.expandCartBtn3.waitFor({ state: 'visible', timeout: 30000 });
-            await this.expandCartBtn3.click();
+          await this.expandCartBtn3.waitFor({ state: 'visible', timeout: 30000 });
+          await this.expandCartBtn3.click();
     
-            await this.expandCartBtn.waitFor({ state: 'visible', timeout: 30000 });
-            await this.expandCartBtn.click();
+          // סוגרים חזרה את הסל
+          await this.expandCartBtn.waitFor({ state: 'visible', timeout: 30000 });
+          await this.expandCartBtn.click();
         } else {
-            logger.info("✅ הסל ריק - ממשיכים ללא פתיחה");
+          logger.info("✅ הסל ריק - ממשיכים ללא פתיחה");
         }
-    }
-    
+      }
     async navigate() {
         await expect(this.step).toBeVisible({ timeout: 30000 });
         await this.step.click();
