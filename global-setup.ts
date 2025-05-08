@@ -12,28 +12,16 @@ async function globalSetup() {
   await page.locator('.dy-lb-close').click().catch(() => {});
 
   // לחיצה על כפתור "כניסה" - חכה לוודא שהלוקייטור נטען
-  try {
-    await page.locator('a.linkEnter').waitFor({ state: 'attached', timeout: 30000 });
-    await page.locator('a.linkEnter').click();
-  } catch (e) {
-    console.error('לא נמצא כפתור כניסה:', e);
-    await browser.close();
-    return;
-  }
+  await page.locator('a.linkEnter').waitFor({ state: 'visible', timeout: 30000 });
+  await page.locator('a.linkEnter').click();
 
   // מילוי פרטי התחברות
   await page.fill('#j_username', 'orgilat123@gmail.com');
   await page.fill('#j_password', 'Gilateam1!');
 
   // לחיצה על כפתור הכניסה - חכה לוודא שהלוקייטור נטען
-  try {
-    await page.getByRole('button', { name: 'כניסה' }).waitFor({ state: 'attached', timeout: 30000 });
-    await page.getByRole('button', { name: 'כניסה' }).click();
-  } catch (e) {
-    console.error('לא נמצא כפתור כניסה:', e);
-    await browser.close();
-    return;
-  }
+  await page.getByRole('button', { name: 'כניסה' }).waitFor({ state: 'visible', timeout: 30000 });
+  await page.getByRole('button', { name: 'כניסה' }).click();
 
   // שמירת סטוראג'
   await context.storageState({ path: 'LoginAuth.json' });

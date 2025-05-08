@@ -130,4 +130,4 @@ export class HomePage {
         await this.sal.scrollIntoViewIfNeeded();
         await this.sal.click();
     }
-}  
+  }  
