@@ -1,0 +1,752 @@
+{
+  "cookies": [
+    {
+      "name": "taboola_session_id",
+      "value": "v2_db439356c59ceeee5fbf92b721048f93_9bce0a85-ce17-4c59-8fa6-76deb04c7d8e-tuctf125983_1746457606_1746457609_CNawjgYQs-hnGNP88IfqMiACKAMwZjiI6wpAr5AQSMHS2ANQ____________AVgAYABojoHKouiN7vRTcAGAAQA",
+      "domain": ".taboola.com",
+      "path": "/zenithdigital-shufersalonline-sc/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "f5avraaaaaaaaaaaaaaaa_session_",
+      "value": "PLFPEHIFLBLODPEHAIJJCNDLLNCDBLPLAONFGNGJNPAJLNJOMHAPBEBONAJNAFHNEIEDMMCHHDOJDPBFGBBAPFELLNOCADOIIGDODJIBIIKDFDMDGAOHFPGDAPABFIFI",
+      "domain": "www.shufersal.co.il",
+      "path": "/LandingPages/imc/scripts",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "taboola_session_id",
+      "value": "v2_795e401cbeafa9329efb891e48f676f2_9bce0a85-ce17-4c59-8fa6-76deb04c7d8e-tuctf125983_1746457603_1746457609_CNawjgYQkbdQGNP88IfqMiACKAEwZjiI6wpAr5AQSMHS2ANQ____________AVgAYABojoHKouiN7vRTcAGAAQA",
+      "domain": ".taboola.com",
+      "path": "/yoyo-shufersal-video/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "miglog-cart",
+      "value": "aa09f132-3ce0-43c7-a591-9c6a507e712d",
+      "domain": "www.shufersal.co.il",
+      "path": "/online",
+      "expires": 1777993607.519608,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "424bfdd6-5a89-4a3b-8831-f70e773050b8",
+      "domain": "www.shufersal.co.il",
+      "path": "/online",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "A058E602B818ECA27D7DDEC6645230BB",
+      "domain": "www.shufersal.co.il",
+      "path": "/online",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "miglogstorefrontRememberMe",
+      "value": "b3JnaWxhdDEyM0BnbWFpbC5jb206MTc3Nzk5MzYwOTg3NDo3N2JlNzE5MWZiZTg5MDgzNDg4YTEyZWYzNDRmYTVlMg",
+      "domain": "www.shufersal.co.il",
+      "path": "/online",
+      "expires": 1777993608.703288,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS0182e4cc",
+      "value": "0135176ca7280575de07e8b5702d1d478736f0608297e76f0aede2a979fbe21e3dcd1aec0bb7ae8314cc2e32c4ae9e779dd759cbb41f67396d6210f441fb658394df08a8b0e9e0ade185ba1e6a42cc78ddc9fe0161374b168af78428a43cd41119555375edffd9cb4fe4ed28755caf806317d8bbb0",
+      "domain": "www.shufersal.co.il",
+      "path": "/online",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dyjsession",
+      "value": "smnqkbjbtue4qbr78m7ouuww8hxr4c5g",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1746459407.225751,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dy_fs_page",
+      "value": "www.shufersal.co.il%2Fonline%2Fhe%2Fa",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dyid",
+      "value": "-5886203753449073662",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1749049607,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dy_geo",
+      "value": "IL.AS.IL_M.IL_M_Rishon%20LeTsiyyon",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1749049608,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dy_df_geo",
+      "value": "Israel..Rishon%20LeTsiyyon",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1749049608,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TSe2d96f83027",
+      "value": "08ee439653ab200035b5a207df33ca3f5a0155d799e4396e2fef605a2d3781adc2d506c2c9c8baf908a7542bce113000efa4134dc1690671da593092040776a3a24e5a593de3282d546026b0e198831e89f1c095209be944c07d2ed975bd4b9e",
+      "domain": "www.shufersal.co.il",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "YSC",
+      "value": "xxarWwicwtc",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "0OuyIfjZP-U",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1762009607.437127,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJJTBIEGgAgUw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1762009607.437194,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_gid",
+      "value": "9bce0a85-ce17-4c59-8fa6-76deb04c7d8e-tuctf125983",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1777993607.918097,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_pt_gid",
+      "value": "9bce0a85-ce17-4c59-8fa6-76deb04c7d8e-tuctf125983",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1777993607.918159,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1777993607.918186,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CPDm_4jG_ba7fBCc2MDIzYyNAxjb09LIzYyNAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1762009602.503145,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_sugr",
+      "value": "c7407204-2962-4316-a61a-7f23d27f4007",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1754233608.195578,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&80c416cf-c6d4-4b01-8b3e-b82e0d2f958f\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1777993609.195657,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=VGST02:s=V:r=V:a=V:p=V:g=3522:u=1:x=1:i=1746457603:t=1746544003:v=2:sig=AQHQkh6WJlj31j7M6XQYMNSp9wjnyG6Q\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1746544002.510804,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "g",
+      "value": "Is5zXEQewmUaoARIfW9H_1746457604056",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1777993602.835304,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "Is5zXEQewmUaoARIfW9H_0p0yQSDDb7AnVjAmJQpQ_1746457604056",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1777993602.835384,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ts",
+      "value": "1746457604",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1777993602.835417,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "523=WYKrvCE8fz1kGKdQQN_eDtaAMyOVVF_6m3jefuQjpMy6GYxyFBkvoz5MwnfXPDWnZr5Ulm5JDuObrhTECH3tH8ZTnMeDXc_wkwn2HBMlA36nOHY0BfrFacAs9l_4rcAQ8TLsLPM9u-XK51rTczded59MdkjT5otaw8OV5tkW43rJjH1BEOm7QuQ1bMAIl2jy",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1762268803.350416,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQLvCgjdEbC2swAAAZag_DOC0os9_d7ZOiyplphRN2q-lctOWm4SKSNiVSkghKWa2BG_7Vgxj6ZtmA",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1749049603.809433,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQIVmf02-VEaLQAAAZag_DODtjEBuk3bc-zv154gBThnzBWrKXR5Oo6CcDaxffHlfwJdlo30D5ASmq-R59t8FA",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1749049603.809452,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&202505051506450e6f85cf-9732-4b5a-8de9-843bdff45c55AQFCf7tPCjJkvzGc4gvf5RixQEjggR1h\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1777993604.996243,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUnQ5t9a_5fuZxFc5-zxI_Gda1iAI3JSVNIzxosiap2gub2uIt96sS-O5XyP",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1781017604.039363,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1777993604.181543,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.2.1746457604723.707550965669252443",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1754233608,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dicbo_id",
+      "value": "%7B%22dicbo_fetch%22%3A1746457604745%7D",
+      "domain": "www.shufersal.co.il",
+      "path": "/",
+      "expires": 1746457904,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1493357802.1746457605",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1746544007,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-27526974-20",
+      "value": "1",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1746457664,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-27526974-1",
+      "value": "1",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1746457664,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hjSession_2800675",
+      "value": "eyJpZCI6IjFhYTIyYjAwLTExN2MtNDA4NC1iNzgyLTM2ZmNkZGIzMjlhZSIsImMiOjE3NDY0NTc2MDU0ODUsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1746459405,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1762009608.842395,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "n5S_8jSx_qxCltuyD_pxpUglUfxvZrJ9b0XucOBY7NdCbZ0YS2Goj6bYNONehG1Ql-00qkR09M1jsG-q3LIIBhtpnIqnHjxGn3IFJW9ql-Y.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1754233605.807843,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "value": "5239667531819224042",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1754233605.807916,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1749049608.842243,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M4/rD>6NRF']wIg2HaSnI1B1!1yIE`c.tke_k!>Z7HS7Sj6Y2nPGPTD`hhSU!'pnW:j?Yr`VO%CkB-/n<T]sHMEo')7q)S2G?/osKyRWP(hw9P-HC_#u!G.+ldTg",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1754233605.807899,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "com.silverpop.iMAWebCookie",
+      "value": "b1833e4e-2d4a-ebb3-eba2-8803b3ac2bb5",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1781017606.044396,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "com.silverpop.iMA.session",
+      "value": "d93b8356-52d3-e68c-0905-c17849853763",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1746458806,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "com.silverpop.iMA.page_visit",
+      "value": "-2103592356:",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1746458806,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "0mGLN6hFOu3RjNqX1dhJtGjHtUkZh5DVp/O2E0/GJDiAF0quZsT/C5xFD6EO1Cb1VYvR2gnWh3rbWeC7+OBPVDrPvjh8RsUd99WWzjSDA7uA4XUYquOc3snkniG3",
+      "domain": "www.pages06.net",
+      "path": "/",
+      "expires": 1747062406.153153,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_dy_soct",
+      "value": "1746457607!1469236.-6'2284968.0'2405890.0'2424921.0!",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1777993607,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1230348824.1746457604",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1781017607.521931,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dy_toffset",
+      "value": "0",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1749049608,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__rtbh.lid",
+      "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22YppVq7ROfcHHTaowMppe%22%2C%22expiryDate%22%3A%222026-05-05T15%3A06%3A48.049Z%22%7D",
+      "domain": "www.shufersal.co.il",
+      "path": "/",
+      "expires": 1777993608,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_2800675",
+      "value": "eyJpZCI6IjM2OWIyYTIzLTJiMmEtNWVjNi05NzQ3LWVhYzMyYmUzMjA4ZCIsImNyZWF0ZWQiOjE3NDY0NTc2MDU0ODQsImV4aXN0aW5nIjp0cnVlfQ==",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1777993608,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_0MFC0GEGNX",
+      "value": "GS2.1.s1746457605$o1$g1$t1746457608$j0$l0$h0",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1781017608.129789,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.454409613.1746457602.362701546.1746457608.1746457608",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1754233602,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "acceleratorSecureGUID",
+      "value": "aea3fb6c0641a20cc9f326952baf052347d814ca",
+      "domain": "www.shufersal.co.il",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "accjwt",
+      "value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAtMjU2In0.s39Cyd8E76xXHBzwjOwxQCXP-6CCBlN_FsdOCswDIpS8vxLN1DPrBN0BhrX0Mme5zk1shSV_OLb9puXUlJ82TS-8LKHrUryY_tDaeL7NV6Cx8ZQ3Th-s9DGyO1mYtDflPG9MBXC0nsWn59ELJV-kAz-2CtpPqkejVyLWfoCrbSHCyY2mxbi6tfjZExK6A4iL8J_yas2FpVN2AJZovwFc-TVtcRc4HuH2r20gmD6hOmwWfpW9CrPxrei27oJva2IFr64ZmfQHK_li-nzdBrOsLaj7pF1uYyNV9qyPjuB8RdElkz4hut0pcJfAUvAxrSR7aTsnmoMzqGgDs90Tz8Cr7Q.31dgrva8jIOw_QNJ.e3XPb-xRCbw1NdTTSEIxdnMLm5t_xQ0NP_0byF_5Qqv7Dvn-qt1naqO7tFMk791nC45v-ppNBozrahKP4yGZstYR1xygs4vCxeHPrC87UDdYJvnaN6nEWiYbZmKlOoDGmetaEGhVUjW6AW4lCZoG_A9-gRY9qZMvOoqV6pmu40suUBDF2uX4KgkkHZSfj455zh7-gWt6MJx_Gc2IEn096OIfX2dzaNjwYgr_sW8Rg4GgEVQaLulqoefP0Z9D9KFQ7qtL_qgSA4miyRC6zZGtFHZL_GsOhHtOYlCmJDtdBezRmVQWn3K4bo3H5JbjfePOOTlLDiytnW4n233LMnjoT2nxNPClIBWVPTJwLoV74ahkjdUYRyLqSEZP3pdEuMmWO0b98DhZxxzjYJ5naa_u3b3Ol78tbdoH2Fqyg7xk7pW25quEHLi3G53Edr6aKowOOfYkDqBFm0TWA4dF7tc9qOE3jMFzU6QjWFVqAff_opNLYZtI2FdNrpGFwBz1pGfNLUJYxjZOgG7keUBQKPaiDTMPW9741gzzmFm-CTEx7qYZ2r3K-3IlggIt_H4C4mHtkel0nHN8SykcOse9VqEhsADlfRlqqBTMOI2Ii7b6RfzKN7LczMuvnymDSlJd7tEpm9dh1CY5YhEQgxrQ6lnrZ-ApOfJqpD8Vg7WfNXzaxvDnArn8eYShdyo8WevANsl8MITxn3oKqFmJlRdE9Pr-TNC2aOdrbxnQMatGhz22pElPB0bt1ToSehIj5HNvX3DTvF0DRS3rnF5-1bPUex5l4-GGQGKC0BBzgruUEwpVjeSmtO1RCk5L7eNoHYUC0Cs-YgmBe8nixz4O6T-x-1LJhEve_hAgTuXC4nFuJ3mDNyI62BS12uAXrTFbmZLm0i2RasRAGLqe8-USxI5R4Ze6t0uDT1k1_bmRgcsGY9xUCf1A6rkTcMyL1GCxu5bc93yNyeCHPB46m_E-MWz78vBQ86BMRyrbPEogXfrRQmJC9MdimImudeZoEz_qjgO3UD_2kaTQy6gXsf8s4ZDTA6MdTn7CzcoWGaKbmwT5CYR4LRPjxQqcOJA2LI3kqHoaQccSsh_D6IR9MR062omQt4-Iums9VryWLSy9vZiUK4Y_lKnRs1PlcTStBghmH5MqE2tCbWkGwAnlChnEoRzC18CYD2GVdMBkmmHXljKmtp8wHq907QNNsf84tAFKuAMC4tBWkxKcOpcnEFfXPRwwXK2D2OA-AeP6A8z7tLS3HlZcCgTo_B0.NRPdp-ur1KqzNoF0PVN8jA",
+      "domain": "www.shufersal.co.il",
+      "path": "/",
+      "expires": 1777993608.703464,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALB",
+      "value": "RROBiRbTNJQQByHN0USTtSCRzyEfISVyes0yfOpXex1oF0vAdrJfuvpUkz94wHpBUhT5rsojPYZYCtvNunc5UT6lMuw5mc+dlofp1j3+fJnBQE74ThIOB3+1lRgc",
+      "domain": "www.shufersal.co.il",
+      "path": "/",
+      "expires": 1747062409.080834,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "RROBiRbTNJQQByHN0USTtSCRzyEfISVyes0yfOpXex1oF0vAdrJfuvpUkz94wHpBUhT5rsojPYZYCtvNunc5UT6lMuw5mc+dlofp1j3+fJnBQE74ThIOB3+1lRgc",
+      "domain": "www.shufersal.co.il",
+      "path": "/",
+      "expires": 1747062409.080921,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TS01ac0f6e",
+      "value": "0135176ca77ec5be874656c52b8e7efcc793ca5b9797e76f0aede2a979fbe21e3dcd1aec0b7ed6148e6a22f32bf00a0f668255c12d97ed3b4fc2d60b6086f004e2105334347050903b981516c6f68323577be9d34396a940bcbbb44ada5ec30123f7211280a3021e058960e9f03890b003fd209ab6f7444be95e27818230fe66d1998e7930",
+      "domain": ".www.shufersal.co.il",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS4c4a83a5027",
+      "value": "0874a88bc8ab2000b1cfc24d4e8cb57c984b5feb60e90cb0b97142e18eea7e5ba7ccfcc9baf024dd086b01ae9f1130001551e9a50952ced05e4ff48d83154828537857d3002e00d4db8edd3a29090fbb4e5ce11d4118aba9ee755dc542c6d66a",
+      "domain": "www.shufersal.co.il",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_JNGKGQCSJD",
+      "value": "GS1.1.1746457604.1.1.1746457609.55.0.0",
+      "domain": ".shufersal.co.il",
+      "path": "/",
+      "expires": 1781017609.091196,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.shufersal.co.il",
+      "localStorage": [
+        {
+          "name": "1317777:session-data",
+          "value": "v2_795e401cbeafa9329efb891e48f676f2_9bce0a85-ce17-4c59-8fa6-76deb04c7d8e-tuctf125983_1746457603_1746457609_CNawjgYQkbdQGNP88IfqMiACKAEwZjiI6wpAr5AQSMHS2ANQ____________AVgAYABojoHKouiN7vRTcAGAAQA"
+        },
+        {
+          "name": "_dyid",
+          "value": "-5886203753449073662"
+        },
+        {
+          "name": "_dy_geo",
+          "value": "IL.AS.IL_M.IL_M_Rishon LeTsiyyon"
+        },
+        {
+          "name": "__rtbh.lid",
+          "value": "{\"eventType\":\"lid\",\"id\":\"YppVq7ROfcHHTaowMppe\",\"expiryDate\":\"2026-05-05T15:06:48.049Z\"}"
+        },
+        {
+          "name": "eng_mt",
+          "value": "{\"ver\":36,\"sessionStartTime\":1746457602334,\"scrollDepth\":0,\"sessionDepth\":[\"496619832\",\"804285664\"],\"timeOnSite\":6057,\"crossSessionsData\":{\"sessionsHistory\":[1746457602334]}}"
+        },
+        {
+          "name": "topicsLastReferenceTime",
+          "value": "1746457608373"
+        },
+        {
+          "name": "_dy_att_exps",
+          "value": "1466188|102368686::0:1746457601601:24065:5079:1:0:0.2368037048727274:0.9474616497755051|101608908:101448605|2|5079:1746457601602##1586960|103957308::0:1746457601606:24065:5079:1:0:0.050230741035193205:0.37574076163582504|101998551:102310626|2|5079:1746457601607##1624111|103684136::0:1746457601607:24065:5079:1:0:0.519455783534795:0.535043628886342|102119082:102625743|2|5079:1746457601607##1739079|103488111::0:1746457601603:24065:5079:1:0:0.5335915135219693:0.5316187501884997|102482006|2|5079:1746457607261##1774517|103623351::0:1746457601603:24065:5079:1:0:0.3305823039263487:0.4092031139880419|102599587|2|5079:1746457607261##1781151|103672344::0:1746457607261:35679:5079:2:3:0:0.37985651521012187|102625762:103950101|2|5079:1746457607261##1837347|103958162::0:1746457601610:24065:5079:1:0:0.9666953876148909:0.3048427044413984|102839526:104478516|2|5079:1746457601610"
+        },
+        {
+          "name": "_dy_tsrc",
+          "value": "Direct"
+        },
+        {
+          "name": "_dyexps",
+          "value": "1348943|101805070::0:1746457601282:24065:5079:2:3:0:0.2157038082368672|101280235:101115005|0|5079:1746457607247##1466188|102368686::0:1746457601601:24065:5079:1:0:0.2368037048727274:0.9474616497755051|101608908:101448605|1|5079:1746457601602##1586960|103957308::0:1746457601606:24065:5079:1:0:0.050230741035193205:0.37574076163582504|101998551:102310626|1|5079:1746457601606##1624111|103684136::0:1746457601607:24065:5079:1:0:0.519455783534795:0.535043628886342|102119082:102625743|1|5079:1746457601607##1739079|103488111::0:1746457601603:24065:5079:1:0:0.5335915135219693:0.5316187501884997|102482006:103587339|1|5079:1746457607261##1774517|103623351::0:1746457601603:24065:5079:1:0:0.3305823039263487:0.4092031139880419|102599587:103895947|1|5079:1746457607261##1781151|103672344::0:1746457607261:35679:5079:2:3:0:0.37985651521012187|102625762:103950101|1|5079:1746457607261##1837347|103958162::0:1746457601610:24065:5079:1:0:0.9666953876148909:0.3048427044413984|102839526:104478516|1|5079:1746457601610"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":2,\"creationTimeMs\":1746457607925},\"expires\":1754233607925}}"
+        },
+        {
+          "name": "_dyaud_page",
+          "value": "*2025-05-05*0"
+        },
+        {
+          "name": "_dy_soct",
+          "value": "1746457607!1469236.-6'2284968.0'2405890.0'2424921.0!"
+        },
+        {
+          "name": "_dy_weather_9879135",
+          "value": "[]"
+        },
+        {
+          "name": "miglog_resource_m12bbbb_checkout",
+          "value": "{\"api\":{\"address\":\"/checkout/address\",\"adult\":\"/checkout/adultCheck\",\"costsummary\":\"/checkout/costSummary\",\"deliveryOptions\":\"/checkout/deliveryOptions\",\"instalments\":\"/checkout/instalment\",\"carts\":\"/checkout/cart\",\"recommendations\":\"/checkout/recommendation\",\"timeslots\":\"/checkout/timeSlot\",\"payment\":\"/checkout/payment\",\"checkout\":\"/checkout\",\"authentication\":\"/authentication\",\"assortment\":\"/assortment\",\"shufersalCcRegistration\":\"https://cal.cal-online.co.il/%23!/sale/cal-shufersal/opportunity\",\"paymentServer\":\"https://www.shufersal.co.il/payment/\"},\"messages\":{\"miglog.checkout.cart.header.direct\":\"פריטי סופרמרקט ופארם\",\"miglog.checkout.cart.header.other\":\"אספקה בנפרד ממשלוח הסופרמרקט\",\"miglog.checkout.sellingmethod.byweight\":\"ק&quot;ג\",\"miglog.checkout.sellingmethod.byweightfull\":\"קילוגרמים\",\"miglog.checkout.sellingmethod.byunit\":\"יח&#39;\",\"miglog.checkout.sellingmethod.byunitfull\":\"יחידות\",\"miglog.checkout.dayofweek.sunday\":\"ראשון\",\"miglog.checkout.dayofweek.monday\":\"שני\",\"miglog.checkout.dayofweek.tuesday\":\"שלישי\",\"miglog.checkout.dayofweek.wednesday\":\"רביעי\",\"miglog.checkout.dayofweek.thursday\":\"חמישי\",\"miglog.checkout.dayofweek.friday\":\"שישי\",\"miglog.checkout.dayofweek.saturday\":\"שבת\",\"miglog.checkout.confirmerror\":\"אופס...|:|לא ניתן להשלים את הפעולה\",\"miglog.checkout.pickup.title\":\"בחירת סניף לאיסוף  \",\"miglog.checkout.pickup.title.noTimeSlot\":\"כתובת לאיסוף\",\"miglog.checkout.pickup.super\":\"איסוף עצמי סופרמרקט ופארם\",\"miglog.checkout.pickup.note\":\"לאיסוף ההזמנה יש להגיע עם תעודת הזהות של מבצע ההזמנה וכרטיס האשראי איתו בוצעה ההזמנה\",\"miglog.checkout.required.field\":\"שדה חובה\",\"miglog.checkout.cvv.field\":\"ספרות בגב הכרטיס\",\"miglog.checkout.cvv.field.americanExpress\":\"ספרות בחזית הכרטיס\",\"miglog.checkout.wrong.validate\":\"הוזן ערך לא תקין\",\"miglog.checkout.wrong.validate.id\":\"מספר ת.ז. אינו תקין\",\"miglog.checkout.statevalidationerror\":\"עדיין לא שם|:|יש עוד קצת פרטים שצריך למלא &lt;br/&gt; לפני שמסיימים\",\"miglog.checkout.textstringe.maxlengtherror\":\"כמות התווים המקסימאלית היא {0} \",\"miglog.checkout.textstringe.illegalCharachter\":\"הוכנס תו לא חוקי\",\"miglog.checkout.shipping.price\":\"דמי משלוח\",\"miglog.checkout.shipping.price.cfc\":\"&lt;strong&gt;מארז תרמי &amp;nbsp;&lt;/strong&gt;במשלוח מחוץ לדלת \",\"miglog.checkout.pickup.price\":\"דמי איסוף\",\"cart.excluding.shipping.popover\":\"&lt;strong&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;דמי משלוח&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;בקניה בסכום של עד {0} ₪ - דמי שירות&lt;strong&gt; {1} ₪&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;בקניה בסכום מעל {2} ₪ - דמי משלוח &lt;strong&gt;{3} ₪&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;דמי שירות באיסוף עצמי&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;בקניה בסכום של עד {4} ₪ - דמי שרות &lt;strong&gt;{5} ₪&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;בקניה בסכום מעל {6} ₪ - דמי שרות &lt;strong&gt;{7} ₪&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextComment&#39;&gt;*דמי המשלוח/שרות הסופיים יחושבו בסיום תהליך הקנייה, בשלב&lt;/span&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextComment&#39;&gt;הקופה, בהתאם לסכום הסל ובחירת חלון האספקה או איסוף עצמי&lt;br&gt;\",\"cart.excluding.shippingPickupNew.popover\":\"&lt;strong&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;דמי שירות עבור פריטי סופרמרקט, מזון ופארם:&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;בקנייה להזמנה עם משלוח - דמי שירות {0} ₪&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;דמי שירות באיסוף עצמי&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;בקניה להזמנה באיסוף עצמי - דמי שירות {1} ₪&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextComment&#39;&gt;*דמי המשלוח/שרות הסופיים יחושבו בסיום תהליך הקנייה, בשלב&lt;/span&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextComment&#39;&gt;הקופה, בהתאם לסכום הסל ובחירת חלון האספקה או איסוף עצמי&lt;br&gt;\",\"cart.excluding.shippingNew.popover\":\"&lt;strong&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;דמי משלוח&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;בקנייה להזמנה עם משלוח - דמי שירות &lt;strong&gt; {0} ₪&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;דמי שירות באיסוף עצמי&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;בקניה בסכום של עד {1} ₪ - דמי שירות &lt;strong&gt;{2} ₪&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;בקניה בסכום מעל {3} ₪ - דמי שירות &lt;strong&gt;{4} ₪&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextComment&#39;&gt;*דמי המשלוח/שרות הסופיים יחושבו בסיום תהליך הקנייה, בשלב&lt;/span&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextComment&#39;&gt;הקופה, בהתאם לסכום הסל ובחירת חלון האספקה או איסוף עצמי&lt;br&gt;\",\"cart.excluding.pickupNew.popover\":\"&lt;strong&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;דמי משלוח&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;בקניה בסכום של עד {0} ₪ - דמי משלוח&lt;strong&gt; {1} ₪&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;בקניה בסכום מעל {2} ₪ - דמי משלוח &lt;strong&gt;{3} ₪&lt;/strong&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;דמי שירות באיסוף עצמי&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextTitle&#39;&gt;בקניה להזמנה באיסוף עצמי - דמי שירות {4} ₪&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextComment&#39;&gt;*דמי המשלוח/שרות הסופיים יחושבו בסיום תהליך הקנייה, בשלב&lt;/span&gt;&lt;br&gt;&lt;span class=&#39;deliveryTextComment&#39;&gt;הקופה, בהתאם לסכום הסל ובחירת חלון האספקה או איסוף עצמי&lt;br&gt;\",\"miglog.checkout.cartSummary.dropShippingItems\":\"פריטים שיסופקו לביתך\",\"miglog.checkout.cartSummary.crossDockingItems\":\"פריטים באיסוף עצמי\",\"miglog.checkout.cartSummary.TotalItems\":\"סה&quot;כ פריטים:\",\"miglog.checkout.cartSummary.clubMemberDiscount\":\"הנחות וזיכויים\",\"miglog.checkout.cartSummary.deliveryPriceDiscount\":\"הנחה בדמי משלוח\",\"miglog.checkout.cartSummary.prescriptionDeliveryPriceDiscount\":\"הנחה דמי משלוח לתרופות\",\"miglog.checkout.cartSummary.longtailDeliveryPrice\":\"תוספת למשלוח החל ממחר\",\"miglog.product.longtail.delivery\":\"משלוח החל ממחר\",\"miglog.checkout.cartSummary.longtailTooltip\":\"&lt;div&gt;&lt;strong&gt;משלוח החל ממחר:&lt;/strong&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;משלוח מהיום ליום העסקים הבא&lt;/li&gt;&lt;li&gt;יום עסקים מסתיים בשעה {0} &lt;/li&gt;&lt;li&gt;הזמנות שיתקבלו מהשעה {0} ואילך,&lt;br&gt;נחשבות כאילו בוצעו ליום המחרת.&lt;/li&gt;\",\"miglog.checkout.cartSummary.prescriptionDeliveryDiscountTooltip\":\"&lt;div&gt;&lt;strong&gt;הזכאות להנחה נקבעת בהתאם לרובד הביטוחי המוגדר בקופת החולים&lt;/strong&gt;&lt;/div&gt;\",\"miglog.checkout.cartSummary.total\":\"סה&quot;כ לתשלום\",\"miglog.checkout.cartSummary.DiscountsAndCoupons\":\"כולל הנחות וקופונים\",\"miglog.checkout.cartSummary.orderDiscount\":\"בקנייה זו חסכת\",\"miglog.checkout.cartSummary.orderDiscount.new\":\"בקנייה זו תחסוך\",\"miglog.checkout.cartSummary.ccOrderDiscount\":\"עם כ.אשראי שופרסל היית חוסך\",\"miglog.checkout.cartSummary.clubMemberSavingsFromDate\":\"כיף! בזכות חברותך במועדון שופרסל חסכת\",\"miglog.checkout.cartSummary.clubMemberSavingsFromDate.new\":\"בזכות חברותך במועדון שופרסל חסכת\",\"miglog.checkout.cartSummary.orderPoints\":\"וייצברו לך\",\"miglog.checkout.cartSummary.miglog.checkout.cartSummary.disclaimer\":\"miglog.checkout.cartSummary.miglog.checkout.cartSummary.disclaimer\",\"miglog.checkout.dayofweek.short.sunday\":\"א&#39;\",\"miglog.checkout.dayofweek.short.monday\":\"ב&#39;\",\"miglog.checkout.dayofweek.short.tuesday\":\"ג&#39;\",\"miglog.checkout.dayofweek.short.wednesday\":\"ד&#39;\",\"miglog.checkout.dayofweek.short.thursday\":\"ה&#39;\",\"miglog.checkout.dayofweek.short.friday\":\"ו&#39;\",\"miglog.checkout.dayofweek.short.saturday\":\"שבת\",\"miglog.checkout.add.product.list\":\"חפש מוצרים כדי להוסיפם לרשימה\",\"miglog.checkout.payment.invalidCreditCard\":\"יש להזין מספר כרטיס אשראי תקין\",\"miglog.checkout.product.supply\":\"מוצרים שיסופקו בתיאום טלפוני\",\"miglog.account.wishList.loginModal.login\":\"התחברות\",\"miglog.account.wishList.loginModal.text\":\"כדי ליצור רשימה חדשה &lt;/br&gt; יש לבצע התחברות למערכת\",\"miglog.account.wishList.products\":\"מוצרים\",\"miglog.account.wishList.new.products\":\"פריטים\",\"miglog.account.wishList.new.serverList\":\"רשימה שיצרנו עבורך\",\"miglog.account.wishList.new.userList\":\"נוצר על ידך\",\"miglog.account.wishList.new.wantToOrder\":\"רוצה להזמין את המוצרים הקבועים שלך?\",\"miglog.account.wishList.new.registerNow\":\"הירשמו עכשיו בקלות ובמהירות\",\"miglog.account.wishList.new.loginBtn\":\"כניסה\",\"miglog.account.wishList.new.quickBuy.text\":\"הבאת רשימה מהבית? \",\"miglog.account.wishList.new.quickBuy.textBold\":\"כמה דקות וסיימת עם ההזמנה \",\"miglog.account.wishList.new.quickBuy.btn\":\"הזמנה מהירה \",\"miglog.account.wishList.createNewList\":\"רשימה חדשה\",\"miglog.account.wishList.addToCart\":\"הוספה לסל\",\"miglog.account.wishList.chooseBackgroundImage.sub\":\"בחר תמונה מתוך הגלריה\",\"miglog.account.wishList.chooseBackgroundImage\":\"בחירת תמונת רקע\",\"miglog.account.wishList.editList\":\"עריכת רשימה\",\"miglog.account.wishList.listName\":\"שם הרשימה\",\"miglog.account.wishList.listNameValidation\":\"נא למלא\",\"miglog.account.wishList.addBackgroundImage\":\"הוסף תמונת רקע\",\"miglog.account.wishList.save\":\"שמירה\",\"miglog.account.wishList.profuctDetails\":\"פרטי המוצר\",\"miglog.account.wishList.price\":\"מחיר\",\"miglog.account.wishList.quantity\":\"כמות\",\"miglog.account.wishList.totalPrice\":\"מחיר כולל\",\"miglog.account.wishList.notes\":\"הערות\",\"miglog.account.wishList.remove\":\"הסר\",\"miglog.account.wishList.saveEmptyListValidation\":\"לא ניתן לשמור רשימה ריקה\",\"miglog.account.wishList.noChangeInListValidation\":\"לא נעשו שינויים ברשימה\",\"miglog.account.wishList.markAllProducts\":\"בחר הכל\",\"miglog.account.wishList.markAllProducts.mobile\":\"סמן הכל\",\"miglog.account.wishList.total.mobile\":\"סה&quot;כ\",\"miglog.account.wishList.productInCart\":\"הפריט בסל\",\"miglog.account.wishList.productOutOfStock\":\"חסר במלאי\",\"miglog.account.wishList.addedToList\":\"עודכן ברשימה\",\"miglog.account.wishList.replace.addressMessage\":\"&lt;span&gt;לעדכן את הפריט ברשימה&lt;br&gt; &#39;{0}&#39; באופן קבוע? &lt;/span&gt;\",\"miglog.account.wishList.noProductsToAddToCart\":\"לא נבחרו מוצרים להוספה לעגלה\",\"miglog.account.wishList.choosenProducts\":\"פריטים שנבחרו\",\"miglog.account.wishList.manage.button\":\"ניהול ועדכון הרשימה\",\"miglog.pointsAndSavings.howManyPoinst\":\"כמה נקודות צברת?\",\"miglog.pointsAndSavings.clubPointsFromDate\":\"נכון לתאריך\",\"miglog.pointsAndSavings.pointsShort\":\"נק&#39;\",\"miglog.pointsAndSavings.nextDiscount\":\"ההנחה הבאה\",\"miglog.pointsAndSavings.howMuchSavedFromBeginingOfYear\":\"כמה חסכת מתחילת השנה\",\"miglog.pointsAndSavings.clubMemberSavingFromBeginingOfYear\":\"כחבר מועדון שופרסל מתאריך {0} חסכת\",\"miglog.pointsAndSavings.howMuchCouldSaved\":\"כמה יכולת לחסוך\",\"miglog.pointsAndSavings.joinCreditCard\":\"הצטרפות לכרטיסי אשראי\",\"miglog.pointsAndSavings.couponsSavings\":\"כמה חסכת מניצול קופונים\",\"miglog.pointsAndSavings.watchMyCoupons\":\"לצפיה בקופונים שלי\",\"miglog.account.offlineOrder.productNotPurchasable\":\"לא ניתן לרכישה באון-ליין\",\"miglog.product.defaultimage.medium.url\":\"https://media.shufersal.co.il/OnlineUAT/product_images/default/M_P_default.png\",\"miglog.newsletter.title\":\"רוצה לדעת עוד על מבצעים, הנחות ומוצרים חדשים?\",\"miglog.newsletter.signInForUpdates\":\"הרשמו עכשיו לקבלת עדכונים בנושאים הבאים\",\"miglog.newsletter.enterMail\":\"הכנס כתובת מייל\",\"miglog.newsletter.sendMeUpdates\":\"שלחו לי עדכונים\",\"miglog.checkout.payment.ChoosePaymentMode\":\"יש לבחור את סוג הכרטיס\",\"cartsummary.longtail.popup.item.removed.from.cart\":\"הפריט הוסר מהסל\",\"cartsummary.longtail.popup.desc.text\":\"שמרנו את {0} לקניה הבאה שלך &lt;br&gt;והוא ממתין לך ברשימת:\",\"cartsummary.longtail.popup.desc.text.single\":\"שמרנו את הפריט לקניה הבאה שלך &lt;br&gt;והוא ממתין לך ברשימת:\",\"cartsummary.longtail.popup.desc.text.plural\":\"שמרנו את הפריטים לקניה הבאה שלך &lt;br&gt; והם ממתינים לך ברשימת:\",\"cartsummary.longtail.popup.link.text\":\"פריטים שהשארתי בסל\",\"cartsummary.longtail.popup.button.text\":\"הבנתי\",\"miglog.account.settingNpassword\":\"סיסמה והגדרות\",\"miglog.account.fixedDiscount\":\"פריטים בהנחה קבועה\",\"miglog.account.fixedDiscount.notFound\":\"לא נמצאו פריטים בהנחה קבועה\",\"miglog.checkout.payment.invalidCreditCardByType\":\"סוג הכרטיס אינו מתאים\",\"miglog.checkout.payment.expire.cc\":\"נבחר אמצעי תשלום אשר אינו בתוקף ביום משלוח ההזמנה. יש לעדכן תוקף או להחליף אמצעי תשלום\",\"miglog.account.offlineOrder.listTitle\":\"רשימת קניות מסניף {0}\",\"miglog.general.fromDate\":\"מתאריך\",\"miglog.account.myAccount\":\"החשבון שלי\",\"miglog.account.offlineOrder.branchPurchasing\":\"קניות שלי בסניפים\",\"miglog.account.wishList.priceOnline\":\"מחיר באון-ליין\",\"miglog.account.offlineOrder.purchaseFromDate\":\"קניה מתאריך\",\"miglog.account.offlineOrder.orderNumber\":\"מס&#39; עסקה\",\"miglog.account.general.amount\":\"סכום\",\"miglog.account.offlineOrder.branch\":\"סניף\",\"miglog.general.addToCart\":\"הוסף לסל\",\"miglog.general.addToCart.new\":\"הוסף לסל חדש\",\"miglog.account.shoppingLists\":\"רשימות והזמנות\",\"miglog.account.personalInfo\":\"מידע אישי\",\"miglog.account.customer.service\":\"שופרסל לשרותך\",\"miglog.account.customer.updateDetails\":\"עדכון פרטים\",\"miglog.account.customer.updateDetails.message\":\"עדכון אמצעי תשלום, פרטים אישיים וכתובות, סיסמה, התראות והעדפות אישיות\",\"miglog.account.customer.updateDetails.message.anonymous\":\"פרטים אישיים וכתובות, התראות והעדפות אישיות\",\"miglog.account.customer.points\":\"מטבעות והטבות SUPREME\",\"miglog.account.customer.aboutClub\":\"קצת על המטבעות\",\"miglog.account.customer.accumulationHistory\":\"היסטוריית צבירה ומימוש\",\"miglog.account.upload.files\":\"העלה קבצי הצטרפות\",\"miglog.account.upload.download.files\":\"השלמת טפסים להצטרפות לאתר\",\"miglog.account.business\":\"חשבון עסקי\",\"miglog.popular.products\":\"המוצרים שאני קונה בדרך כלל\",\"miglog.account.myCoupons\":\"הקופונים וההטבות שלי\",\"miglog.pointsAndSavings.welcomeToShufersalOnline\":\"ברוך הבא לשופרסל Online \",\"miglog.pointsAndSavings.welcomeText\":\"חלק בלתי נפרד מחווית הקניות באתר שלנו, היא היכולת לנהל את הנתונים האישיים בקלות ונוחות למען מטרה אחת - החיסכון שלך. לאחר מספר קניות, המערכת תשקלל את נתוניך ובדף זה יוצגו לך כל מסלולי החיסכון וכמה היית יכול לחסוך ע&quot;פ היסטורית הקניות שלך.\",\"miglog.account.orders.pickUpOrdersCount\":\"{0} מוצרים למשלוח שופרסל - באיסוף עצמי\",\"miglog.account.orders.deliveryOrdersCount\":\"{0} מוצרים למשלוח שופרסל\",\"miglog.account.orders.product.from.supplier\":\"{0} מוצרים מספק {1} \",\"miglog.account.orders.otherPickUpOrderDetails\":\"לאיסוף עצמי ב-\",\"miglog.account.orders.otherCoordinationOrderDetails\":\"{0} מוצרים שיסופקו בתיאום טלפוני\",\"miglog.account.orders.otherDeliveryOrderDetails\":\"למשלוח ב-\",\"miglog.account.orders.Web\":\"אתר\",\"miglog.account.orders.Mobile\":\"אפליקציה\",\"miglog.account.orders.CallCenter\":\"טלפון\",\"miglog.account.orders.DESKTOP_WEB\":\"אתר\",\"miglog.account.orders.MOBILE_APP\":\"אפליקציה\",\"miglog.account.orders.BE_MOBILE_APP\":\"אפליקצית Be\",\"miglog.account.orders.CUSTOMER_SERVICE\":\"טלפון\",\"miglog.account.orders.MOBILE_WEB\":\"נייד\",\"miglog.account.orders.AUTOMATIC\":\"אוטומטי\",\"miglog.account.orders.onDate\":\"בתאריך\",\"miglog.account.orders.orderCanceleddBy\":\"ההזמנה בוטלה &lt;strong&gt;ב{0}&lt;/strong&gt; ע&quot;י {1}\",\"miglog.account.orders.orderUpdatedBy\":\"ההזמנה עודכנה &lt;strong&gt;ב{0}&lt;/strong&gt; ע&quot;י {1}\",\"miglog.account.orders.orderMadeBy\":\"ההזמנה נוצרה &lt;strong&gt;ב{0}&lt;/strong&gt; ע&quot;י {1}\",\"miglog.account.orders.orderMadeThrough\":\"ההזמנה נוצרה &lt;strong&gt;ב{0}&lt;/strong&gt; {1}\",\"miglog.account.ordersordersDateRange\":\"הזמנות בטווח התאריכים שבין {0} ל- {1}\",\"miglog.peyment.choosingPeyment\":\"בחירת אמצעי תשלום\",\"miglog.peyment.addCredit\":\"כרטיס חדש\",\"miglog.peyment.editCredit\":\"עדכון כרטיס אשראי\",\"miglog.peyment.choosingCredit\":\"בחירת כרטיס אשראי\",\"miglog.peyment.choosingPeymentSupplierse\":\"בחירת אמצעי תשלום ספקים\",\"miglog.peyment.choosingCreditSupplierse\":\"בחירת כרטיס אשראי לתשלום ספקים\",\"miglog.payment.voucher.title\":\"רשימת הזיכויים העומדים לרשותך\",\"miglog.payment.voucher.add\":\"+ תו נוסף\",\"miglog.payment.voucher.success\":\"התו נקלט בהצלחה\",\"miglog.payment.voucher.number\":\"מספר תו קניה\",\"miglog.payment.voucher.add.voucher.list\":\"חזור לרשימת תווי הקניה\",\"miglog.payment.voucher.add.voucher.cvv\":\"cvv\",\"miglog.payment.voucher.expire\":\"בתוקף עד\",\"miglog.payment.voucher.balance\":\"יתרה בתו: \",\"miglog.payment.voucher.credit\":\"יתרה בתו\",\"miglog.payment.voucher.manual.credit\":\"למימוש בקנייה זו\",\"miglog.payment.voucher.credit.card.noCards\":\"למימוש תו הזהב/גיפט קארד שברשותך יש להוסיף פרטי כרטיס אשראי לגיבוי החיוב\",\"miglog.payment.voucher.credit.card\":\"אנא השלם כרטיסי אשראי כגיבוי לרשימת תווי קניה שהזנת:\",\"miglog.payment.voucher.credit.card.note\":\"&lt;div class=&quot;title&quot;&gt; &lt;img src=&quot;/online/_ui/responsive/theme-miglog/img/checkout/icon-over18.png&quot; loading=&quot;lazy&quot;&gt; &lt;strong&gt;חשוב לדעת&lt;/strong&gt; &lt;/div&gt; &lt;ul&gt; &lt;li&gt;יש לשמור את התווים/GiftCard, עד לקבלת ההזמנה וביצוע החיוב&lt;/li&gt; &lt;li&gt;חיוב התווים ועדכון החיוב באשראי בהתאם, יבוצע רק לאחר סיום הכנת ההזמנה.&lt;br&gt; עד לביצוע חיוב התווים, מסגרת האשראי בכרטיסך תכלול &lt;strong&gt;זמנית&lt;/strong&gt; חיוב על סכום הקניה המלא. &lt;/li&gt; &lt;li&gt;במידה ותרצו לעדכן את ההזמנה, תתבקשו להזין שוב את פרטי התו.&lt;/li&gt; &lt;/ul&gt;\",\"miglog.payment.voucher.enter.voucher\":\"יש להזין את פרטי התו\",\"miglog.payment.voucher.enter.voucher.placeholder\":\"הזן כאן את מס&#39; התו -\",\"miglog.payment.voucher.enter.voucher.load\":\"+ הוספה  \",\"miglog.payment.voucher.currency\":\"₪\",\"miglog.payment.voucher.totalAmount.validation\":\"הסכום שהוזן גדול מסך ההזמנה\",\"miglog.payment.voucher.error.zero\":\"יתרת כרטיס 0 ₪ , לא ניתן למימוש. לא יבוצע חיוב מכרטיס זה.\",\"miglog.payment.voucher.giftCard.validation\":\"הסכום שהוזן גדול מהיתרה בגיפט קארד\",\"miglog.payment.voucher.delete.dearCustomer\":\"יש לשים לב!\",\"miglog.payment.voucher.delete.ok\":\"מחק \",\"miglog.payment.voucher.delete.cancel\":\"בטל\",\"miglog.payment.voucher.add.disclaimer\":\"ניתן להשתמש רק בתווים המתחילים בספרה 8 (מלבד תו הזהב שלי)\",\"miglog.payment.voucher.disclaimer.top\":\"סכום החיוב הסופי להזמנה ייקבע בזמן איסוף המוצרים ועשוי להשתנות בשל מוצרים שקילים, חסרים או חליפיים. במקרה של חריגת החיוב מהסכום שהוזן למימוש בקנייה או מיתרת הסכום בתו/גיפטקארד, יתרת הסכום תחויב בכרטיס האשראי שבחרת.\",\"miglog.payment.voucher.cellular.text\":\"איפה מוצאים את פרטי התו?\",\"miglog.payment.voucher.tab.disclaimer.title\":\"לתשומת לבך!\",\"miglog.payment.voucher.tab.disclaimer\":\"במקרה של רענון הדף, חזרה או יציאה מדף זה לדף אחר,&lt;br&gt;לפני לחיצה על אישור לסגירת ההזמנה,&lt;br&gt;לא יישמרו הנתונים שהוזנו בשדות פרטי התווים,&lt;br&gt;ויהיה צורך במילוי הפרטים מחדש.&lt;br&gt;&lt;br&gt;יש לשמור את התווים/גיפט קארד עד קבלת ההזמנה וביצוע החיוב.\",\"miglog.payment.voucher.tab.disclaimer.ok\":\"הבנתי, המשך\",\"miglog.payment.voucher.delete.body\":\"בפעולה זו ימחקו פרטי תו הזהב/גיפט קארד שהוזנו&lt;br&gt;&lt;br&gt; האם למחוק את הפרטים?\",\"miglog.checkout.noTimeSlot\":\"אין חלונות אספקה\",\"miglog.checkout.payments.instalmentsByVendor\":\"מספר תשלומים למחלקת &lt;span class=colorText&gt;{0}&lt;/span&gt; סה&quot;כ {1} &lt;span class=&quot;currency placeHolder&quot;&gt;₪&lt;/span&gt;\",\"miglog.checkout.payments.instalments\":\"עד {0} תשלומים ללא ריבית\",\"miglog.checkout.payments.delay\":\"דחוי\",\"miglog.checkout.dropShipping.vendor.and.products\":\"{0} מוצרים מספק {1} - למשלוח\",\"miglog.checkout.crossdocking.vendor.and.products\":\"{0} מוצרים מספק {1} - לאיסוף עצמי\",\"miglog.checkout.crossdocking.vendor.and.products.delivery\":\"{0} מוצרים שיסופקו לכתובת המבוקשת\",\"miglog.checkout.other.text\":\"אחר\",\"miglog.general.switchProduct\":\"לבחירת תחליף &gt;\",\"miglog.account.onlineOrders.activeOrders\":\"הזמנות פעילות\",\"miglog.account.onlineOrders.closedOrders\":\"הזמנות קודמות\",\"miglog.account.onlineOrders.orderConfirmed\":\"הזמנתך התקבלה\",\"miglog.account.onlineOrders.orderConfirmedLobbyPage\":\"התקבלה\",\"miglog.account.onlineOrders.orderCancelled\":\"ההזמנה בוטלה\",\"miglog.account.onlineOrders.orderCancelledLobbyPage\":\"בוטלה\",\"miglog.account.onlineOrders.orderPicking\":\"בהכנה\",\"miglog.account.onlineOrders.orderDeliverd\":\"הגיעה ליעד\",\"miglog.account.onlineOrders.orderHandled\":\"נאספה\",\"miglog.account.onlineOrders.orderArrived\":\"סופקה\",\"miglog.account.onlineOrders.orderEsitimatedArrivel\":\"זמן הגעה משוער\",\"miglog.account.onlineOrders.orderCoordinationDone\":\"ההזמנה תואמה למשלוח\",\"miglog.account.onlineOrders.orderNumber\":\"מס&#39; הזמנה\",\"miglog.account.onlineOrders.order.number\":\"הזמנה מס&#39;\",\"miglog.account.onlineOrders.moreActions\":\"פעולות נוספות\",\"miglog.account.onlineOrders.deliveryTime\":\"זמן אספקה\",\"miglog.account.onlineOrders.receiverName\":\"שם המקבל\",\"miglog.account.onlineOrders.pickUpAddress\":\"כתובת סניף לאיסוף\",\"miglog.account.onlineOrders.address\":\"כתובת\",\"miglog.account.onlineOrders.showOrder\":\"לצפייה בהזמנה\",\"miglog.account.onlineOrders.cancleOrder\":\"ביטול הזמנה\",\"miglog.account.onlineOrders.updateOrder\":\"עדכון הזמנה\",\"miglog.account.onlineOrders.updateOrder.counterLong\":\"אפשר יהיה לעדכן את ההזמנה בסיום קליטתה במערכת, בעוד &lt;strong&gt; {0} דק&#39;&lt;/strong&gt;\",\"miglog.account.onlineOrders.updateOrder.counterShort\":\"עדכון הזמנה יהיה זמין בעוד &lt;strong&gt;{0} דק&#39;&lt;/strong&gt;\",\"miglog.account.onlineOrders.updateOrder.counterCheckout\":\"ההזמנה שלך בתהליך קליטה.&lt;br&gt; כדי שנוכל לעדכן את ההזמנה יש להמתין עוד &lt;strong&gt;{0}&lt;/strong&gt;  {2} וללחוץ על {1}\",\"miglog.account.onlineOrders.cancelOrder.counterCheckout\":\"ההזמנה שלך בתהליך קליטה.&lt;br&gt; כדי שנוכל לבטל את ההזמנה יש להמתין עוד &lt;strong&gt;{0}&lt;/strong&gt;  {2} וללחוץ על {1}\",\"miglog.account.onlineOrders.updateOrder.minutes\":\"דק&#39;\",\"miglog.account.onlineOrders.updateOrder.seconds\":\"שניות\",\"miglog.account.onlineOrders.checkArrivelTime\":\"בדוק שעת הגעה\",\"miglog.general.notApproveGoBack\":\"לא \",\"miglog.account.orders.approveCancelOrder\":\"כן, לבטל הזמנה\",\"miglog.account.orders.cancelOrder\":\"ביטול הזמנה\",\"miglog.account.orders.cancelConfirmation\":\"בקשת לבטל את הזמנה מספר &lt;br&gt;&lt;strong&gt;{0}&lt;/strong&gt;\",\"miglog.account.orders.mp.cancelText\":\"בקשת לבטל &lt;br&gt; את הזמנה מס&#39;: {0}\",\"miglog.account.orders.mp.cancelApprove\":\"כן - לבטל\",\"miglog.account.order.orderNumber\":\"הזמנה מס&#39; {0}\",\"miglog.account.order.deliveryAddress\":\"כתובת למשלוח\",\"miglog.account.order.storeToPickUpFrom\":\"חנות לאיסוף\",\"miglog.account.order.createdDate\":\"תאריך הזמנה\",\"miglog.account.order.deliverDate\":\"תאריך המסירה\",\"miglog.account.order.customerName\":\"שם הלקוח\",\"miglog.account.order.diffrentSuppliers\":\"פירוט הזמנה מספקים שונים\",\"miglog.account.order.nameOfReceiver\":\"שם המקבל\",\"miglog.account.onlineOrders.orderReadyToBePicked\":\"מוכנה לאיסוף\",\"miglog.account.onlineOrders.orderOnTheWay\":\"בדרך אליך\",\"miglog.account.default.card.shipping\":\"[כתובת ראשית]\",\"miglog.account.default.card.payment\":\"ברירת מחדל לתשלום\",\"miglog.account.default.card.error\":\"יש להשלים פרטים\",\"miglog.account.default.card.error.expDate\":\"כרטיס לא בתוקף \",\"miglog.common.share\":\"שתף\",\"miglog.common.form.idNumber\":\"ת.ז.\",\"miglog.common.form.email\":\"דואר אלקטרוני\",\"miglog.common.form.email.error\":\"דואר אלקטרוני חייב להכיל כתובת תקינה\",\"miglog.common.form.password.old\":\"סיסמה קודמת\",\"miglog.common.form.password.new\":\"סיסמה חדשה\",\"miglog.common.form.password.new.check\":\"הקלד סיסמה חדשה שוב\",\"miglog.common.form.password.error.requirements\":\"*הסיסמה לא תואמת את הדרישות\",\"miglog.common.form.password.error.compatible\":\"*סיסמאות לא תואמות\",\"miglog.common.form.password.change\":\"החלפת סיסמה\",\"miglog.common.form.message.text\":\"לקוח יקר, על מנת לישמור על ביטחונך, וכדי לוודא שהשינויים&lt;br&gt; נעשו על ידך, אנא הזן כתובת דואר אלקטרוני ומספר תעודת זהות\",\"miglog.common.form.message\":\"תאור\",\"miglog.common.form.ok\":\"שלח\",\"miglog.common.form.cancel\":\"ביטול\",\"miglog.common.form.close\":\"סגור\",\"miglog.common.share.success\":\"&lt;div class=&quot;success&quot;&gt;הרשימה נשלחה בהצלחה!&lt;/div&gt;\",\"miglog.common.share.failed\":\"&lt;div class=&quot;error&quot;&gt;אופס! לא הצלחנו לבצע את הפעולה, נסו שוב&lt;/div&gt;\",\"miglog.checkout.shufersalcc.header\":\"רגע לפני\",\"miglog.checkout.shufersalcc.body\":\"&lt;div class=&quot;messageWrapper&quot;&gt;&lt;span class=&quot;row-1&quot;&gt;לא חבל?&lt;br&gt;&lt;br&gt;&lt;/span&gt;בתשלום עם כ.א. שופרסל שלך ייצברו לך* &lt;/br&gt;  &lt;span class=&quot;numPoints&quot;&gt;{0}  מטבעות  SUPREME&lt;/span&gt;  במקום &lt;b class=&quot;numPoints&quot;&gt;{1}&lt;/b&gt; &lt;/div&gt;\",\"miglog.checkout.shufersalcc.footer\":\"*מספר המטבעות שיצברו בקנייה, הינם בהתאם לסכום הקנייה הסופי לאחר הכנת ההזמנה  בפועל. ניתן להתעדכן ביתרת מטבעות  SUPREME  לאחר קבלת המשלוח  באזור האישי.\",\"miglog.checkout.shufersalcc.ok\":\"להמשך תשלום עם כרטיס נוכחי\",\"miglog.checkout.shufersalcc.cancel\":\"לבחירת כרטיס אשראי שופרסל\",\"miglog.checkout.emvPaymentWarning.body\":\"&lt;div class=&quot;messageWrapper&quot;&gt;&lt;span&gt;היי &lt;b&gt;{0}&lt;/b&gt;,&lt;br&gt;בעקבות מעבר למערכת חיוב חדשה באתר, &lt;br&gt;נדרש לעדכן את פרטי האשראי שלך&lt;/span&gt;&lt;/div&gt;\",\"miglog.checkout.emvPaymentWarning.ok\":\"הבנתי\",\"modal.account.coupon.code.subTitle\":\"&lt;div class=&quot;font-bold&quot;&gt;לקוח/ה יקר/ה,&lt;/div&gt;&lt;div class=&quot;text-sub&quot;&gt;&lt;span&gt;יש להוסיף את הפריט המתאים לסל ולאחר מכן להזין כאן את קוד&lt;/span&gt; &lt;span&gt;הקופון שברשותך &lt;/span&gt;&lt;/div&gt;\",\"modal.account.coupon.text\":\"מספר הקופון מצוין על גביי הקופון הפיזי, בצמוד לסימן הברקוד (ראה איור). \",\"miglog.pointsAndSavings.clubPointsTitle\":\"יתרת נקודות מועדון לזכותך\",\"miglog.order.link.list\":\"הפוך לרשימה\",\"miglog.order.link.share\":\"שתף במייל\",\"miglog.order.link.invoice\":\"חשבונית במייל\",\"miglog.order.invoice.sent\":\"חשבונית נשלחה\",\"miglog.order.invoice.fail\":\"תקלת מערכת\",\"miglog.order.invoice.fail.tryAgain\":\"נסה שוב מאוחר יותר\",\"miglog.order.link.print\":\"הדפסה\",\"miglog.pointsAndSavings.withShufersalCC\":\"עם כרטיס אשראי שופרסל\",\"miglog.pointsAndSavings.fromDate\":\"מתאריך {0}  \",\"miglog.pointsAndSavings.youCanSave\":\"יכולת לחסוך \",\"miglog.orders.updateOrderDisclaimer\":\"שמנו לב שיש לך פריטים חדשים בסל הקניות.&lt;BR&gt;לידיעתך בעת עדכון הזמנה, פריטים אלו יוסרו מסל הקניות.\",\"miglog.orders.updateOrderDisclaimer.continueOrderUpdate\":\"המשך לעדכון הזמנה\",\"miglog.orders.updateOrderDisclaimer.cancel\":\"ביטול\",\"miglog.orders.updateOrder.deliveryToAddress\":\"משלוח ל: &lt;strong&gt;{0}&lt;/strong&gt;\",\"miglog.orders.updateOrder.pickupFromAddress\":\"איסוף מ: &lt;strong&gt;{0}&lt;/strong&gt;\",\"miglog.orders.updateOrder.homeOrder\":\"עדכון זמן אספקה\",\"miglog.orders.updateOrder.pickUpOrder\":\"עדכון זמן איסוף עצמי\",\"miglog.orders.updateOrder.succes.toAddress\":\"לכתובת\",\"miglog.orders.updateOrder.succes.onDate\":\"לתאריך\",\"miglog.orders.updateOrder.confirm.update\":\"עדכון ההזמנה בוצע בהצלחה\",\"miglog.orders.updated.time\":\"שבוצעה באתר שופרסל Online &lt;br&gt; עודכנה לזמן אספקה זה:\",\"miglog.orders.track.status\":\"תוכל לעקוב אחר סטטוס ההזמנה\",\"miglog.orders.personal.area\":\"באזור האישי\",\"miglog.orders.add.new.address\":\"הוספת כתובת חדשה\",\"miglog.orders.add.new.defaultAddress\":\"כתובת ראשית\",\"miglog.general.day\":\"יום\",\"miglog.general.inHour\":\"בשעה\",\"miglog.account.offlineOrder.orderNum\":\"הזמנה מס&#39; {0}&lt;br&gt;\",\"miglog.account.offlineOrder.customer.service\":\"פנייה לשירות לקוחות\",\"miglog.product.promotion.more\":\"עוד\",\"miglog.account.onlineOrder.pickUpAddress\":\"כתובת לאיסוף\",\"miglog.account.order.onlineOrderNumber\":\"הזמנה מס&#39; {0}\",\"miglog.checkout.validationerror.SHIPPING_ADDRESS_ERROR\":\"ישנה בעיה בכתובת למשלוח\",\"miglog.checkout.validationerror.TIMESLOT_ERROR\":\"ישנה בעיה בכתובת וזמן איסוף עצמי\",\"miglog.checkout.validationerror.CONSIGNMENT_DATA_ERROR\":\"לא ניתן להשלים הזמנה ללא מוצרים\",\"miglog.account.listsTitle\":\"רשימות\",\"miglog.account.onlineOrderTitle\":\"הזמנות אונליין\",\"miglog.account.shoppingOnStoreTitle\":\"קניות בסניפים\",\"miglog.personal.pesonalInfo\":\"פרטים אישיים\",\"miglog.personal.firstName\":\"שם פרטי\",\"miglog.personal.lastName\":\"שם משפחה\",\"miglog.personal.idNumber\":\"תעודת זהות\",\"miglog.personal.birthDate\":\"תאריך לידה\",\"miglog.personal.primaryPhoneNumber\":\"טלפון נייד\",\"miglog.personal.secondaryPhoneNumber\":\"מספר נייד נוסף\",\"miglog.personal.phone\":\"טלפון\",\"miglog.personal.gender\":\"מין\",\"miglog.personal.shufersalClubNumber\":\"מספר מועדון שופרסל\",\"miglog.personal.female\":\"נקבה\",\"miglog.personal.male\":\"זכר\",\"miglog.general.dataSaved\":\"המידע נשמר\",\"miglog.general.year\":\"שנה\",\"miglog.general.month\":\"חודש\",\"miglog.datePicker.chooseYearAndMonth\":\"יש לבחור חודש ושנה\",\"miglog.account.deliveryOption.sendSMS\":\"שילחו sms/whatsapp &lt;br&gt; לתיאום פריטים חלופיים \",\"miglog.account.deliveryOption.call\":\"התקשרו לתיאום &lt;br&gt;פריטים חלופיים \",\"miglog.account.deliveryOption.deliver\":\"ספקו פריטים&lt;br&gt; חלופיים ללא תיאום \",\"miglog.account.deliveryOption.dontDeliver\":\"אל תספקו&lt;br&gt; פריטים חלופיים \",\"miglog.checkout.deliveryOptions.deliveryNotes\":\"הערות למשלוח\",\"miglog.checkout.deliveryOptions.order\":\"הערות להזמנה\",\"miglog.checkout.deliveryOptions.writeNoteToSupplier\":\"כתוב הערה לספק\",\"miglog.common.form.change.password.title\":\"החלפת סיסמה לאתר\",\"miglog.common.form.change.password\":\"החלף סיסמה\",\"miglog.account.form.passwordAndSetting\":\"סיסמה והגדרות\",\"miglog.account.orders.orderDeliverdOn\":\"ההזמנה סופקה\",\"miglog.account.orders.orderHandled\":\"ההזמנה טופלה\",\"miglog.coupon.how.to.step\":\"שלב\",\"miglog.coupon.how.to.from\":\"מתוך 3\",\"miglog.coupon.how.to.turn.on\":\"הפעל את הקופון לקבלת &lt;br&gt;ההטבה או ההנחה בסל\",\"miglog.coupon.how.to.implementaion\":\"למימוש קופון על מוצר יש להוסיף את המוצר לסל לאחר ההפעלה\",\"miglog.coupon.how.to.added.products\":\"המוצרים שנוספו יוצגו בסל &lt;br&gt; לאחר סגירת מסך הקופונים\",\"miglog.account.onlineOrder.productOrdered\":\"פריטים בהזמנה:\",\"miglog.account.onlineOrders.pickUpTime\":\"זמן לאיסוף\",\"miglog.account.onlineOrders.checkArrivelTimeError\":\"לא ניתן לבדוק שעת הגעה\",\"miglog.account.pickup.street\":\"רח&#39;\",\"miglog.modal.update.products\":\"עדכון סל\",\"miglog.modal.update.timeSlot\":\"עדכון זמן אספקה\",\"miglog.checkout.validation.noDirectPickUpSelected\":\"לא נבחר מועד לאיסוף עצמי\",\"miglog.checkout.validation.noDirectDeliverySelected\":\"לצורך השלמת ההזמנה יש לבחור שעת משלוח\",\"miglog.checkout.validation.noVoucherAdded\":\"לא הוזן גיפט קארד\",\"miglog.checkout.validation.voucher.cvv\":\"יש להזין cvv\",\"miglog.checkout.validation.noCostCenterSelected\":\"לא נבחר מרכז עלות\",\"miglog.checkout.validation.noPaymentMethodSelected\":\"לא נבחר אמצעי תשלום\",\"miglog.checkout.validation.noAddressSelected\":\"לא נבחרה כתובת למשלוח\",\"miglog.checkout.validation.noInstalmentsSelected\":\"לא נבחר מספר תשלומים\",\"miglog.account.wishList.shareListByMail\":\"שיתוף רשימה \",\"miglog.account.wishList.delete\":\"מחק\",\"miglog.account.wishList.edit\":\"ערןך\",\"miglog.account.wishList.shareListTo\":\"איך תרצו לשלוח את הרשימה?\",\"miglog.account.pointsAndSavings\":\"נקודות וחיסכון\",\"validation.checkPwd.equals\":\"Password and password confirmation do not match\",\"miglog.account.onlineOrders.order2Cart.listTitle\":\"קניה חוזרת\",\"miglog.account.onlineOrders.orderNum\":\"מס&#39; הזמנה: {0}\",\"miglog.recommendations.proceedWithoutProducts\":\"המשך לתשלום ללא המוצרים\",\"miglog.recommendations.proceedToPayment\":\"המשך לתשלום\",\"miglog.recommendations.productsWillNotBeSupplied\":\"חלק מהפריטים שהזמנת לכתובת זו חסרים במלאי.\",\"miglog.account.form.passwordAndSetting.updatesAndNotifications\":\"עדכונים והתראות\",\"miglog.account.form.passwordAndSetting.contentForUpdates\":\"תחומי ענין\",\"miglog.account.form.passwordAndSetting.chooseSubjectsForNewsletter\":\"יש תחומים שכדאי שנדע שמעינינים אותך במיוחד?&lt;br&gt; אפשר לבחור כמה תחומים \",\"miglog.account.form.passwordAndSetting.infoWasSaved\":\"המידע נשמר\",\"miglog.general.showMore\":\"הצג עוד\",\"miglog.general.showLess\":\"הצג פחות\",\"miglog.general.showAll\":\"הצג הכל\",\"miglog.general.showAll.coupons\":\"הצג את כל הקופונים\",\"miglog.order.update.cart.msg\":\"כל פריטי ההזמנה נוספו לעגלה\",\"miglog.general.prev.page\":\"לדף קודם\",\"miglog.add.to.product.list\":\"לרשימת מוצרים\",\"miglog.add.1\":\"הוסף 1\",\"miglog.reduce.1\":\"הפחת 1 \",\"miglog.wishList.deleteWishListTitle\":\"רגע לפני מחיקת הרשימה\",\"miglog.wishList.deleteWishListConfimationText\":\"למחוק את הרשימה לצמיתות?\",\"miglog.wishList.deleteList\":\"בצע מחיקה\",\"miglog.general.notApprovedGoBack\":\"לא מאשר, סגור\",\"miglog.asm.search.placeholder\":\"הקלד\",\"miglog.asm.search.placeholder.cart\":\"הקלד מס&#39; סל\",\"miglog.asm.search.placeholder.companyNumber\":\"הקלד מס&#39; חפ\",\"miglog.peyment.delete.creditCard\":\"מחיקת כרטיס אשראי\",\"miglog.account.delete.address\":\"מחיקת כתובת\",\"miglog.account.edit\":\"פרטים אישיים\",\"order.shipping.and.payment.details\":\"פרטי משלוח ותשלום\",\"order.payment\":\"תשלום\",\"miglog.register.online.submit\":\"miglog.register.online.submit\",\"miglog.checkout.payment.editInfo\":\"עריכה\",\"miglog.checkout.payment.newOrOther\":\"אחר/חדש\",\"miglog.register.pwd.explanation\":\"(יש להזין סיסמה באורך 8-16 תווים,&lt;br&gt; לא יותר מ-2 תווים זהים ברצף)\",\"miglog.account.noOnlineOrders\":\"לקוח יקר, עוד לא קיימים נתונים במערכת, נסה בקניה הבאה\",\"miglog.account.updateOrder.youChooseToUpdate\":\"בחרת לעדכן זמן אספקה ל:\",\"miglog.account.updateOrder.beforeChangeDateOfSupplay\":\"רגע לפני עדכון זמן אספקה\",\"miglog.customer.service.inquiries\":\"פניות לשירות לקוחות\",\"miglog.customer.service.detailed.inquiry\":\"פירוט הפניות שלך לשירות לקוחות שופרסל בין התאריכים 20/01/15- 20/01/17\",\"miglog.customer.service.inquiry.id\":\"מספר פניה\",\"miglog.customer.service.inquiry.date\":\"פניה מתאריך\",\"miglog.customer.service.order.tel\":\"הזמנה טלפונית\",\"miglog.customer.service.order.subject\":\"נושא פניה\",\"miglog.customer.service.order.number\":\"מספר הזמנה\",\"miglog.customer.service.tel.back\":\"טלפון לחזרה\",\"miglog.customer.service.email\":\"דואר אלקטרוני\",\"miglog.customer.service.comment\":\"הערות\",\"miglog.customer.service.order.treatment\":\"אופן הטיפול\",\"miglog.customer.service.order.status\":\"סטאטוס פניה\",\"miglog.customer.service.credited.amount\":\"סכום לזיכוי\",\"miglog.customer.service.status.InProcess\":\"בטיפול\",\"miglog.customer.service.status.Open\":\"פתוח\",\"miglog.customer.service.status.Close\":\"סגור\",\"miglog.customer.service.status.in.CloseDate\":\"מתאריך {0}\",\"miglog.customer.service.category.Telephonecall\":\"הזמנה טלפונית\",\"miglog.customer.service.empty\":\"אין פניות להצגה\",\"miglog.asm.search.searchResultTitle.start\":\"נמצאו {0} לקוחות לפי \",\"miglog.asm.search.units.numberOfResults\":\"נמצאו {0} יחידות\",\"miglog.asm.search.searchResultTitle.end\":\"אנא בדוק אימות עם נתון נוסף ובחר מהטבלה\",\"miglog.asm.search.noResult\":\"לא נמצאו תוצאות לפי \",\"miglog.asm.search.units.noResult\":\"לא נמצאו תוצאות\",\"miglog.asm.search.b2bUnits.title\":\"לקוח עיסקי מידע נוסף\",\"miglog.asm.search.b2bUnits.noData\":\"אין מידע להצגה\",\"miglog.asm.search.b2bUnits.fatherCustomer\":\"לקוח אבא\",\"miglog.asm.search.b2bUnits.fatherAdmin\":\"אדמין אבא\",\"miglog.asm.search.b2bUnits.paymentType\":\"סוג אמצעי תשלום \",\"miglog.asm.search.b2bUnits.currentMonthObligoBalance\":\"יתרת אובליגו לחודש נוכחי\",\"miglog.asm.search.b2bUnits.nextMonthObligoBalance\":\"יתרת אובליגו לחודש הבא\",\"miglog.asm.loggedIn.customerId\":\"מס&#39; לקוח: {0}\",\"miglog.asm.loggedIn.email\":\"מייל: {0}\",\"miglog.asm.loggedIn.phone\":\"טל&#39;: {0}\",\"miglog.asm.loggedIn.order.title\":\"בחר הזמנה בגינה נפתחת {0}\",\"miglog.asm.loggedIn.order.noOrderTitle\":\"לא קיימות הזמנות ללקוח זה\",\"miglog.asm.loggedIn.cartNumber\":\"מספר סל: {0}\",\"miglog.asm.loggedIn.selectedOriginalOrder\":\"מספר הזמנה נבחר\",\"miglog.asm.loggedIn.originalOrderInProcess\":\"הזמנה בתהליך\",\"miglog.asm.changeOrderType.selectedOrderType\":\"סוג ההזמנה הנוכחי: &lt;strong&gt;{0}&lt;/strong&gt;\",\"miglog.asm.changeOrderType.orderStatus\":\"סטטוס: &lt;strong&gt;{0}&lt;/strong&gt;\",\"miglog.asm.changeOrderType.chooseTitle\":\"בחר סוג הזמנה מעודכן\",\"miglog.asm.changeOrderType.save\":\"אישור\",\"miglog.asm.search.byCartId.noSuchCartId\":\"לא נמצא סל {0}\",\"miglog.asm.customer.status.ACTIVE\":\"פעיל\",\"miglog.asm.customer.status.NOT_ACTIVE\":\"לא פעיל \",\"miglog.asm.customer.unlock\":\"שחרר לקוח\",\"miglog.asm.customer.unlockSuccess\":\"שחרור לקוח בוצע בהצלחה \",\"miglog.asm.type.regularOrder\":\"הזמנה רגילה\",\"miglog.asm.type.otherOrder\":\"הזמנה מספק\",\"miglog.timeSlot.unAvailable\":\"לא זמין\",\"miglog.asm.noAgentConnected\":\"סוכן שירות לקוחות לא מחובר\",\"miglog.account.form.passwordAndSetting.userValidationFaild\":\"אחד מהפרטים שהוכנסו שגויים\",\"miglog.account.form.passwordAndSetting.passwordHasChanged\":\"הסיסמא הוחלפה בהצלחה\",\"miglog.asm.search.by\":\"חפש לפי\",\"miglog.asm.client\":\"לקוח\",\"miglog.asm.or\":\"או\",\"miglog.asm.no.basket\":\"מס&#39; סל\",\"miglog.asm.no.Company\":\"מס&#39; חפ\",\"miglog.asm.click.to.filter\":\"לחץ לסינון\",\"miglog.asm.confirm.header\":\"רגע לפני תחילת הזמנה\",\"miglog.asm.confirm.message\":\"המוצרים בסל הנוכחי יימחקו, האם להמשיך?\",\"miglog.asm.confirm.ok\":\"מאשר, התחל הזמנה\",\"miglog.asm.confirm.cancel\":\"לא מאשר, סגור\",\"miglog.checkout.coordinationType.COORDINATION\":\"אספקה לבית לקוח לאחר תיאום טלפוני\",\"miglog.checkout.coordinationType.COURIER\":\"אספקה לבית לקוח\",\"miglog.checkout.nonDFoodOutOfStockTitle\":\"שנה כתובת או &lt;a class=&quot;u colorRed&quot; href=&quot;{0}&quot;&gt;הסר את המוצר מהעגלה&lt;/a&gt;\",\"miglog.checkout.validation.otherCartOutOfStock\":\"המוצר אינו במלאי\",\"miglog.checkout.otherOrderDeliveryTime\":\"עד {0} ימי עסקים\",\"miglog.checkout.otherOrderDeliveryTime2\":\"עד {0} יום ובתיאום טלפוני \",\"miglog.checkout.noPointOfServicesForCity\":\"לא קייימים סניפים ליישוב הנבחר\",\"miglog.account.wishList.myLists\":\"הרשימות שלי\",\"miglog.account.wishList.popularProducts\":\"פריטים פופולריים\",\"miglog.account.wishList.emptyList\":\"אופס... אין פריטים קיימים ברשימה זו\",\"miglog.account.publicWishList.recommendedLists\":\"רשימות מומלצות שלנו\",\"miglog.account.publicWishList.productsAmount\":\"מספר מוצרים\",\"miglog.wishLists.usePreMadeListOrCreateNew\":\"באפשרותך להשתמש ברשימת הקניות שהכנו עבורך או ליצור רשימת קניות חדשה\",\"miglog.account.address.houseNum\":\"מס&#39; בית\",\"miglog.account.address.postalCode\":\"מיקוד\",\"miglog.account.address.postalCode.invalid\":\"מיקוד לא נכון\",\"miglog.account.address.forCouponsTitle\":\"כתובת מגורים למשלוח קופונים\",\"miglog.account.address.living\":\"כתובת מגורים \",\"miglog.account.address.mail\":\"כתובת ת.ד \",\"miglog.account.address.noData\":\"זמנית לא ניתן להציג את הנתונים\",\"miglog.account.address.saveError\":\"ארעה תקלה בעדכון הנתונים נסו שנית\",\"miglog.account.address.saveSuccess\":\"הכתובת עודכנה בהצלחה\",\"miglog.account.address.back\":\"חזרה\",\"miglog.coupon.modal.filterBy\":\"סינון לפי:\",\"miglog.checkout.CC.expDate\":\"תוקף כרטיס האשראי פג\",\"miglog.checkout.CC.expire\":\"כרטיס לא בתוקף\",\"miglog.checkout.CC.emv\":\"חסרים נתונים\",\"miglog.coupons.enterCouponCode\":\"הזנת קוד קופון\",\"miglog.coupons.couponCode\":\"מספר הקופון\",\"miglog.coupons.confirm\":\"אישור\",\"miglog.coupons.confirmAndAddNewCoupon\":\"אישור והזנת קופון נוסף\",\"miglog.coupons.noProductsInCart\":\"לא ניתן להזין את הקופון בלי המוצרים\",\"miglog.coupons.chooseProducts\":\"לחץ כאן לבחירת המוצרים\",\"miglog.payment.creditcard.errorAlreadyexist\":\"כרטיס אשראי כבר קיים\",\"miglog.account.wishList.saveBackGroundImage\":\"שמור\",\"miglog.touchSpin.maxWeight\":\"כמות מירבית בקניה {0} ק&quot;ג\",\"miglog.touchSpin.minWeight\":\"כמות המינימלית בקניה {0} ק&quot;ג\",\"miglog.touchSpin.maxUnits\":\"כמות מקסימלית בקניה {0} יח&#39;\",\"miglog.touchSpin.minUnits\":\"כמות המינימלית בקניה {0} יח&#39;\",\"miglog.coupons.empty\":\"אין קופונים להצגה\",\"miglog.prepaid.coupons.empty\":\"אין כרטסיות להצגה\",\"miglog.payments.cc.deletaLast.error\":\"לא ניתן למחוק כרטיס יחיד\",\"miglog.payments.cc.delete\":\"מחיקה\",\"miglog.payments.cc.block\":\"חסימה\",\"miglog.payments.cc.unblock\":\"שחרור חסימה\",\"miglog.payments.cc.deleteRemark\":\"לא תוכל להשתמש בכרטיס אשראי זה יותר\",\"miglog.payments.cc.unblockRemark\":\"הכרטיס לא יהיה חסום יותר\",\"miglog.common.form.min.error\":\"מינימום {0} תווים\",\"miglog.common.form.max.error\":\"מקסימום {0} תווים\",\"miglog.checkout.self\":\"בעצמי \",\"miglog.checkout.i.pick\":\"אני רוצה לאסוף את המשלוח \",\"miglog.checkout.i.pick.info\":\"לאיסוף ההזמנה יש להגיע עם תעודת הזהות של מבצע ההזמנה וכרטיס האשראי איתו בוצעה ההזמנה.\",\"miglog.checkout.i.delivery\":\"אני רוצה שתשלחו אליי את המוצרים \",\"miglog.checkout.serverValidation.paymentError\":\"נסיון אימות הכרטיס נכשל נא לנסות שנית מאוחר יותר\",\"miglog.checkout.serverValidation.paymentError.voucher\":\"לא ניתן לשלם בכרטיס אשראי מסוג דיירקט כגיבוי לתווי קניה\",\"miglog.checkout.placeOrder.generalError.title\":\"אופס...\",\"miglog.checkout.placeOrder.generalError.text\":\"לקוח יקר,&lt;br&gt;אירעה שגיאה, נסה שנית מאוחר יותר&lt;br&gt;או פנה לשירות לקוחות 1-800-56-56-56\",\"miglog.checkout.placeOrder.generalError.text.body\":\"&lt;b&gt;היי {0},&lt;br&gt; חלק מהפרטים שהקלדת שגויים,&lt;br&gt; כדאי לעבור עליהם שוב&lt;/b&gt; &lt;br&gt;&lt;br&gt;&lt;b&gt;ניתן לפנות אלינו  &lt;br&gt; בטלפון: 1-800-56-56-56&lt;/b&gt;\",\"miglog.checkout.paymeStatus.generalError.text.body\":\"&lt;b&gt;היי {0},&lt;br&gt; לא הצלחנו לאמת את העסקה, נסו שנית בבקשה\",\"miglog.checkout.cardIsNotSupported.generalError.text.body\":\"&lt;b&gt;היי {0},&lt;br&gt; כרטיס זה אינו נתמך.&lt;br&gt; יש לבחור או להזין כרטיס אשראי אחר\",\"miglog.checkout.creditcard.brutforce.error\":\"עקב ניסיונות רבים מדי, נסו שנית בעוד {0} דקות\",\"miglog.checkout.placeOrder.generalError.text.footer\":\"miglog.checkout.placeOrder.generalError.text.footer\",\"miglog.checkout.paymentError.text\":\"אירעה תקלה בשמירת הנתונים, נסו שנית\",\"miglog.checkout.paymentError.textDefault\":\"חלק מהפרטים שהקלדת שגויים.&lt;br&gt; כדאי לעבור עליהם שוב, או להזין פרטי כרטיס אשראי אחר\",\"miglog.personalInfo.aproveEmailChange\":\"בצע עדכון\",\"miglog.personalInfo.emailChangeConfimationText\":\"בחרת לשנות את כתובת המייל.&lt;br&gt; לאחר מכן תצטרך לבצע כניסה מחדש לאתר\",\"miglog.personalInfo.emailChangeTitle\":\"רגע לפני עדכון פרטים אישיים\",\"miglog.common.regulation.text\":\"תקנון\",\"miglog.general.category\":\"כללי\",\"miglog.common.emailValidationError\":\"נא הזן דואר אלקטרוני חוקי\",\"miglog.account.orders.customerService\":\"מוקד השירות\",\"miglog.general.validation.onlyNumbers\":\"ניתן להקליד רק מספרים\",\"miglog.checkout.serverError.PERMISSION\":\"לקוח יקר, שים לב&lt;br&gt; כי לא קיימות הרשאות מתאימות לביצוע ההזמנה\",\"miglog.checkout.serverError.PERMISSION_VALUE\":\"לתשומת לבך,&lt;br&gt;הינך מורשה לבצע הזמנות עד לסכום של ₪{0}&lt;br&gt;ולכן לא ניתן להשלים את הרכישה\",\"miglog.checkout.serverError.PERMISSION_VALUE.backBtn\":\"חזור לסל הקניות\",\"miglog.checkout.serverError.ONE_OBLIGO_ERROR\":\"שים לב, סכום ההזמנה חורג מיתרת האובליגו\",\"miglog.checkout.serverError.OBLIGO_ERROR\":\"שים לב, סכום ההזמנה חורג מיתרת האובליגו באפשרותך לשלם בכרטיס אשראי או לפנות למוקד שירות הלקוחות העסקי 1800-56-56-56\",\"miglog.checkout.serverError.OBLIGO_ERROR_NULL\":\"לא ניתן לסגור את ההזמנה עקב בעיה באובליגו&lt;br&gt;אנא נסו שוב בעוד מספר דקות\",\"miglog.checkout.serverError.BLOCKED\":\"לקוח חסום. נא פנה לשירות לקוחות 1-800-56-56-56     \",\"miglog.checkout.serverError.NOT_APPROVED\":\"לקוח לא מאושר. נא פנה לשירות לקוחות 1-800-56-56-56\",\"miglog.checkout.serverError.CONSIGNMENT_TOTAL_ZERO\":\"לא ניתן להמשיך ללא מוצרים\",\"miglog.checkout.serverError.TIMESLOT_UNAVAILABLE\":\"חלון הזמן אינו זמין\",\"miglog.checkout.serverError.SHIPPING_ADDRESS_NOT_INSERTED\":\"לא נבחרה כתובת\",\"miglog.checkout.serverError.CONSIGNMENT_EMPTY\":\"לא קיימים פריטים בסל\",\"miglog.checkout.serverError.TIMESLOT_NO_LONGER_SELECTABLE\":\"מועד המשלוח/איסוף אותו בחרת חרג מהזמן האפשרי ליצירת/עדכון הזמנה, יש לבחור חדש\",\"miglog.checkout.serverError.voucher.already.added\":\"תו הזהב / גיפט קארד כבר נוסף\",\"miglog.checkout.serverError.voucher.validation.failed\":\"חלק מהפרטים שהקלדת שגויים , כדאי לבדוק שוב , או להזין פרטי תו זהב / GIFR CARD אחר\",\"miglog.checkout.serverError.voucher.generalError\":\"הוספת תו קנייה/ GIFT CARD נכשלה, נא פנה לשירות לקוחות\",\"miglog.checkout.serverError.voucher.invalidCvv\":\"CVV שגוי\",\"miglog.checkout.serverError.voucher.value.illegal\":\"ערך של תו הזהב / גיפט קארד לא חוקי\",\"miglog.deliveryOptions.digitalInvoice.title\":\"אשמח לקבל את החשבונית\",\"miglog.deliveryOptions.digitalInvoice.true\":\"דיגיטלית באזור האישי\",\"miglog.deliveryOptions.digitalInvoice.true.subTitle\":\"תחת ההזמנות שלי \",\"miglog.deliveryOptions.digitalInvoice.false\":\"בנייר\",\"miglog.deliveryOptions.digitalInvoice.modal.text\":\"לנוחיותך, ניתן לשלוח את תעודת המשלוח וחשבונית דיגיטלית במייל&lt;br&gt;זה יעזור לך לשמור על סדר ולנו זה יעזור לשמור על הסביבה. &lt;br&gt;(ניתן בכל עת לשנות את הבחירה באזור האישי) לאישורך: &lt;br&gt;\",\"miglog.deliveryOptions.digitalInvoice.modal.disclaimer\":\"אני מאשר/ת קבלת תעודת משלוח וחשבונית במייל\",\"miglog.deliveryOptions.digitalInvoice.modal.button\":\"המשך לתשלום\",\"miglog.deliveryOptions.replacementPreference.title\":\"במידה ונמצאו פריטים חסרים בעת איסוף ההזמנה\",\"miglog.deliveryOptions.replacementPreference.sms\":\"שילחו sms לתיאום פריטים חלופיים\",\"miglog.deliveryOptions.replacementPreference.alternative\":\"ספקו פריטים חלופיים ללא תיאום\",\"miglog.deliveryOptions.replacementPreference.noAlternative\":\"אל תספקו פריטים חלופיים \",\"miglog.deliveryOptions.over18permission.title\":\"אופן קבלת המשלוח\",\"miglog.deliveryOptions.over18permission.subtitle\":\"קבלת משלוח המכיל אלכוהול, סיגריות, טבק או תרופות, תתאפשר רק ע&quot;י אדם בגיל 18 ומעלה\",\"miglog.deliveryOptions.over18permission.text\":\"יהיה בבית אדם בגיל 18 ומעלה לקבל את המשלוח\",\"miglog.checkout.over18permission.text\":\"אנחנו מזכירים שיש לך פריטים בהזמנה שדורשים נוכחות בבית של אדם בגיל 18 ומעלה בעת הגעת המשלוח\",\"miglog.deliveryOptions.over18permission.errorText\":\"יש לאשר את אופן קבלת ההזמנה\",\"miglog.deliveryOptions.customerPresence.title\":\"בזמן המשלוח אני\",\"miglog.deliveryOptions.customerPresence.atHome\":\"בבית לקבל את המשלוח \",\"miglog.deliveryOptions.customerPresence.notHome\":\"לא בבית. תשאירו ליד הדלת \",\"miglog.deliveryOptions.customerPresence.notHomeDisclaimer\":\"אני מאשר/ת שבבחירה &#39;תשאירו ליד הדלת&#39; שופרסל מסירה מעליה כל אחריות לשלמות המשלוח ופגמים שעלולים לקרות משהות המוצרים בסביבה לא מבוקרת\",\"miglog.deliveryOptions.shippingNotePreference.title\":\"להציג מחירים בפירוט ההזמנה ?\",\"miglog.deliveryOptions.shippingNotePreference.attachWithPrice\":\"כן\",\"miglog.deliveryOptions.shippingNotePreference.attachWithoutPrice\":\"לא\",\"miglog.deliveryOptions.receipt.title\":\"אשמח לקבל את החשבונית\",\"miglog.deliveryOptions.receipt.title.toolTip\":\"החשבונית הינה אישית ומופקת על שם המזמין&lt;BR&gt;לא ניתן להפיק חשבונית על שם לקוחות אחרים\",\"miglog.deliveryOptions.receipt.digitalShufersalSite\":\"דיגיטלית באזור האישי\",\"miglog.deliveryOptions.receipt.digitalShufersalSite.subTitle\":\"תחת ההזמנות שלי \",\"miglog.deliveryOptions.receipt.paper\":\"בנייר\",\"miglog.deliveryOptions.note\":\"כתוב הערה\",\"miglog.deliveryOptions.receipt.validationMessage\":\"יש לבחור את אופן קבלת החשבונית\",\"miglog.deliveryOptions.disclaimer.text\":\"המשלוח יגיע בטווח שעתיים מהמועד הנבחר\",\"miglog.checkout.CreditCardPaymentMode\":\"כרטיס אשראי\",\"miglog.checkout.ObligoPaymentMode\":\"תשלום באמצעות אובליגו\",\"miglog.checkout.ObligoCreditCardPayment\":\"כרטיס אשראי\",\"miglog.checkout.budgetType.OBLIGO\":\"תשלום באמצעות אובליגו\",\"miglog.checkout.budgetType.CREDIT_CARD\":\"תשלום בכרטיס האשראי שלי\",\"miglog.checkout.VoucherPaymentMode\":\"תו זהב / גיפטקארד\",\"miglog.deliveryOptions.direct.only\":\"עבור הזמנת מוצרים באספקה מידית בלבד (לא תקף להזמנת מוצרים בתאום טלפוני)\",\"miglog.checkout.paymentmode.creditcard\":\"כרטיס אשראי\",\"miglog.checkout.CustomerSupportPaymentMode\":\"לחיוב שופרסל\",\"miglog.asm.orders.paymentInfo.obligo.cc\":\"אובליגו עם כרטיס אשראי המסתיים בספרות {0} \",\"miglog.asm.orders.paymentInfo.cc\":\"כרטיס אשראי המסתיים בספרות {0} \",\"confirmation.payment.detail\":\"אמצעי תשלום\",\"miglog.asm.orders.paymentInfo.voucher\":\"תו קניה המסתיים בספרות {0} בסכום {1} ש&quot;ח\",\"miglog.asm.orders.voucher.backup\":\"כרטיס אשראי ליתרה וגיבוי המסתיים בספרות {0} \",\"miglog.asm.orders.obligo\":\"אובליגו\",\"miglog.account.deliveryOptions.title\":\"הערות למשלוח\",\"miglog.account.settingsOptions.security.title\":\"אבטחה\",\"miglog.noTimeSlotForZipCode\":\"אין זמינות משלוחים לכתובת זו. אפשר לבחור כתובת אחרת.\",\"miglog.noTimeSlotForZipCode.prescription\":\"מצטערים, לא נוכל לספק את המשלוח ב-48 השעות הקרובות לכתובת זו.&lt;br&gt;על פי הנחיות משרד הבריאות, אני מחויבים למשלוח תרופות תוך 48 שעות ממועד ביצוע ההזמנה. יש לנסות שוב מאוחר יותר.\",\"miglog.v-select-instructions\":\"השתמש במקש למטה כדי לגשת ולעיין בהצעות לאחר הקלדה. אשר את הבחירה שלך באמצעות מקש Enter\",\"miglog.cards.enter.coupon.code\":\"להזנת קוד קופון\",\"coupons.sample.image\":\"איור ברקוד קופון\",\"miglog.asm.hello\":\"שלום {0}\",\"miglog.asm.anonymous\":\"אנונימי\",\"miglog.asm.logged.in.message\":\"הנך מחובר כלקוח\",\"miglog.asm.not.logged.in\":\"הנך לא מחובר\",\"miglog.common.specialCharsValidationError\":\"הוכנס תו לא חוקי\",\"miglog.asm.activateCustomer\":\"שחרר נעילת לקוח\",\"miglog.asm.activateCustomerSuccess\":\"שחרור נעילת לקוח בוצע בהצלחה\",\"miglog.asm.switchCustomer\":\"החלף לקוח\",\"miglog.asm.chooseOrderType\":\"בחר סוג הזמנה\",\"miglog.asm.chooseOrder\":\"יש לבחור הזמנה\",\"miglog.asm.startPersonify\":\"התחל הזמנה כלקוח\",\"miglog.asm.claimCart\":\"טען עגלה\",\"miglog.asm.logut\":\"התנתקות\",\"miglog.asm.otp\":\"מספר OTP של הלקוח\",\"miglog.asm.resetPasswordSuccess\":\"מייל איפוס סיסמה נשלח ללקוח\",\"miglog.asm.ordersMonitor\":\"מוניטור הזמנות\",\"miglog.asm.resetPassword\":\"מייל לאיפוס סיסמה\",\"asm.onlyAssistedServiceAllowed\":\"asm.onlyAssistedServiceAllowed\",\"miglog.asm.WrongRestPasswordDetails\":\"פרטי הלקוח לאיפוס סיסמה אינם נכונים\",\"miglog.checkout.commonerror\":\"אופס...|:|לא ניתן להשלים את הפעולה\",\"miglog.addressSave\":\"שמירה\",\"miglog.b2b.tabs.sronly\":\"שלב {0} מתוך {1}\",\"miglog.b2b.tabs.companyInfo\":\"פרטי העסק\",\"miglog.b2b.tabs.companyAddress\":\"כתובת העסק\",\"miglog.b2b.tabs.companyPayment\":\"תקציב ואמצעי תשלום\",\"miglog.b2b.tabs.companyDocument\":\"הורדת מסמכים\",\"miglog.b2b.registration.continueBtn\":\"הצטרפות לשופרסל\",\"miglog.b2b.registration.submit\":\"המשך\",\"miglog.b2bg.form.companyInfo.title\":\"פרטי העסק\",\"miglog.b2bg.form.contactPerson.title\":\"איש קשר ראשי\",\"miglog.b2bg.form.siteRegistrationDetails.title\":\"בחר שם משתמש וסיסמה לאתר\",\"miglog.b2bg.form.contactPerson.budgetDepartment\":\"איש קשר במחלקת כספים בארגון\",\"miglog.b2bg.form.contactPerson.budgetDepartment.checkbox\":\"העתק פרטים מאיש קשר ראשי\",\"miglog.b2bg.form.paymnet.budget\":\"הגדרת תקציב\",\"miglog.b2bg.form.paymnet.paymentType\":\"הגדרת אופן התשלום וכרטיס אשראי\",\"miglog.b2bg.form.paymnet.chargeDetials\":\"הגדר באיזו דרך תרצה לקבל את החשבונית\",\"miglog.b2bg.form.paymnet.expectedRevenue\":\"צפי רכישות חודשי לארגון\",\"miglog.b2bg.form.paymnet.monthlyBudget\":\"תקציב חודשי לרכישה (רשות)\",\"miglog.b2bg.form.paymnet.fillAmount\":\"הזן סכום\",\"miglog.b2b.form.payment.payPerBuy\":\"תשלום בכל קניה \",\"miglog.b2b.form.payment.payObligo\":\"קניה באשראי (אובליגו)\",\"miglog.b2b.form.payment.choosePaymentType.title\":\"בחירת אופן התשלום \",\"miglog.b2b.form.payment.choosePaymentMethod.title\":\"אופן התשלום \",\"miglog.b2b.form.payment.obligo.balance\":\"יתרות אובליגו\",\"miglog.b2b.form.payment.obligo.paymentTerm\":\"פרטי אובליגו\",\"miglog.b2b.form.payment.obligo.paymentTerm.text\":\"לשינוי אנא צרו קשר עם מוקד שירות הלקוחות העסקיים 1-800-56-56-56\",\"miglog.b2b.form.payment.obligo.paymentTerm.update\":\"לעדכון פרטי האובליגו יש לפנות לכתובת: GviaObligo@shufersal.co.il\",\"miglog.b2b.form.payment.obligo.paymentTerm.title\":\"תנאי תשלום:\",\"miglog.b2b.form.payment.invoiceType\":\"סוג חשבונית\",\"miglog.b2b.form.payment.invoiceFileType\":\"פירוט עסקאות (סוג קובץ)\",\"miglog.b2b.form.payment.digitalInvoice\":\"חשבונית דיגיטלית (קבלת חשבונית במייל) \",\"miglog.b2b.form.paymentType\":\"סוג תשלום עבור החוב\",\"miglog.b2b.invoice.status.EVERY_PURCHASE\":\"בכל קניה \",\"miglog.b2b.invoice.status.ONCE_IN_A_MONTH\":\"פעם בחודש\",\"miglog.b2b.invoice.status.No\":\"לא\",\"miglog.b2b.invoice.status.Yes,PDF\":\"כן, קובץ PDF\",\"miglog.b2b.invoice.status.Yes,Word\":\"כן, קובץ Word\",\"miglog.b2b.invoice.status.Yes,Excel\":\"כן, קובץ Excel\",\"miglog.b2bg.form.document.other.title\":\"טפסים נוספים לשימושך\",\"miglog.b2bg.form.document.title\":\"הורדת מסמכי הצטרפות\",\"miglog.b2bg.form.document.subTitle\":\"יש להוריד את טופס ההצטרפות, לחתום ולשלוח במייל ל RonitS@shufersal.co.il.\",\"miglog.b2bg.form.document.subTitle2\":\"להעלאת קובץ חתום יש להעלותו לאחר סיום ההרשמה באזור האישי\",\"miglog.b2b.form.document.terms\":\"תנאי השימוש\",\"miglog.b2b.payment.obligoType.OBLIGO\":\"מסגרת אשראי (אובליגו – מותנה באישור שופרסל)\",\"miglog.b2b.payment.obligoType.CREDIT_CARD\":\"תשלום בכל קניה בכרטיס אשראי\",\"miglog.b2b.registration.doneBtn\":\"סיום\",\"miglog.b2b.payment.digitalInvoice.true\":\"*החשבונית תישלח לכתובת הדוא&quot;ל של איש הקשר במחלקת הכספים\",\"miglog.b2b.payment.digitalInvoice.false\":\"*החשבונית תישלח בדואר לכתובת העסק\",\"miglog.b2b.registration.doneTitle\":\"ההרשמה הסתיימה! החשבון ממתין לאישור\",\"miglog.b2b.registration.personalAreaBtn\":\"מעבר לאזור האישי\",\"miglog.b2b.registration.goBack\":\"חזרה אחורה\",\"miglog.b2b.registration.uploadFilesPersonalAreaBtn\":\"העלאת מסמכים\",\"miglog.b2b.registration.pwd.again\":\"הקלד סיסמה שוב\",\"miglog.b2b.registration.pwd\":\"סיסמת כניסה לאתר \",\"miglog.b2b.registration.stepNotComplete\":\"מולאו פרטים שטרם נשמרו, לחץ &quot;המשך&quot; לשמירה\",\"miglog.b2b.registration.emailValidation.msg\":\"לא ניתן להזין אימייל שכבר קיים במערכת\",\"miglog.b2b.registration.companyIdValidation.msg\":\"מס&#39; ח.פ קיים כבר במערכת\",\"miglog.b2b.registration.OBLIGO.disclaimer\":\"בבחירת סוג תשלום זה יתבצע תהליך אישור בקשת התשלום וחשבונך ימתין לאישור מח&#39; הכספים של שופרסל\",\"miglog.b2b.registration.CREDIT_CARD.disclaimer\":\"בבחירת סוג תשלום זה תוכל להתחיל לבצע קניות בכרטיס אשראי מעכשיו\",\"miglog.b2b.registration.checks.disclaimer\":\"כתובת למשלוח ההמחאה בדואר: שופרסל אונליין, ת.ד. 15533, ראשון לציון. מיקוד: 7505402\",\"miglog.b2b.registration.cc.disclaimer\":\"בבחירת תשלום זה יתבצע תשלום החוב פעם בחודש בכרטיס זה, אם ברצונכם לשלם בכל קניה בכרטיס אשראי יש לשנות את הבחירה ל&quot;תשלום בכל קניה בכרטיס אשראי&quot;\",\"miglog.upload.account.status\":\"סטטוס חשבון- ממתין לקבלת מסמכים\",\"miglog.upload.to.finish\":\"על מנת לסיים את תהליך הרישום באתר יש להוריד את הטפסים הבאים למלא אותם ולשלוח לכתובת מייל: GalitN@shufersal.co.il\",\"miglog.upload.form.business.confirmation.form\":\"טופס אישור העסק לביצוע קניה מרחוק\",\"miglog.upload.form.application\":\"טופס בקשת הצטרפות לשופרסל עסקים\",\"miglog.upload.form.purchase.agreement\":\"טופס הסכם רכישה באשראי\",\"miglog.upload.download.file\":\"להורדת הקובץ\",\"miglog.upload.accesability.download.file\":\"לחץ כאן נפתח כקובץ pdf\",\"miglog.upload.click.here\":\"לחץ כאן\",\"miglog.upload.send\":\"שלח לאישור\",\"miglog.upload.successfully.sent\":\"הקובץ נשלח בהצלחה\",\"miglog.upload.select.file\":\"לחץ להעלאת קובץ חתום\",\"login.error.checkout.account.not.found.title\":\"סיסמה לא תקינה\",\"miglog.account.upload.error.general\":\"הקובץ שבחרת איננו תקין, או שאירעה שגיאה בטעינתו, אנא בחר קובץ אחר\",\"miglog.upload.success.file\":\"הקובץ נשלח בהצלחה\",\"miglog.upload.abort.file\":\"בטל\",\"miglog.account.upload\":\"העלה קבצי הצטרפות\",\"miglog.account.upload.error.server\":\"אירעה שגיאה בטעינת הקובץ, אנא בחר קובץ אחר\",\"miglog.upload.retryUpload\":\"נסה לשלוח שוב\",\"miglog.checkout.order.notupdatable.header\":\"הזמנה מס&#39; {0} כבר אינה ניתנת לעדכון בשלב זה\",\"miglog.checkout.order.notupdatable.ok\":\"מלאו לי את הסל\",\"miglog.checkout.order.notupdatable.cancel\":\"חזרה לעמוד הבית\",\"miglog.checkout.order.notupdatable\":\"האם ברצונך לבצע הזמנה חדשה עם אותם פריטים?\",\"miglog.checkout.initialdataerror\":\"נסה שוב\",\"miglog.checkout.initialdataerror.text\":\"אופס|:|לקוח יקר,&lt;br&gt;אירעה תקלה בפעולה, אנא נסה שנית&lt;br&gt;או פנה לשירות לקוחות 1-800-56-56-56\",\"miglog.b2bAccount.businessUnit.mainTitle\":\"יחידות עיסקיות\",\"miglog.b2bAccount.premissionType.mainTitle\":\"סוגי הרשאות\",\"miglog.b2bAccount.premissionType.describe\":\"תיאור סוג הרשאה \",\"miglog.b2bAccount.premissionType.b2bRelate\":\"יחידה עסקית מקושרת\",\"miglog.b2bAccount.business.units.managment.secondaryTitle\":\"באפשרותך להגדיר את רשימת היחידות העסקיות בארגון שלך, שמורשות לביצוע הזמנות באתר.&lt;br&gt;יש לשייך לכל יחידה עסקית את רשימת מורשי הקניה לביצוע הזמנות באתר.\",\"miglog.b2bAccount.premissionType.secondaryTitle\":\"לקוח יקר, ניתן להגדיר סוגי הרשאות לצורך טיפול ויצירת הזמנות באתר. לאחר הזנת סוגי ההרשאות ניתן לקבוע לכל מורשה קניה את סוג ההרשאה לביצוע הזמנות ביחידה העסקית\",\"miglog.b2bAccount.premissionType.premissionCount\":\"סוג הרשאה\",\"miglog.b2bAccount.premissionType.createOrders\":\"מייצר הזמנות\",\"miglog.b2bAccount.premissionType.approveOrders\":\"מאשר הזמנות\",\"miglog.b2bAccount.premissionType.manager\":\"מנהל \",\"miglog.b2bAccount.premissionType.maxOrder\":\"טיפול בהזמנות עד סכום\",\"miglog.b2bAccount.premissionType.b2bUnit\":\"יחידה עסקית\",\"miglog.b2bAccount.premissionType.addNew\":\"הוסף הרשאה חדשה\",\"miglog.b2bAccount.premissionType.role\":\"תפקיד\",\"miglog.b2bAccount.premissionType.save\":\"שמור\",\"miglog.b2bAccount.premissionType.save2\":\"שמירה\",\"miglog.b2bAccount.premissionType.edit\":\"עריכה\",\"miglog.b2bAccount.premissionType.to\":\"עד\",\"miglog.b2bAccount.premissionType.currency\":\"₪\",\"miglog.b2bAccount.company.pay\":\"תשלום ע&quot;י בית העסק (החברה)\",\"miglog.b2bAccount.unit.pay\":\"תשלום ע&quot;י לקוח בן\",\"miglog.b2bAccount.businessUnit.action\":\"פעולות\",\"miglog.b2bAccount.shoppingLists\":\"רשימות\",\"miglog.b2bAccount.uploadFiles\":\"הורדת קבצי הצטרפות\",\"miglog.b2bAccount.uploadFiles.additional\":\"(שליחת טפסים לטובת השלמת הצטרפות לאתר)\",\"miglog.b2bAccount.b2bManagment\":\"ניהול העסק שלי\",\"miglog.b2bAccount.businessUnit.add.title\":\"הוספת יחידה עסקית\",\"miglog.b2bAccount.businessUnit.title\":\"עריכת יחידה עסקית\",\"miglog.b2bAccount.businessUnit.name\":\"שם יחידה עסקית\",\"miglog.b2bAccount.businessUnit.number\":\"מספר לקוח\",\"miglog.b2bAccount.businessUnit.code\":\"קוד פנימי לבית העסק\",\"miglog.b2bAccount.businessUnit.status\":\"סטטוס\",\"miglog.b2bAccount.businessUnit.status.active\":\"פעיל\",\"miglog.b2bAccount.businessUnit.status.frozen\":\"מוקפא\",\"miglog.b2bAccount.businessUnit.status.cancel\":\"מבוטל\",\"miglog.b2bAccount.businessUnit.status.waitingForApproval\":\"ממתין לאישור\",\"miglog.b2bAccount.businessUnit.balance\":\"יתרת תקציב לחודש\",\"miglog.b2bAccount.businessUnit.balance.next\":\"יתרת תקציב לחודש הבא\",\"miglog.b2bAccount.businessUnit.finish.title\":\"רישום יחידה עסקית עבר בהצלחה!\",\"miglog.b2bAccount.businessUnit.finish.add.button\":\"הוספת יח&#39; עסקית נוספת\",\"miglog.b2bAccount.businessUnit.finish.button\":\"סיום\",\"miglog.b2bAccount.businessUnit.viewFilter\":\"צורת תצוגה\",\"miglog.b2bAccount.businessUnit.actions.updateUnit\":\"עדכון פרטי יחידה ומורשי קניה\",\"miglog.b2bAccount.businessUnit.actions.orderWaitingToApproval\":\"הזמנות המתינות לאישור\",\"miglog.b2bAccount.businessUnit.actions.prevOrders\":\"צפייה בהזמנות קודמות\",\"miglog.b2bAccount.businessUnit.actions.permissionManagement\":\"ניהול סוגי הרשאות לביצוע הזמנות ליחידה\",\"miglog.b2bAccount.businessUnit.actions.addSubsidiaryUnit\":\"הוספת לקוח בן (יחידה כפופה)\",\"miglog.b2bAccount.businessUnit.actions.freezeUnit\":\"הקפאת לקוח בן (יחידה כפופה)\",\"miglog.b2bAccount.businessUnit.actions.activatedUnit\":\"הפעלת לקוח בן (יחידה כפופה)\",\"miglog.b2bAccount.businessUnit.actions.showBudget\":\"הצג יתרה לביצוע הזמנות\",\"miglog.b2bAccount.businessUnit.actions.organizerInvoice\":\"חשבונית מרכזת\",\"miglog.b2bAccount.businessUnit.invoice.deliveryDate\":\"להוסיף פירוט תאריך משלוח\",\"miglog.b2bAccount.businessUnit.invoice.send\":\"שליחה\",\"miglog.b2bAccount.businessUnit.actions.openDepts\":\"חובות פתוחים\",\"miglog.b2bAccount.businessUnit.actions.cancelUnit\":\"ביטול לקוח בן (יחידה כפופה)\",\"miglog.b2bAccount.businessUnit.actions.toasterMessage.cancelUnit.children\":\"ליחידה זו קיימות יחידות בת, במידה והינך מעוניין לבטל את היחידה יש צורך לבטל כל יחידה בנפרד\",\"miglog.b2bAccount.businessUnit.actions.toasterMessage.cancelUnit.activeOrders\":\"ליחידה זו קיימות הזמנות בטיפול, לא אפשרי לבטל יחידה זו כרגע\",\"miglog.b2bAccount.businessUnit.actions.chooseAction\":\"בחירת פעולה\",\"miglog.b2bAccount.businessUnit.budget.current\":\"יתרת תקציב חודש נוכחי\",\"miglog.b2bAccount.businessUnit.budget.nextMonth\":\"יתרת תקציב חודש הבא\",\"miglog.b2bAccount.businessUnit.budget\":\"תקציב\",\"miglog.b2bAccount.newDebtsInfo\":\"&lt;strong&gt;חדש ללקוחותינו העסקיים!&lt;/strong&gt; כל המידע במקום אחד:\",\"miglog.b2bAccount.debtsInfoBtn\":\"ריכוז חובות פתוחים\",\"miglog.timeSlot.today\":\"היום\",\"miglog.timeSlot.hour\":\"שעה\",\"timeslots.modal.disclaimer.direct.only\":\"(עבור מוצרים באספקה מיידית בלבד, לא תקף לפריטים בתיאום טלפוני) \",\"miglog.timeSlot.chooseTime\":\"בחר מועד\",\"miglog.otc.header\":\"לקוח יקר,\",\"miglog.otc.message\":\"בסל הקניות שלך קיימים מוצרים מסוג &quot;תרופות ללא מרשם&quot;.&lt;br&gt;רוקח מטעמנו יצור עמך קשר על מנת לאשר אספקת מוצרים אלו.\",\"miglog.notHome.modal.message\":\"לא נוכל להשאיר ליד הדלת משלוח שכולל &lt;strong&gt;גלידה, בשר טחון או GiftCard.&lt;/strong&gt;&lt;br&gt; יש לבחור ב&#39;אהיה בבית לקבל את המשלוח&#39;, או להסיר את הפריטים מהסל.\",\"miglog.adultOnly.modal.header\":\"קבלת המשלוח תתאפשר רק ע&quot;י אדם בגיל 18 ומעלה\",\"miglog.adultOnly.modal.message\":\"המשלוח שלך מכיל &lt;strong&gt;אלכוהול, סיגריות, טבק או תרופות. &lt;/strong&gt; יש לאשר שיהיה בבית אדם בגיל 18 ומעלה לקבל את המשלוח או להסיר את הפריטים מהסל\",\"miglog.cfc.tooltip\":\"שילוח מהמרכז האוטומטי\",\"miglog.cfc.notHome.cfconly\":\"משלוח מחוץ לדלת\",\"miglog.cfc.notHome.cfconly.price\":\"תוספת \",\"miglog.cfc.notHome.cfconly.message\":\"כחלק מהשירות שלנו, אנו אורזים את המוצרים בצידניות רב פעמיות ששומרות על טריותם.\",\"miglog.cfc.notHome.cfconly.shortMessage\":\"אנו מוודאים שהמוצרים שבחרת יחכו לך טריים ושלמים לאורך זמן ע׳׳י שימוש במארזים ייחודיים.&lt;br&gt; לביטול יש לבחור בדף תשלום:&lt;strong&gt; ״בבית לקבל את המשלוח״&lt;/strong&gt;\",\"miglog.cfc.notHome.cfconly.checkout.shortMessage\":\"אנו מוודאים שהמוצרים שבחרת יחכו לך טריים ושלמים לאורך זמן ע׳׳י שימוש במארזים ייחודיים.\",\"miglog.cfc.notHome.cfconly.terms\":\"אני מאשר/ת כי בבחירת משלוח מחוץ לדלת שופרסל אינה אחראית לשלמות המשלוח.\",\"miglog.invalue\":\"בשווי\",\"miglog.notHome.modal.header\":\"מישהו יצטרך להיות בבית לקבל את המשלוח\",\"miglog.notHome.tooltip\":\"&lt;div style=&quot;display: block;&quot;&gt;&lt;div&gt;בחירת חנות ומועד לאיסוף&lt;b&gt;מישהו יצטרך להיות בבית לקבל את המשלוח&lt;/b&gt;&lt;/div&gt;&lt;div&gt;לא נוכל להשאיר ליד הדלת משלוח שכולל &lt;br&gt;  גלידה, בשר טחון או GiftCard&lt;/div&gt;&lt;/div&gt;\",\"miglog.table.product.title\":\"טבלת מגוון המוצרים\",\"miglog.accessibility.close.autocomplete\":\"לחץ על אסקייפ לסגירת האוטוקומפלית או לחץ למטה לכניסה לאוטוקומפליט\",\"miglog.accessibility.required.fields\":\"שדות המסומנים ב * הינם שדות חובה\",\"miglog.corporate.search.close\":\"סגור חיפוש\",\"miglog.b2bAccount.businessUnit.nav.details\":\"פרטי יחידה עסקית\",\"miglog.b2bAccount.businessUnit.nav.costCenter\":\"מרכזי עלות\",\"miglog.b2bAccount.businessUnit.nav.addresses\":\"כתובות\",\"miglog.b2bAccount.businessUnit.nav.paymentMethods\":\"תקציב ואמצעי תשלום\",\"miglog.b2bAccount.businessUnit.nav.finish\":\"אישור הוספת יחידה\",\"miglog.b2bAccount.businessUnit.nav.employees\":\"מורשי קניה לאתר\",\"miglog.b2bAccount.businessUnit.nav.employees.title\":\"רשימת מורשי הקניה ליחידה העסקית\",\"miglog.b2bAccount.businessUnit.edit.nav.details\":\"פרטי היחידה העסקית\",\"miglog.b2bAccount.businessUnit.edit.nav.costCenter\":\"מרכזי עלות\",\"miglog.b2bAccount.businessUnit.edit.nav.addresses\":\"כתובות\",\"miglog.b2bAccount.businessUnit.edit.nav.paymentMethods\":\"תקציב ואמצעי תשלום\",\"miglog.b2bAccount.businessUnit.edit.nav.employees\":\"מורשי קניה ליחידה העסקית\",\"miglog.b2bAccount.businessUnit.details.name\":\"שם היחידה העסקית\",\"miglog.b2bAccount.businessUnit.details.root.name\":\"שם יחידת האב\",\"miglog.b2bAccount.businessUnit.details.status\":\"סטטוס היחידה העסקית\",\"miglog.b2bAccount.businessUnit.details.code\":\"הקוד הפנימי במערכות בית העסק\",\"miglog.b2bAccount.businessUnit.details.companyId\":\"ח.פ/עוסק מורשה\",\"miglog.b2bAccount.businessUnit.details.contact.name\":\"שם פרטי\",\"miglog.b2bAccount.businessUnit.details.contact.lastName\":\"שם משפחה\",\"miglog.b2bAccount.businessUnit.details.contact.id\":\"תעודת זהות\",\"miglog.b2bAccount.businessUnit.details.contact.cellphone\":\"מס&#39; טלפון נייד\",\"miglog.b2bAccount.businessUnit.details.contact.email\":\"דואר אלקטרוני\",\"miglog.b2bAccount.businessUnit.costCenter.name\":\"שם התקציב\",\"miglog.b2bAccount.businessUnit.costCenter.code\":\"קוד פנימי בעסק שלי\",\"miglog.b2bAccount.businessUnit.costCenter.add\":\"הוספת תקציב חדש\",\"miglog.b2bAccount.businessUnit.costCenter.add.title\":\"הוסף תקציב חדש\",\"miglog.b2bAccount.businessUnit.costCenter.position\":\"תפקיד\",\"miglog.b2bAccount.businessUnit.costCenter.position.placeholder\":\"הכנס קוד_\",\"miglog.b2bAccount.businessUnit.costCenter.position.error\":\"קוד כבר קיים\",\"miglog.b2bAccount.businessUnit.costCenter.name.placeholder\":\"תאור קצר_\",\"miglog.b2bAccount.businessUnit.costCenter.continue\":\"המשך לשלב הבא\",\"miglog.b2bAccount.businessUnit.costCenter.save\":\"שמור\",\"miglog.b2bAccount.businessUnit.costCenter.description\":\"ניתן להגדיר (לא חובה) מרכזי עלות ליחידה, כפי שמתנהלים בארגון שלך.&lt;br&gt;זאת כדי לאפשר שיוך הזמנות למרכזי עלות וביצוע בקרה של ניצול תקציב לפי מרכזי עלות.\",\"miglog.b2bAccount.businessUnit.status.paused\":\"מוקפא\",\"miglog.b2bAccount.businessUnit.nav.workers\":\"מורשי קניה לאתר\",\"miglog.b2bAccount.employeePermissionsAmountTitle\":\"רשימת מורשי הקניה לאתר ({0})\",\"miglog.b2bAccount.employeePermissionsPageTitle\":\"בית העסק שלי\",\"miglog.b2bAccount.employees.sub.title\":\"שים לב, יש לשייך את מורשי הקניה ליחידות העסקיות שעבורן רשאי מורשה הקניה לבצע הזמנות באתר.&lt;br&gt;בסיום שיוך מורשה הקניה ליחידה העסקית, יישלח אוטומטית מייל למורשה הקניה לטובת בחירת סיסמה לאתר\",\"miglog.b2bAccount.employees.empty.list.text\":\"טרם הוגדרו מורשי קניה לאתר בעסק,&lt;br&gt;בכדי שתוכל להוסיף מורשה קניה לאתר ליחידה עסקית&lt;br&gt;יש תחילה להגדיר מורשי קניה לאתר באזור אישי במסך \",\"miglog.b2bAccount.employees.empty.list.link\":\"ניהול מורשי קניה לאתר \",\"miglog.b2bAccount.employees.addNew.title\":\"הוספת מורשה קניה\",\"miglog.b2bAccount.employees.addNew.affiliation\":\"שיוך מורשה קניה\",\"miglog.b2bAccount.employees.addNewManager.title\":\"שיוך מנהל\",\"miglog.b2bAccount.employees.addNewAdmin.title\":\"שיוך אדמין\",\"miglog.b2bAccount.employees.addNewBtn\":\"הוספת מורשה קניה\",\"miglog.b2bAccount.employees.empty.list.employee.text\":\"טרם הוגדרו מורשי קניה לאתר ביחידה העסקית,&lt;br&gt;על מנת לשייך עובד ליחידה, לחץ על  \",\"miglog.b2bAccount.employees.empty.list.manager.text\":\"טרם הוגדרו מנהלים ביחידה העסקית,&lt;br&gt;על מנת לשייך מנהל ליחידה, לחץ על  \",\"miglog.b2bAccount.employees.firstName\":\"שם פרטי\",\"miglog.b2bAccount.employees.permission\":\"סוג הרשאה לביצוע הזמנות\",\"miglog.b2bAccount.employees.permission.value\":\"עד {0} ₪\",\"miglog.b2bAccount.employees.permission.default.value\":\"ללא הגבלה\",\"miglog.b2bAccount.employees.role\":\"תפקיד\",\"miglog.b2bAccount.employees.lastName\":\"שם משפחה\",\"miglog.b2bAccount.employees.idNumber\":\"תעודת זהות\",\"miglog.b2bAccount.employees.position\":\"תפקיד\",\"miglog.b2bAccount.employees.remove\":\"הסרה\",\"miglog.b2bAccount.employees.email\":\"דואר אלקטרוני\",\"miglog.b2bAccount.employees.phone\":\"טלפון\",\"miglog.b2bAccount.employees.edit\":\"עריכה\",\"miglog.b2bAccount.employees.activate\":\"הפעל\",\"miglog.b2bAccount.employees.deactivateEmployee\":\"הקפאת עובד\",\"miglog.b2bAccount.employees.activateEmployee\":\"הפעל עובד\",\"miglog.b2bAccount.employees.deactivateEmployee.message\":\"האם אתה בטוח שברצונך להקפיא את העובד?\",\"miglog.b2bAccount.employees.activateEmployee.message\":\"האם אתה בטוח שברצונך להפעיל את את העובד?\",\"miglog.b2bAccount.employees.deactivateEmployee.ok\":\"בצע הקפאת עובד\",\"miglog.b2bAccount.employees.activateEmployee.ok\":\"בצע הפעלת עובד\",\"miglog.b2bAccount.employees.activateEmployee.btn\":\"הפעל\",\"miglog.b2bAccount.employees.general.cancel\":\"לא מאשר, בטל\",\"miglog.b2bAccount.employees.showPrmissions\":\"הצג הרשאות\",\"miglog.b2bAccount.employees.b2bUnit\":\"יחידה עסקית\",\"miglog.b2bAccount.employees.addNewTitle\":\"הוספת עובד חדש\",\"miglog.b2bAccount.employee.form.save\":\"שמור\",\"miglog.b2bAccount.employee.form.wizard.save\":\"שמור ועבור לשלב הבא\",\"miglog.b2bAccount.employee.form.phone\":\"מספר טלפון נייד\",\"miglog.b2bAccount.employee.form.resetPassword\":\"שלח מייל לאיפוס סיסמה\",\"miglog.b2bAccount.employee.form.resetPasswordSucces\":\"המייל נשלח בהצלחה\",\"miglog.b2bAccount.employee.form.email\":\"דואר אלקטרוני\",\"miglog.b2bAccount.employee.form.idNumber\":\"תעודת זהות\",\"miglog.b2bAccount.employee.form.lastName\":\"שם משפחה\",\"miglog.b2bAccount.employee.form.firstName\":\"שם פרטי\",\"miglog.b2bAccount.employee.form.personalInfoTitle\":\"פרטים אישיים\",\"miglog.b2bAccount.employees.search.placeholder\":\"חיפוש מורשה קניה לפי שם או ת.ז\",\"miglog.b2bAccount.orders.awaitingForApproval\":\"הזמנות ממתינות לאישור\",\"miglog.b2bAccount.approvalOrders.orderId\":\"מספר הזמנה\",\"miglog.b2bAccount.approvalOrders.businessUnit\":\"יחידה עסקית\",\"miglog.b2bAccount.approvalOrders.orderStatus\":\"סטטוס ההזמנה\",\"miglog.b2bAccount.approvalOrders.totalAmount\":\"סכום ההזמנה\",\"miglog.b2bAccount.approvalOrders.orderCreationDate\":\"זמן ההזמנה\",\"miglog.b2bAccount.approvalOrders.supplyDate\":\"זמן אספקה\",\"miglog.b2bAccount.approvalOrders.actions\":\"פעולות\",\"miglog.b2bAccount.approvalOrders.orderCreator\":\"יוצר ההזמנה\",\"miglog.b2bAccount.approvalOrdersTitle\":\"הזמנות לאישור\",\"miglog.b2bAccount.approvalOrdersAmountTitle\":\"{0} הזמנות חדשות ממתינות לאישורך\",\"miglog.b2bAccount.approvalOrders.declined\":\"ההזמנה נדחתה\",\"miglog.b2bAccount.approvalOrders.approved\":\"ההזמנה אושרה\",\"miglog.b2bAccount.approvalOrders.approve\":\"אישור הזמנה\",\"miglog.b2bAccount.approvalOrders.decline\":\"דחיית הזמנה\",\"miglog.b2bAccount.invoce.from\":\"שליחת חשבונית מתאריך\",\"miglog.b2bAccount.invoce.to\":\"עד תאריך\",\"miglog.b2bAccount.invoce.success.modal\":\"החשבוניות נשלחו לכתובת מייל {0} &lt;br/&gt; במידה וכתובת המייל לא נכונה או לא הגיע מייל יש לפנות למייל {1}\",\"miglog.b2bAccount.invoce.success.modal2\":\"החשבוניות נשלחו למייל  &lt;br/&gt; במידה וכתובת המייל לא נכונה או לא הגיע מייל יש לפנות למייל {0}\",\"miglog.b2bAccount.invoce.noInvoices.modal\":\"לידיעתך, לא נמצאו קניות בתאריכים אלו\",\"miglog.b2bAccount.debts.noInvoices.modal\":\"לידיעתך, לא נמצאו חובות\",\"miglog.b2bAccount.invoce.datesRange.error\":\"הפקת חשבונית אפשרית בטווח של החודשיים האחרונים בלבד\",\"miglog.b2bAccount.businessUnit.collapseTitle.hide\":\"הסתר יח&#39; כפופות ({0})\",\"miglog.b2bAccount.businessUnit.collapseTitle.show\":\"הצג יח&#39; כפופות ({0})\",\"miglog.b2bAccount.businessUnit.ActionModal.freeze.title\":\"הקפאת יחידה\",\"miglog.b2bAccount.businessUnit.ActionModal.unfreeze.title\":\"הפעלת יחידה\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelUnit.title\":\"ביטול יחידה \",\"miglog.b2bAccount.businessUnit.ActionModal.freeze.message\":\"האם אתה בטוח שברצונך להקפיא את היחידה?\",\"miglog.b2bAccount.businessUnit.ActionModal.unfreeze.message\":\"האם אתה בטוח שברצונך להפעיל את היחידה?\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelUnit.message\":\"האם אתה בטוח שברצונך לבטל את היחידה?\",\"miglog.b2bAccount.businessUnit.ActionModal.general.cancel\":\"לא מאשר, בטל\",\"miglog.b2bAccount.businessUnit.ActionModal.freeze.ok\":\"בצע הקפאת יחידה\",\"miglog.b2bAccount.businessUnit.ActionModal.unfreeze.ok\":\"בצע הפעלת יחידה\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelUnit.ok\":\"בצע ביטול יחידה\",\"miglog.b2bAccount.businessUnit.ActionModal.activateCostCenter\":\"הפעלת מרכז עלות\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelCostCenter\":\"הקפאת מרכז עלות\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelCostCenter.message\":\"האם אתה בטוח שברצונך להקפיא את מרכז העלות?\",\"miglog.b2bAccount.businessUnit.ActionModal.activateCostCenter.message\":\"האם אתה בטוח שברצונך להפעיל את מרכז העלות?\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelCostCenter.ok\":\"בצע הקפאת מרכז העלות\",\"miglog.b2bAccount.businessUnit.ActionModal.activateCostCenter.ok\":\"בצע הפעלת מרכז העלות\",\"miglog.b2bAccount.businessUnit.ActionModal.activateCostCenter.btn\":\"הפעל\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelPermission.title\":\"מחיקת הרשאה\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelPermission.message\":\"האם אתה בטוח שברצונך למחוק את ההרשאה?\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelPermission.ok\":\"כן, מחק\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelPermission.cancel\":\"לא מאשר, בטל\",\"miglog.b2bAccountv.employeePermissionsAmountTitle\":\"miglog.b2bAccountv.employeePermissionsAmountTitle\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelManager.title\":\"הסרת מנהל\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelManager.message\":\"התפקיד יוסר מכל היחידות אליהן העובד משוייך. האם להמשיך?\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelManager.ok\":\"כן, הסר\",\"miglog.b2bAccount.businessUnit.ActionModal.cancelManager.cancel\":\"לא מאשר, בטל\",\"miglog.b2bAccount.businessUnit.ActionModal.addManager.title\":\"הוספת מנהל\",\"miglog.b2bAccount.businessUnit.ActionModal.addAdmin.title\":\"הוספת אדמין\",\"miglog.b2bAccount.businessUnit.ActionModal.addManager.message\":\"התפקיד יתווסף לכל היחידות אליהן העובד משוייך. האם להמשיך?\",\"miglog.b2bAccount.businessUnit.ActionModal.addManager.ok\":\"כן, הוסף\",\"miglog.b2bAccount.businessUnit.ActionModal.addManager.cancel\":\"לא מאשר, בטל\",\"miglog.b2bAccount.b2BGroupTypes.b2badmingroup\":\"אדמין\",\"miglog.b2bAccount.b2BGroupTypes.b2bmanagergroup\":\"מנהל\",\"miglog.b2bAccount.b2BGroupTypes.b2bapprovergroup\":\"מאשר הזמנות\",\"miglog.b2bAccount.b2BGroupTypes.b2bcustomergroup\":\"מייצר הזמנות\",\"miglog.b2bAccount.permission.amount\":\"עד {0} ש&quot;ח\",\"miglog.b2bAccount.employees.addNewEmployee.title\":\"הוספת מורשה קניה חדש\",\"miglog.b2bAccount.employees.editEmployee.title\":\"עריכת מורשה קניה לאתר\",\"miglog.b2bAccount.employees.activateDiactivate\":\"הקפאה/הפעלה\",\"miglog.b2bAccount.permission.title\":\"עדכון הרשאות\",\"miglog.b2bAccount.permission.unit\":\"ביחידה עסקית\",\"miglog.b2bAccount.permission.unit.line.title\":\"miglog.b2bAccount.permission.unit.line.title\",\"miglog.b2bAccount.permission.unit.title\":\"יחידה עסקית\",\"miglog.b2bAccount.permission.unit.position\":\"תפקיד\",\"miglog.b2bAccount.permission.unit.amount\":\"סוג הרשאה- הזמנות עד סכום\",\"miglog.b2bAccount.permission.unit.save\":\"שמור\",\"miglog.b2bAccount.permission.delete.permission\":\"מחק הרשאה לעובד\",\"miglog.b2bAccount.permission.add.manager.permission\":\"הוסף הרשאת מנהל\",\"miglog.b2bAccount.permission.add.manager.title\":\"מנהל\",\"miglog.b2bAccount.permission.new.line.title\":\"הרשאה חדשה\",\"miglog.b2bAccount.permission.line.title\":\"הרשאה {0}\",\"miglog.b2bAccount.employees.editEmployee.title.with.unit\":\"עריכת מורשה קניה לאתר ביחידה עסקית\",\"miglog.b2bAccount.permission.new.employee.title\":\"הוספת מורשה קניה ליחידה עסקית:\",\"miglog.b2bAccount.permission.new.employee.disclaimer\":\"ניתן להוסיף רק עובדים מתוך רשימת העובדים המורשים, בכדי להוסיף עובד חדש יש להוסיפו תחילה דרך מסך &quot;מורשי קניה לאתר&quot;\",\"miglog.b2bAccount.permission.new.employee.name\":\"מורשה קניה\",\"miglog.b2bAccount.permission.employee.amount\":\"עד {0} ₪\",\"miglog.b2bAccount.permission.employee.amount.unlimited\":\"ללא הגבלת סכום\",\"miglog.b2bAccount.permission.no.options\":\"לא קיימות הרשאות\",\"miglog.b2bAccount.permission.new.manager.disclaimer\":\"ניתן להוסיף רק מנהלים מתוך רשימת העובדים המורשים, בכדי להוסיף עובד חדש יש להוסיפו תחילה דרך מסך &quot;מורשי קניה לאתר&quot;\",\"miglog.b2bAccount.permission.new.manager.title\":\"הוספת מנהל מורשה ליחידה עסקית\",\"miglog.b2bAccount.permission.new.admin.title\":\"הוספת אדמין מורשה ליחידה עסקית\",\"miglog.b2bAccount.addUnit.exit.header\":\"לקוח יקר,\",\"miglog.b2bAccount.addUnit.exit.message\":\"לתשומת לבך,&lt;br&gt;אתה עוזב באמצע תהליך הוספת יחידה עסקית&lt;br&gt;ללא סיום התהליך לא ישמרו הפרטים שהזנת,&lt;br&gt;מה אתה מעוניין לעשות:\",\"miglog.b2bAccount.addUnit.exit.ok\":\"המשך ללא שמירה\",\"miglog.b2bAccount.addUnit.exit.cancel\":\"חזור להשלמת התהליך\",\"miglog.b2bAccount.chart.obligo.close\":\"סגירה\",\"miglog.b2b.obligo.current.month\":\"יתרת אובליגו נוכחית:\",\"miglog.b2b.obligo.next.month\":\"יתרת אובליגו לחודש הבא:\",\"miglog.b2bAccount.chart.obligo.month\":\"יתרה לחודש נוכחי\",\"miglog.b2bAccount.chart.obligo.next.month\":\"יתרה לחודש הבא\",\"miglog.b2b.employee.form.idNumberExisit.errorMessage\":\"מספר תעדות הזהות קיים ביחידה\",\"miglog.b2bAccount.chart.obligo.btn\":\"יתרה לביצוע הזמנות\",\"miglog.b2bGroups.b2badmingroup\":\"אדמין\",\"miglog.b2bGroups.b2bmanagergroup\":\"מנהל\",\"miglog.b2bGroups.b2bcustomergroup\":\"מורשה קניה\",\"miglog.asm.b2b.noPesonifyPrivileges\":\"אין לך הרשאות להתחבר כלקוח הנבחר\",\"miglog.asm.b2b.isRootUnit\":\"- יחידה ראשית\",\"miglog.asm.actions.passwordReset\":\"מייל לאיפוס סיסמה\",\"miglog.asm.actions.personifyCustomer\":\"התחל הזמנה כלקוח\",\"miglog.asm.actions.blockCC\":\"מחיקת כרטיס אשראי \",\"miglog.asm.actions.releaseCustomer\":\"שחרור לקוח חסום\",\"miglog.asm.actions.releaseCustomer.body\":\"האם אתה בטוח שברצונך לשחרר לקוח חסום?\",\"miglog.asm.actions.deleteCustomer\":\"מחיקת לקוח\",\"miglog.asm.actions.deleteCustomer.body\":\"האם אתה בטוח? פעולה זו אינה ניתנת לביטול!\",\"miglog.asm.actions.deleteCustomer.ok\":\"אישור\",\"miglog.asm.actions.deleteCustomer.cancel\":\"ביטול\",\"miglog.asm.actions.success\":\"הפעולה הסתיימה בהצלחה\",\"miglog.asm.actions.fail\":\"הפעולה נכשלה.&lt;br&gt; ללקוח זה יש הזמנות פעילות ולכן לא ניתן למחיקה.\",\"miglog.asm.actions.activateCustomer\":\"שחרור לקוח נעול \",\"miglog.asm.actions.blockCustomer\":\"חסימת לקוח\",\"miglog.asm.actions.changeCustomerName\":\"שינוי שם לקוח \",\"miglog.asm.actions.updateLoyalty\":\"שינוי מספר מועדון\",\"miglog.asm.actions.changeCompanyName\":\"שינוי שם חברה \",\"miglog.asm.actions.changeCompanyNumber\":\"שינוי ח.פ. חברה\",\"miglog.asm.actions.addAdminRoleToB2BCustomer\":\"הוספת הרשאת אדמין ללקוח\",\"miglog.asm.change.values.firstName\":\"שם פרטי\",\"miglog.asm.change.values.lastName\":\"שם משפחה\",\"miglog.asm.change.values.name\":\"שם החברה\",\"miglog.asm.change.values.companyNumber\":\"ח.פ. חברה\",\"miglog.asm.change.values.shufersalClubNumber\":\"מספר מועדון\",\"miglog.b2bAccount.notYetApprovedErrorMessage\":\"בכל שאלה ניתן לפנות למוקד השירות העסקי בטל: 1-800-56-56-56 שלוחה 2\",\"miglog.b2bAccount.notYetApprovedErrorMessag.header\":\"הרישום ממתין לאישור\",\"miglog.b2bAccount.toastr.BLOCKED\":\"לקוח חסום. נא פנה לשירות לקוחות 1-800-56-56-56\",\"miglog.b2bAccount.toastr.NOT_APPROVED\":\"לקוח לא מאושר. נא פנה לשירות לקוחות 1-800-56-56-56\",\"miglog.b2bAccount.miglog.b2bAccount.userHasNoPrivileges\":\"miglog.b2bAccount.miglog.b2bAccount.userHasNoPrivileges\",\"miglog.b2bCheckout.cardAlert\":\"לקוח יקר, פרטי כרטיס האשראי לא ישמרו במערכת\",\"miglog.b2b.addresses.list.title\":\"ניהול רשימת כתובות מאושרת למשלוחים עבור היחידה העסקית\",\"miglog.b2b.business.management.view.list\":\"רשימת היחידות העסקיות בארגון שלי\",\"miglog.b2b.business.management.view.tree\":\"תרשים סכמטי של מבנה הארגון\",\"miglog.b2b.address.isBuilding.b2c\":\"סוג בית\",\"miglog.b2b.address.isBuilding.b2b\":\"סוג מבנה\",\"miglog.b2b.addresses.address.name\":\"שם מזהה לכתובת (תיאור קצר ומייצג לכתובת)\",\"miglog.b2b.addresses.address.orderReceive\":\"שם מקבל ההזמנה (שדה זה ניתן לעריכה)\",\"miglog.account.addresses.address.name\":\"כינוי לכתובת &lt;span style=&quot;color: #667393;&quot;&gt;(לדוגמא: בית)&lt;/span&gt;\",\"miglog.b2b.address.apartment\":\"מס&#39; חדר/משרד\",\"miglog.b2c.address.apartment\":\"מס&#39; דירה\",\"address.update.notvalid\":\"שגיאה בשמירת הפרטים\",\"miglog.b2b.shared.house\":\"בניין\",\"miglog.b2b.private.house\":\"בית\",\"miglog.b2c.private.house\":\"פרטי\",\"miglog.b2c.shared.house\":\"משותף\",\"miglog.b2b.payment.bankTransfer\":\"העברה בנקאית\",\"login.terms.join.online\":\"מה יותר שווה ממבצעים והטבות?\",\"login.terms.join.online.true\":\"כן, בטח\",\"login.terms.join.online.false\":\"לא, תודה\",\"miglog.b2b.training.video\":\"לצפייה בסרטון הדרכה\",\"miglog.divur.label.text\":\"תעדכנו אותי על הטבות, קופונים, מבצעי המועדון והמטבעות שלי במייל ובסמס\",\"miglog.divur.label.email.text\":\"תעדכנו אותי על הטבות, קופונים, מבצעי המועדון והמטבעות שלי גם במייל\",\"miglog.divur.label.sms.text\":\"תעדכנו אותי על הטבות, קופונים, מבצעי המועדון והמטבעות שלי גם בסמס\",\"delivery.longtail.popup.title\":\"בסל שלך יש {0} שנדרש לשנע מסניף אחר \",\"delivery.longtail.popup.subtitle\":\"בכדי שהמשלוח שהזמנת יגיע היום יש לוותר על {0}\",\"delivery.longtail.popup.question\":\"איך תרצה להמשיך?\",\"delivery.longtail.popup.button.yes\":\"אני רוצה לעדכן זמן משלוח\",\"delivery.longtail.popup.button.yes.pickup\":\"אני רוצה לעדכן את זמן האיסוף\",\"delivery.longtail.popup.button.no\":\"אני רוצה משלוח היום ולוותר על הפריטים\",\"delivery.longtail.popup.button.no.pickup\":\"אני רוצה לאסוף היום ולוותר על הפריטים\",\"delivery.longtail.popup.button.no.logged\":\"אני רוצה משלוח היום ולוותר על הפריטים\",\"delivery.longtail.popup.button.no.logged.pickup\":\"אני רוצה לאסוף היום ולוותר על הפריטים \",\"delivery.longtail.popup.button.changeDay\":\"לבחור מועד אחר למשלוח\",\"delivery.longtail.popup.button.changeDay.pickup\":\"לבחור מועד אחר לאיסוף\",\"delivery.longtail.popup.button.removeItem\":\"לוותר על {0}\",\"miglog.prescription.wizard.identification\":\"הזדהות\",\"miglog.prescription.wizard.choosePrescription\":\"בחירת מרשם\",\"miglog.prescription.wizard.chooseProducts\":\"בחירת תרופות\",\"miglog.prescription.wizard.summary\":\"סיכום הזמנה\",\"miglog.prescription.wizard.questions\":\"שאלון רפואי\",\"miglog.prescription.product.checkAll\":\"סימון כל התרופות\",\"miglog.prescription.product.packs\":\"חפ&#39;\",\"miglog.prescription.product.units\":\"כדורים\",\"miglog.product.andmore\":\"ועוד\",\"miglog.prescription.product.name\":\"פרטי התרופה\",\"miglog.prescription.product.price.name\":\"שם הפריט\",\"miglog.prescription.mirsham.name\":\"פרטי המרשם\",\"miglog.prescription.product.price\":\"מחיר\",\"miglog.prescription.product.amount\":\"כמות\",\"miglog.prescription.product.use\":\"הוראות שימוש\",\"miglog.prescription.question.true\":\"כן\",\"miglog.prescription.question.false\":\"לא\",\"miglog.prescription.view.prescription\":\"לפי מרשם\",\"miglog.prescription.view.drugs\":\"כל התרופות\",\"miglog.prescription.show.pres.drugs\":\"לפתיחת המרשם \",\"miglog.prescription.hide.pres.drugs\":\"סגירת המרשם \",\"miglog.prescription.total.price\":\"סה&quot;כ תרופות לתשלום:\",\"miglog.prescription.total.including\":\"כולל הנחות. לא כולל משלוח.\",\"miglog.prescription.total.products\":\"תרופות שנבחרו\",\"miglog.prescription.total.summary\":\"המשך\",\"miglog.prescription.total.summary.clalit\":\"הוספה\",\"miglog.prescription.total.text\":\"מחירי התרופות יופיעו בשלב אישור ההזמנה\",\"miglog.prescription.total.text.clalit\":\"החיוב יתבצע ע&quot;י קופת החולים בהוראת הקבע שלך\",\"miglog.prescription.code\":\"מספר המרשם\",\"miglog.prescription.expire\":\"תוקף המרשם\",\"miglog.prescription.for\":\"עבור\",\"miglog.prescription.drName\":\"רופא מטפל\",\"miglog.prescription.use.link\":\"לעיון בעלון הצרכן\",\"miglog.prescription.alternative.drug.tooltip\":\"תרופה חלופית הינה תרופת בעלת הרכב החומרים הפעילים, בצורה, בחוזק ובפעילות הרפואית, לתרופה המקורית הכלולה בסל, אותה רשאית קופת חולים לספק למבוטחיה, במקום התרופה הרשומה במרשם, למעט במקרים בהם הרופא הורה במפורשות במרשם על ניפוק תרופה ספציפית למטופל.\",\"miglog.prescription.alternative.drug.button\":\"בחירת תרופה חלופית\",\"miglog.prescription.proxy.subtitle\":\"משלוח עם תרופות מרשם נמסר באופן אישי בלבד. במידה ואין באפשרותך לקבלו, עליך להוסיף ייפוי כוח למי שיקבל אותו עבורך. מיופיי כוח חייבים להיות מעל גיל 18 ונדרשים להציג ת.ז לשליח במועד המסירה.\",\"miglog.prescription.question.subtitle\":\"כדי לקבל את תרופות המרשם שבחרת, יש למלא שאלון רפואי. עליך לענות על כל השאלות:\",\"miglog.prescription.timeslot.empty\":\"לצערנו, אין חלונות אספקה לכתובת זו ב-48 השעות הקרובות\",\"miglog.prescription.hello.name\":\"שלום \",\"miglog.prescription.agree.tooltip\":\"&lt;div&gt;&lt;strong&gt;מהי תרופה גנרית?&lt;/strong&gt;&lt;/div&gt;תרופה גנרית הינה תרופה הזהה לתכשיר הרשום במרשם, בהרכב החומרים הפעילים, בצורה, בחוזק ובפעילות הרפואית, אשר קופת החולים בה הינך מבוטח קבעה כי ניתן לספק אותה למבוטחיה, במקום התרופה הרשומה במרשם.\",\"miglog.prescription.choose.clinic\":\"יש לבחור את קופת החולים המבוקשת\",\"miglog.prescription.total.summary.ok\":\"אישור\",\"miglog.prescription.no.prescriptions.message\":\"אין תרופות מרשם בתוקף למבוטח זה\",\"miglog.prescription.switch.patients.tooltip\":\"לא ניתן לעבור למבוטח אחר באמצע הזמנה, יש להשלים את ההזמנה או להסיר את בחירת כל התרופות במסך זה\",\"miglog.assortments.cityform.title\":\"רגע לפני שממשיכים,\",\"miglog.assortments.cityform.description\":\"אנחנו רוצים להיות בטוחים שאנחנו מגיעים אליך, בחר את שם היישוב כדי לבדוק אם הוא נמצא באזור חלוקה:\",\"miglog.assortments.cityform.label\":\"נא להזין שם יישוב\",\"miglog.assortments.streetform.label\":\"נא להזין רחוב\",\"miglog.assortments.streetNumberform.label\":\"מספר בית\",\"miglog.assortments.cityform.buttontext\":\"בדוק\",\"miglog.assortments.cityform.buttonextratext\":\"זמינות משלוחים\",\"miglog.assortments.cityform.validation\":\"יש לבחור ישוב מהרשימה\",\"miglog.assortments.cantdeliver.headline\":\"אופס, \",\"miglog.assortments.cantdeliver.message\":\"אנחנו עדיין לא עושים משלוחים ל{0}\",\"miglog.assortments.cantdeliver.street.message\":\"אנחנו עדיין לא עושים משלוחים לרחוב {0}\",\"miglog.assortments.cantdeliver.label\":\"לבחירת סניף לאיסוף עצמי \",\"miglog.assortments.cantdeliver.customer.service\":\"&lt;span&gt;לבדיקת אפשרות משלוח ניתן לפנות&lt;/span&gt; &lt;span tabindex=&quot;0&quot; class=&quot;visualIvrLink link js-ivrLink&quot; data-url=&quot;/online/he/miglog-sso/visual-ivr-link&quot;&gt;לשירות לקוחות&lt;/span&gt;\",\"miglog.assortments.cantdeliver.noPickUpStores.label\":\"אין סניפים לאיסוף\",\"miglog.assortments.cantdeliver.noDeliverStores.label\":\"אין סניפים למשלוח\",\"miglog.assortments.cantdeliver.button\":\"לחץ כאן \",\"miglog.timeslots.modal.title\":\"איזה כיף אנחנו עושים משלוחים ל{0} \",\"miglog.timeslots.modal.replacecity\":\"החלף ישוב \",\"miglog.timeslots.modal.replacessortmentTimeSlot.vuecity.formText\":\"miglog.timeslots.modal.replacessortmentTimeSlot.vuecity.formText\",\"miglog.timeslots.modal.selectpickuptime\":\"בחר את הסניף והמועד לאיסוף עצמי שמתאים לך:\",\"miglog.timeslots.modal.disclaimer.text\":\"המשלוח יסופק בטווח שעתיים מהמועד הנבחר\",\"miglog.timeslots.modal.tab.delivery\":\"משלוח\",\"miglog.timeslots.assortmentsModal.savebutton\":\"שמירה\",\"miglog.timeslots.modal.tab.pickup\":\"איסוף עצמי\",\"miglog.timeslots.modal.selectdeliverytime\":\"בחירת מועד למשלוח מוצרי סופרמרקט ופארם\",\"miglog.assortments.can.deliver.text\":\"מעולה! אנחנו מגיעים אליך!\",\"miglog.assortments.can.deliver.timslot1\":\"אפשר להמשיך להוסיף מוצרים לסל\",\"miglog.assortments.can.deliver.timslot2\":\"לבחירת מועד למשלוח יש\",\"miglog.assortments.chooseCity.title\":\"הזינו את הכתובת להצגת המגוון המתאים\",\"miglog.assortments.can.deliver.timslot.btn\":\"ללחוץ כאן\",\"miglog.assortments.can.deliver.timslot.text\":\"(ניתן לבחור מועד למשלוח גם בהמשך)\",\"miglog.prescription.usage.default.text\":\"הוראות השימוש ימסרו עם קבלת התרופה\",\"miglog.prescription.errorModal.title\":\"לא ניתן להמשיך בתהליך הזמנת תרופות המרשם\",\"miglog.prescription.errorModal.text\":\"מספר תעודת הזהות של המשתמש שלך באתר שופרסל אונליין, שונה ממספר תעודת הזהות של המבוטח באתר קופת החולים. בכדי לשמור על חיסיון מידע רפואי לא נוכל להמשיך בתהליך הזמנת תרופות המרשם.\",\"miglog.prescription.adviceModal.text\":\"בחרת לא לקבל ייעוץ רוקחי טלפוני, בטוח?\",\"miglog.prescription.adviceModal.yes\":\"צרו איתי קשר לייעוץ רוקחי\",\"miglog.prescription.adviceModal.no\":\"אין צורך בייעוץ רוקחי\",\"miglog.prescription.item\":\"תרופות מרשם למבוטח \",\"timeslot.pickup.longtail.chosed\":\"אין אפשרות לבחור איסוף עצמי מכיוון שיש לך מוצרים מיוחדים בעגלה\",\"timeslot.pickup.drugs.chosed\":\"אין אפשרות לבחור איסוף עצמי מכיוון שיש לך תרופות בעגלה\",\"miglog.checkout.longTail.error\":\"ניתן לבחור זמן אספקת משלוח/איסוף מהסניף החל ממחר להזמנה עם פריטים מיוחדים.&lt;br&gt;אספקה למחר אפשרית רק להזמנות שבוצעו עד השעה {0}\",\"miglog.checkout.voucher.errorRegex\":\"תשלום בסדרת תווים המתחילה בספרה 7  מתאפשר בסניפים בלבד.\",\"mailInvoiceConfirmModal.title.text\":\"חשבונית במייל\",\"mailInvoiceConfirmModal.title.desc.text\":\"יש להקליד את כתובת המייל\",\"mailInvoiceConfirmModal.email.text\":\"דואר אלקטרוני:\",\"mailInvoiceConfirmModal.send.button.text\":\"שליחה\",\"miglog.account.personal.info.menu.points\":\"יש לך &lt;span class=&quot;numPoints&quot;&gt; {0} &lt;/span&gt;מטבעות = ₪{1}\",\"miglog.account.personal.Branches\":\"סניפים\",\"miglog.account.personal.password\":\"סיסמה\",\"miglog.account.personal.changePassword\":\"החלפת סיסמה\",\"miglog.account.personal.strongAuth.title\":\"הוספת קוד אבטחה אישי\",\"miglog.account.personal.strongAuth.Tooltip\":\"&lt;span&gt;קוד אבטחה אישי בן 4 ספרות שישמש אתכם בסניף &lt;/span&gt;&lt;span&gt;ובאונליין בנוסף למנגנון האבטחה הקיים &lt;/span&gt;&lt;b&gt;(4 ספרות ללא חזרות וללא ספרות עוקבות)&lt;/b&gt;&lt;div class=&quot;icons&quot;&gt;&lt;div class=&quot;icon&quot;&gt;&lt;span&gt;3596&lt;/span&gt;&lt;span class=&quot;check-v&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;icon&quot;&gt;&lt;span&gt;1111&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;\",\"miglog.account.personal.info.menu.order.time\":\"המשלוח {3} יגיע {0} {1} ב-{2} (בטווח שעתיים).\",\"miglog.account.personal.info.menu.order.time2\":\"אפשר\",\"miglog.account.personal.info.menu.order.plural\":\"הקרוב\",\"miglog.clinic.confirm.header\":\"הזדהות באתר קופת החולים\",\"miglog.clinic.confirm.ok\":\"להזדהות באתר קופת חולים\",\"miglog.clinic.confirm.checkbox\":\"קראתי והבנתי\",\"miglog.club.newClubTitle\":\"מועדון לקוחות ב-EXTREME עם SUPREME\",\"miglog.club.stage1.title\":\"קנית \",\"miglog.club.stage1.text\":\"בקבוצת שופרסל צברת בכל קניה מטבעות &lt;b&gt;SUPREME&lt;/b&gt;\",\"miglog.club.stage2.title\":\"צברת\",\"miglog.club.stage2.text\":\"&lt;/b&gt; עם כרטיס אשראי שופרסל - &lt;b&gt;פי 2.&lt;/b&gt; אבל אם קנית מותג שופרסל - צברת &lt;b&gt;פי 3\",\"miglog.club.stage3.title\":\"מימשת\",\"miglog.club.stage3.text\":\"עם  &lt;b&gt;PayBox&lt;/b&gt;  בהמון רשתות ובקבוצת שופרסל\",\"miglog.club.coinsCountTitle\":\"תוכנית צבירת המטבעת במועדון\",\"miglog.club.coinsCount.clubMember.withCC\":\"לקוחות מועדון  SUPREME  &lt;br&gt; עם כ.א. שופרסל\",\"miglog.club.coinsCount.clubMember.noCC\":\"לקוחות מועדון &lt;/br&gt; SUPREME\",\"miglog.club.coinsCount.anyProduct\":\"קונים ב-₪1 וצוברים: \",\"miglog.club.coinsCount.oneCoin\":\"מטבע SUPREME \",\"miglog.club.coinsCount.twoCoin\":\"מטבעות SUPREME  \",\"miglog.club.breadcrumbsName.personal.area\":\"אזור אישי\",\"miglog.club.breadcrumbsName.home\":\"בית\",\"miglog.club.coinsCount.shufersalProduct\":\"על פרטי מותג שופרסל\",\"miglog.club.coinsCount.bottom.text\":\"קבלת הנקודות מתאפשרת ברכישה חודשית של מינימום 500 ₪, תוקף הנקודות-12 חודשים,  בכפוף לתקנון המועדון\",\"miglog.club.coinsCount.bottom.clubTerms\":\"תקנון המועדון\",\"miglog.club.qa.title\":\"שאלות ותשובות על המועדון\",\"miglog.club.qa.toAllQa\":\"לכל השאלות והתשובות\",\"miglog.club.accumulationHistory.startDate\":\"בתאריך &lt;b&gt;{0}&lt;/b&gt; &lt;br/&gt;התחדשת&lt;br/&gt; למועדון &lt;b&gt;SUPREME&lt;/b&gt;\",\"miglog.club.accumulationHistory.oldPoints\":\"הנקודות שנצברו לזכותך &lt;br/&gt;בתכנית הישנה הומרו ל-&lt;b&gt;{0}&lt;/b&gt; מטבעות &lt;b&gt;SUPREME&lt;/b&gt;\",\"miglog.club.accumulationHistory.newPoints\":\"בנוסף, כשהתחדשת&lt;br/&gt; קיבלת מאיתנו &lt;b&gt;{0}&lt;/b&gt; מטבעות &lt;b&gt;SUPREME&lt;/b&gt;\",\"miglog.club.accumulationHistory.noHistory\":\"איזה כייף &lt;br&gt;בתאריך {0} התחדשת &lt;b&gt;למועדון SUPREME&lt;/b&gt; אין לך הסטוריית צבירה כי לא ביצעת קניה קונים בקבוצת שופרסל וצוברים &lt;b&gt;מטבעות SUPREME&lt;/b&gt; \",\"miglog.club.accumulationHistory.promotion\":\"לחגיגת המבצעים\",\"miglog.club.accumulationHistory.convertedPoints\":\"מטבעות &lt;span class=&quot;supreme&quot;  aria-label=&quot;icon supreme&quot;&gt;&lt;/span&gt; שהמרתי עד היום\",\"miglog.club.accumulationHistory.collectedPoints\":\"מטבעות &lt;span class=&quot;supreme&quot; aria-label=&quot;icon supreme&quot;&gt;&lt;/span&gt; שצברתי עד היום\",\"miglog.club.accumulationHistory.title\":\"צבירות ומימושים ב-{0} \",\"miglog.club.accumulationHistory.noData\":\"אין נתונים להצגה \",\"miglog.club.accumulationHistory.coinsInfo\":\"המטבעות נעולים כרגע כי עדיין לא עברת את רף הרכישה החודשי בסך {0} ש״ח. ברגע שתרכוש החודש בקבוצת שופרסל בסך של מעל {0} ש״ח - כל המטבעות  יכנסו לחשבונך. חשוב לשים לב - אם לא הגעת לרף הצבירה החודשי {0} ש&quot;ח, המטבעות לא יצברו וימחקו. בר הצבירה למעלה מציג בכל זמן את סטטוס הצבירה החודשי\",\"miglog.club.accumulationHistory.monthInfo\":\"מספר המטבעות אינו סופי פשוט מאוד, החודש עוד לא נגמר וצבירת המטבעות עדיין נמשכת\",\"miglog.club.accumulationHistory.table.month\":\"חודש צבירה\",\"miglog.club.accumulationHistory.table.added\":\"מטבעות נצברו\",\"miglog.club.accumulationHistory.table.converted\":\"מטבעות הומרו\",\"miglog.club.accumulationHistory.table.expired\":\"מטבעות שפג תוקפם\",\"miglog.club.paybox.title\":\"ב- &lt;b&gt;PayBox&lt;/b&gt;  מטבעות ה- &lt;b&gt;SUPREME&lt;/b&gt; שווים יותר \",\"miglog.club.paybox.subTitle\":\"שופרסל ו-PayBox מאפשרות לך להמיר את המטבעות שצברתם לשקלים וליהנות מרכישה בלמעלה מ-90 חנויות ומסעדות, בזמן שלך. \",\"miglog.club.paybox.howConvert.title\":\"איך הופכים מטבעות SUPREME לשקלים ב- PayBox?\",\"miglog.club.paybox.howConvert.1\":\"נכנסים לאפליקציית &lt;span class=&quot;pb-icon&quot;&gt;PayBox&lt;img&gt;&lt;/span&gt; &lt;/br&gt; (חשוב לוודא שמותקנת במכשירך גרסה עדכנית של האפליקציה)\",\"miglog.club.paybox.howConvert.2\":\"במסך הראשי של האפליקציה יחכו לך מטבעות ה-SUPREME. לוחצים על &lt;b&gt;&#39;להמרה&#39;&lt;/b&gt;\",\"miglog.club.paybox.howConvert.3\":\"טה-דה! יתרת ה-SUPREME ממתינה לך במסך הראשי\",\"miglog.club.paybox.howExecute.title\":\"איך ממשים SUPREME באמצעות PayBox?\",\"miglog.club.paybox.howExecute.desk\":\"בקופות\",\"miglog.club.paybox.howExecute.1\":\"במסך הראשי של האפליקציה, לוחצים על &lt;b&gt;&#39;לתשלום בקופה&#39;&lt;/b&gt;, תחת &#39;היתרות הנוספות שלי&#39;\",\"miglog.club.paybox.howExecute.2\":\"מעבירים את הברקוד לסריקה בקופת החנות\",\"miglog.club.paybox.howExecute.3\":\"מקבלים אישור על הקנייה ב-SMS\",\"miglog.club.paybox.online.title\":\"בחנויות אונליין\",\"miglog.club.paybox.online.1\":\"במסך הראשי של האפליקציה, לוחצים על &lt;b&gt;&#39;לפעולות ב-SUPREME&#39;&lt;/b&gt;\",\"miglog.club.paybox.online.2\":\"מזינים את פרטי התו – מספר, תוקף ו- CVV &lt;b&gt;באמצעי התשלום בחנות האונליין&lt;/b&gt;\",\"miglog.club.paybox.littleText\":\"אותיות קטנות &lt;/br&gt;המרת מטבעות SUPREME אפשרית מיתרה של 500 מטבעות ומעלה.&lt;/br&gt; פעם ראשונה שלך? כדי להנות מהשירות יהיה עליך לאשר את תנאי השימוש\",\"miglog.account.strongAuth.add.step1.title\":\"הוספת קוד אבטחה אישי\",\"miglog.account.strongAuth.add.step2.title\":\"הקלדה חוזרת של קוד האבטחה האישי\",\"miglog.account.strongAuth.add.step3.title\":\"קוד האבטחה האישי עודכן בהצלחה\",\"miglog.account.strongAuth.delete.step1.title\":\"&lt;div&gt;בכדי לבטל את השימוש בקוד האבטחה האישי&lt;br&gt; &lt;span class=&quot;subTitle&quot;&gt;יש להזין את הקוד&lt;/span&gt;&lt;/div&gt;\",\"miglog.account.strongAuth.delete.step3.title\":\"קוד האבטחה האישי הוסר בהצלחה\",\"miglog.account.strongAuth.cartSummary.step1.title\":\"יש להזין קוד אבטחה אישי \",\"miglog.account.strongAuth.errorAjax.title\":\"ארעה תקלה, יש לבצע את הפעולה שנית\",\"miglog.account.strongAuth.errorMessage\":\"הקוד שהוכנס שגוי\",\"miglog.account.strongAuth.forgotPwd\":\"שכחתי את קוד האבטחה\",\"miglog.account.personal.myCoupons\":\"קופונים אישיים\",\"miglog.account.personal.wishLists\":\"רשימות קניות\",\"miglog.account.personal.orders\":\"ההזמנות שלי\",\"miglog.account.personal.orders.linkOrderUpdate\":\"לעדכון ההזמנה\",\"miglog.account.personal.orders.linkOrderUpdate2\":\"לעדכן\",\"miglog.account.personal.orders.updateUntil\":\"את הזמנת הסופרמרקט שלך  &lt;br&gt; &lt;strong/&gt; עד {0} בשעה {1} &lt;strong&gt;\",\"miglog.account.personal.memberNumber\":\"מס&#39; חבר\",\"miglog.account.personal.orders.history\":\"להסטוריית הזמנות &gt;\",\"miglog.account.personal.nextPage\":\"מעבר לעמוד &gt;\",\"miglog.account.personalInfoHome.beforeOptin.points\":\"&lt;b&gt;מחכות לך {0} מטבעות&lt;br&gt; אפשר להמיר אותן לקופון בשווי ₪{1}&lt;br&gt; למימוש בקנייה הקרובה&lt;/b&gt;\",\"miglog.account.personalInfoHome.beforeOptin.fewClubPoints\":\"&lt;b&gt;מחכות לך {0} מטבעות&lt;br&gt; קונים יותר - מרוויחים יותר&lt;/b&gt; &lt;div&gt;תכנית צבירה חדשה, הטבות ורק דברים טובים&lt;/div&gt;\",\"miglog.account.personalInfoHome.beforeOptin.default\":\"&lt;b&gt;שופרסל SUPREME &lt;br&gt;קונים יותר - מרוויחים יותר&lt;/b&gt; &lt;div&gt;תכנית צבירה חדשה, הטבות ורק דברים טובים&lt;/div&gt;\",\"miglog.account.personalInfoHome.beforeOptin.conversionbutton\":\"להתחדש בקליק\",\"miglog.account.personalInfoHome.afterOptin.title\":\"יתרתך &lt;b&gt; &lt;span class=&quot;numPoints&quot;&gt; {0} &lt;/span&gt;מטבעות &lt;span class=&quot;hidden-xs&quot;&gt;SUPREME&lt;/span&gt;&lt;/b&gt;\",\"miglog.account.personalInfoHome.afterOptin.title2\":\"צברת &lt;b&gt; &lt;span class=&quot;numPoints&quot;&gt; {0} &lt;/span&gt;מטבעות &lt;span class=&quot;hidden-xs&quot;&gt;SUPREME&lt;/span&gt; &lt;/b&gt;\",\"miglog.account.personalInfoHome.afterOptin.noPoints.messages\":\"רוצה להתחיל לצבור? קל:)&lt;br&gt; צוברים מטבעות בכל קניה&lt;br&gt; בקבוצת שופרסל\",\"miglog.account.link.promo\":\"למבצעים שלנו\",\"miglog.account.personalInfoHome.afterOptin.fewPoints.messages\":\"&lt;span&gt; צוברים &lt;b&gt;{0}&lt;/b&gt; מטבעות &lt;/span&gt;&lt;br&gt;&lt;span&gt;וממירים לקופון &lt;b&gt;SUPREME&lt;/b&gt;&lt;/span&gt;\",\"miglog.account.personalInfoHome.afterOptin.money\":\"ניתן להמיר ל-{0} ₪ למימוש בקנייה הקרובה\",\"miglog.account.personalInfoHome.afterOptin.points.expiredPoints\":\"חבל לפספס! &lt;br&gt;{0} מתוכן יפוגו ב- {1}\",\"miglog.account.personalInfoHome.afterOptin.conversionButton\":\"המרה לכסף\",\"miglog.account.personalInfoHome.afterOptin.negativeModal\":\"למה אני במינוס בעצם?\",\"miglog.account.personalInfoHome.encouragement.title\":\"צבירת מטבעות בחודש  \",\"miglog.account.pointsPageData.encouragement.title\":\"צבירת מטבעות SUPREME לחודש  \",\"miglog.account.encouragement.message\":\"רק עוד קניה ב-\",\"miglog.account.encouragement.subMessage\":\"וכל המטבעות שצברת החודש - אצלך :)\",\"miglog.account.personalInfoHome.coupons.title\":\"הקופונים שלך\",\"miglog.account.personalInfoHome.coupons.message\":\"ריכזנו לך את כל הקופונים במקום אחד\",\"miglog.account.personalInfoHome.noCoupons.message\":\"&lt;b&gt;בקרוב יהיו לך קופונים מותאמים אישית, &lt;/b&gt;&lt;span&gt;בנתיים, אפשר ליהנות ממגוון המבצעים שלנו&lt;/span&gt;\",\"miglog.account.personalInfoHome.coupons.link\":\"לכל הקופונים\",\"miglog.account.personalInfoHome.noCoupons.link\":\"למבצעים\",\"miglog.account.hi\":\"היי\",\"miglog.account.pointsPage.beforeOptin.your.balance\":\"יתרתך:\",\"miglog.account.pointsPage.coins\":\"מטבעות\",\"miglog.account.pointsPage.beforeOptin.points\":\"&lt;div&gt;&lt;b&gt;רוצה להמיר אותן לקופון בשווי ₪{0}&lt;/b&gt;&lt;br&gt;זה הזמן להתחדש במועדון &lt;b&gt;SUPREME&lt;/b&gt;&lt;/div&gt;\",\"miglog.account.fewPointsText.beforeOptin.fewPoints.messages\":\"&lt;div&gt;&lt;b&gt;בשופרסל SUPREME קונים יותר - מרוויחים יותר &lt;/b&gt;&lt;/br&gt;תכנית צבירה חדשה, הטבות ורק דברים טובים&lt;/div&gt;\",\"miglog.account.fewPointsText.beforeOptin.noPoints.messages\":\"&lt;div&gt;&lt;b&gt;אין לך מטבעות אבל אל דאגה. זה ממש קל לצבור :) &lt;/b&gt;&lt;/br&gt;אז מה עושים? &lt;/br&gt; מתחדשים למועדון &lt;b&gt;SUPREME&lt;/b&gt; קונים וצוברים&lt;/div&gt;\",\"miglog.account.pointsPage.afterOptin.your.balance\":\"יתרתך:\",\"miglog.account.pointsPage.afterOptin.points\":\"&lt;div&gt; אפשר להמיר אותן לקופון &lt;/br&gt; בשויי ₪{0} למימוש בקניה הקרובה&lt;/div&gt;\",\"miglog.account.pointsPage.iconArnak.messages\":\"&lt;div&gt;רוצה להעביר לארנק &lt;b&gt;PayBox&lt;/b&gt; כדי &lt;/br&gt; לממש במגוון רשתות ובקבוצת שופרסל?&lt;/div&gt;\",\"miglog.account.pointsPage.iconCoupon.messages\":\"&lt;div&gt;רוצה להמיר לקופון &lt;b&gt;SUPREME&lt;/b&gt; כדי &lt;/br&gt; לממש בקניה הקרובה בקבוצת שופרסל?&lt;/div&gt;\",\"miglog.account.pointsPage.iconArnak.bottom.text\":\"למימוש ב-PayBox\",\"miglog.account.pointsPage.iconCoupon.bottom.text\":\"המרה לקופון\",\"miglog.account.fewPointsText.afterOptin.noPoints.messages\":\"&lt;div&gt;&lt;b&gt;רוצה להתחיל לצבור? קל :)&lt;/b&gt; &lt;/br&gt; צוברים מטבעות בכל קניה בקבוצת שופרסל&lt;/div&gt;\",\"miglog.account.customer.subNav.updateDetails.details\":\"פרטים אישיים\",\"miglog.account.customer.subNav.updateDetails.address\":\"כתובות\",\"miglog.account.points.lastMonthPoints\":\"החודש התווספו לך\",\"miglog.checkout.shufersalcc.payment\":\"&lt;b&gt; לא חבל? &lt;/b&gt; בתשלום עם כ.א. שופרסל שלך ייצברו לך*  &lt;span class=&quot;numPoints&quot;&gt;{0} מטבעות  SUPREME&lt;/span&gt;&lt;span&gt;  (במקום &lt;b class=&quot;numPoints&quot;&gt;{1}&lt;/b&gt;) &lt;/span&gt;\",\"miglog.checkout.selected.payment.shufersalCC\":\"&lt;b&gt; איזה כיף! &lt;/b&gt; צברת יותר עם כ.א שופרסל\",\"miglog.account.link.promo.shufersal.brand\":\"לצפייה ורכישת מותג שופרסל\",\"miglog.account.title.charts\":\"התפלגות הקניות החודשית שלך\",\"miglog.account.shufersalBrandMessage\":\"רוצה לחסוך יותר ולהרוויח כפול נקודות? עם שופרסל - אפשר!\",\"miglog.account.shufersalBrand.percentage\":\"&lt;b&gt;{0}%&lt;/b&gt; מותג שופרסל מתוך כלל הקניות שלך \",\"miglog.account.charts.noDataMonth\":\"אין נתונים להצגה לחודש זה\",\"miglog.view.items\":\"לצפיה בפריטים &gt;\",\"miglog.longTail.message.deliverydey\":\"בסל הקניות שלך יש פריט שניתן למשלוח רק החל ממחר. &lt;b&gt;אם ברצונך לבחור זמן אספקה להיום,&lt;/b&gt; יש להסיר את הפריט מסל הקניות. \",\"miglog.longTail.message.deliverydey.checkout\":\"בסל הקניות שלך יש פריט שניתן למשלוח רק החל ממחר\",\"miglog.longTail.message.deliverydey.notInCart\":\"הפריט שבחרת להוסיף לסל ניתן למשלוח רק החל ממחר&lt;/br&gt; &lt;/br&gt;באפשרותך לוותר על הפריט ולבחור זמן אספקה להיום\",\"miglog.ExpiredPromotionsWarning.Tooltip\":\"בהזמנתך שמרנו לך את המחירים, המבצעים וההטבות שמימשת ושהיו תקפים בעת סגירת ההזמנה, לא כולל הטבות קופונים/שוברים אישיים. השמירה הינה לשמונה ימים מיום סגירת ההזמנה, כל עוד לא נעשה עדכון בסל המוצרים. &lt;br&gt;&lt;br&gt;הטבות קופונים/שוברים אישיים לא נשמרות. והן יחולו בתנאי שהקופונים/שוברים בתוקף ביום האספקה.\",\"cart.customer.message.anonimous\":\"&lt;b&gt;התחברו וקבלו קופונים ומבצעים ייחודיים&lt;/b&gt;\",\"cart.customer.message.joinClub\":\"כיף שבאת, הטבות חדשות במועדון &amp;nbsp;SUPREME&amp;nbsp; מחכות לך  &lt;a class=&quot;join colorText&quot;&gt; לאישור התוכנית ולהטבות   &lt;/a&gt; \",\"cart.customer.message.club.under500\":\"&lt;/a&gt; יש לך {0}  מטבעות, &lt;a href=&quot;/online/he/my-account&quot; class=&quot;colorText&quot;&gt;  מגיעים ל-{1} וממירים לקופון &amp;nbsp;SUPREME&amp;nbsp; \",\"cart.customer.message.club.over500\":\"איזה כיף, יש לך  &lt;span id=&quot;money-count&quot;&gt; {0} &lt;/span&gt;  מטבעות&lt;br&gt; &lt;a href=&quot;/online/he/my-account&quot; class=&quot;colorText&quot;&gt;אפשר להמיר אותם לקופון SUPREME בשווי {1} ₪&lt;/a\",\"miglog.payment.card.updated.success\":\"הכרטיס עודכן בהצלחה\",\"miglog.payment.card.add.success\":\"הכרטיס נוסף בהצלחה\",\"miglog.account.customer.serviceCustomer\":\"שירות לקוחות ותקנונים\",\"miglog.account.userMenu.shiping\":\"זמינות משלוחים\",\"miglog.account.userMenu.accesabiity\":\"נגישות\",\"miglog.account.userMenu.branches\":\"סניפים\",\"miglog.account.userMenu.about\":\"קבוצת שופרסל\",\"cart.customer.message.anonimus\":\"הטבות חדשות במועדון SUPREME מחכות לך\",\"miglog.cart.ccModal.title\":\"הזמנת כרטיס אשראי שופרסל\",\"miglog.cart.ccModal.subTitle\":\"יש להשלים את הפרטים ואנחנו ניצור קשר בהקדם\",\"miglog.cart.ccModal.termsText\":\"&lt;span&gt;בלחיצה על “שליחה” הנני מאשר/ת את&lt;/span&gt; &lt;a href={0} target=&quot;_blank&quot;&gt;  תקנון כלשהו שיש להשלים עם המשפטית של שופרסל  Online, &lt;/a&gt; &lt;span&gt;ומסכים/ה לשמירת פרטיי במאגרי שופרסל המנוהלים כחוק.&lt;/span&gt;\",\"miglog.cart.ccModal.joinOnline\":\"הצטרפות Online\",\"miglog.cart.ccModal.acceptedTitle\":\"קיבלנו!\",\"miglog.cart.ccModal.acceptedText\":\"צוות שירות הלקוחות שלנו יחזור אליך תוך 7 ימי עסקים\",\"miglog.account.orders.online.title\":\"שופרסל Online\",\"miglog.marketplace.orders.customer.service\":\"&lt;span&gt;שירות לקוחות של  Marketplace &lt;/span&gt;\",\"miglog.marketplace.order.page.customer.service\":\"שופרסל בשבילך\",\"miglog.marketplace.order.page.contactUs\":\"miglog.marketplace.order.page.contactUs\",\"miglog.marketplace.order.page.contactUs.toTel\":\"miglog.marketplace.order.page.contactUs.toTel\",\"miglog.marketplace.orders.customer.service.opening.hours\":\"&lt;div&gt;&lt;div&gt;ימים א&#39;-ה&#39;: 9:00-16:00&lt;/div&gt;&lt;/div&gt;\",\"miglog.marketplace.order.details.header\":\"&lt;strong&gt;פרטי הזמנה {0}&lt;/strong&gt;\",\"miglog.marketplace.order.details.contact.customer.service\":\"פניה לשירות לקוחות\",\"miglog.marketplace.order.details.download.invoice\":\"הורדת חשבונית \",\"miglog.marketplace.order.details.cancel.regu\":\"מדיניות ביטולים\",\"miglog.marketplace.order.details.peyment\":\"אמצעי תשלום\",\"miglog.marketplace.items\":\"&lt;strong&gt; {0} פריטים&lt;/strong&gt; \",\"miglog.marketplace.sum.items\":\"סה&quot;כ פריטים ({0})\",\"miglog.marketplace.orders.date\":\"תאריך\",\"miglog.account.marketplace.order.waiting\":\"הזמנתך ממתינה לאישור\",\"miglog.account.marketplace.order.approved\":\"ההזמנה אושרה\",\"miglog.account.marketplace.order.cancelled\":\"הזמנה בוטלה\",\"miglog.account.marketplace.order.cancelled.bySeller\":\"ע&quot;י הספק\",\"miglog.account.marketplace.order.cancelled.byClient\":\"ע&quot;י הלקוח\",\"miglog.account.marketplace.order.shipped\":\"הועברה לשילוח\",\"miglog.account.marketplace.order.delivered\":\"הגיעה ליעד\",\"miglog.account.marketplace.order.delivered.pickup\":\"נאספה\",\"miglog.account.marketplace.order.waiting.subTitle\":\"לאחר שההזמנה תאושר יישלח אליך SMS לתיאום מועד המשלוח\",\"miglog.account.marketplace.order.waiting.pickup.subTitle\":\"לאחר שההזמנה תאושר יישלח אליך SMS לתיאום מועד איסוף\",\"miglog.account.marketplace.order.approved.subTitle\":\"בימים הקרובים יישלח אליך SMS לתיאום מועד המשלוח\",\"miglog.account.marketplace.order.approved.pickup.subTitle\":\"בימים הקרובים יישלח אליך SMS לתיאום מועד האיסוף\",\"miglog.account.marketplace.deliveryDateLatest\":\"מועד אספקה: עד\",\"miglog.account.marketplace.deliveryLatest\":\"המשלוח יגיע עד:\",\"miglog.account.marketplace.pickUpLatest\":\"איסוף עצמי עד:\",\"miglog.account.marketplace.supplier\":\"ספק\",\"miglog.account.marketplace.order\":\"הזמנה \",\"miglog.account.marketplace.shippingCompany\":\"חברת השילוח: \",\"miglog.account.marketplace.deliveryType\":\"סוג משלוח: \",\"miglog.account.marketplace.trackingNumber\":\"מספר למעקב:  \",\"miglog.account.marketplace.trackingID\":\"למעקב אחר המשלוח\",\"miglog.marketplace.order.details.disclaimer\":\"באתר מוצג סימון תזונתי למוצרי המזון הנמכרים בו, לרבות סמלי מזון אדומים, כנדרש בדין, וזאת על פי המידע שהתקבל מהספקים ובאחריותם. הסימון התזונתי וסמלי המזון מופיעים בדף המוצר. ניתן להגיע לדף המוצר על ידי הקלקה על המוצר מכל דף באתר.\",\"miglog.marketplace.number.items\":\"הזמנת {0} פריטים\",\"miglog.marketplace.number.item\":\"הזמנת פריט {0}\",\"miglog.checkout.error.allocationTimeout\":\"קיימת תקלה זמנית באישור העסקה נא נסה שנית מאוחר יותר\",\"miglog.cc.modal.title\":\"הזמנת כרטיס אשראי שופרסל\",\"miglog.cc.modal.subTitle\":\"יש להשלים את הפרטים ואנחנו ניצור קשר בהקדם\",\"miglog.cc.modal.termsText\":\"בלחיצה על “שליחה” הנני מאשר/ת את &lt;a target=&quot;_blank&quot; href=&quot;https://www.shufersal.co.il/online/regulations&quot;&gt;תקנון שופרסל&lt;/a&gt;, ומסכים/ה לשמירת פרטיי במאגרי שופרסל המנוהלים כחוק.\",\"miglog.cc.modal.footerText\":\"&lt;a target=&quot;_blank&quot; href=&quot;https://cal.cal-online.co.il/#!/sale/cal-shufersal/opportunity&quot;&gt;לביצוע תהליך הזמנת אשראי שופרסל באמצעות האתר לחץ כאן&lt;/a&gt;\",\"cart.customer.massage.club.optin.under500_0\":\"צוברים מטבעות SUPREME בכל רכישה וממירים לקופונים &lt;a href=&quot;/online/he/S&quot;&gt;למבצעים של שופרסל ו-BE&lt;/a&gt;\",\"cart.customer.massage.club.optin.under500_2\":\"יש לך {0} מטבעות, מגיעים ל-{1} וממירים לקופון SUPREME\",\"cart.customer.massage.club.NotOptin.under500\":\"&lt;span&gt;מחכים לך {0} מטבעות SUPREME ועוד הטבות  &lt;/span&gt;&lt;a class=&quot;join colorText&quot;&gt; לאישור התוכנית ולהטבות&lt;/a&gt; \",\"cart.customer.massage.club.NotOptin.over500\":\"&lt;span&gt;מחכים לך כבר {0} מטבעות  להמיר לקופון SUPREME&lt;/span&gt;&lt;a class=&quot;join colorText&quot;&gt; לאישור התוכנית ולהטבות&lt;/a&gt; \",\"cart.customer.massage.club.optin.expiredPoints\":\"{0} מטבעות SUPREME יפוגו ב-{1} &lt;a href=&quot;/online/he/my-account&quot; class=&quot;colorText&quot;&gt;להמרה לקופון בשווי {2} ש&quot;ח&lt;/a&gt;\",\"cart.customer.massage.club.optin.over500_maxPoint\":\"שיחקת אותה! יש לך {0} מטבעות SUPREME &lt;a href=&quot;/online/he/my-account&quot; class=&quot;colorText&quot;&gt;אפשר להמיר אותם לקופון בשווי {1} ש&quot;ח&lt;/a&gt;\",\"cart.customer.massage.club.optin.over500_midPoints\":\"יש לך {0} מטבעות SUPREME למימוש בדיגיטל ובסניפים &lt;a href=&quot;/online/he/my-account&quot; class=&quot;colorText&quot;&gt;אפשר להמיר אותם לקופון בשווי {1} ש&quot;ח&lt;/a&gt;\",\"cart.customer.massage.club.optin.over500_minPoints\":\"איזה כיף, יש לך {0} מטבעות SUPREME &lt;a href=&quot;/online/he/my-account&quot; class=&quot;colorText&quot;&gt;אפשר להמיר אותם לקופון בשווי {1} ש&quot;ח&lt;/a&gt;\",\"cart.customer.massage.club.optin.under500\":\"רק עוד קניה ב-{0} ש&quot;ח &lt;span&gt;וכל מטבעות ה-SUPREME שצברת החודש - אצלך:)&lt;/span&gt;\",\"miglog.register.b2b.incomePrediction\":\"miglog.register.b2b.incomePrediction\",\"login.terms.join.online.switch\":\"אני רוצה לקבל עידכונים, קופונים, מבצעים והטבות מועדון אישיות.\",\"miglog.onlinOrdersNew.order.customerPresence.AT_HOME\":\"אני בבית לקבל את המשלוח \",\"miglog.onlinOrdersNew.order.customerPresence.NOT_HOME\":\"לא בבית, תשאירו ליד הדלת\",\"miglog.onlinOrdersNew.order.replacementPreference.ALTERNATIVE\":\"יסופקו פריטים חלופיים ללא תיאום\",\"miglog.onlinOrdersNew.order.replacementPreference.NO_ALTERNATIVE\":\"לא יסופקו פריטים חלופיים\",\"miglog.onlinOrdersNew.order.replacementPreference.SMS\":\"ישלח SMS לתיאום פריטים חלופיים\",\"miglog.onlinOrdersNew.order.replacementPreference.CALL\":\"ישלח SMS לתיאום פריטים חלופיים\",\"miglog.onlinOrdersNew.directOrders.infoStatus.CONFIRMED\":\"&lt;span&gt;אפשר לבצע שינויים בהזמנה&lt;/span&gt;&amp;nbsp; &lt;strong&gt;עד {0} ב {1}&lt;/strong&gt;\",\"miglog.onlinOrdersNew.directOrders.infoStatus.PICKING\":\"&lt;span&gt;לאיסוף ההזמנה יש להגיע עם&lt;/span&gt;&lt;strong&gt; תעודה מזהה של המזמין ואמצעי תשלום עמו בוצעה ההזמנה&lt;/strong&gt;\",\"miglog.onlinOrdersNew.directOrders.info.PREPARING.pickup\":\"מסרון ישלח אליך בקרוב כשההזמנה תהיה מוכנה לאיסוף\",\"miglog.onlinOrdersNew.directOrders.info.PREPARING.delivery\":\"מסרון ישלח אליך בקרוב כשההזמנה תהיה בדרך אליך\",\"miglog.onlinOrdersNew.order.totalSum.tooltipText\":\"הסכום הסופי בהזמנות עשוי להשתנות לאחר ליקוט &lt;br&gt;ההזמנה, בהתאם למוצרים שקילים, קופונים &lt;br&gt;ומבצעים למשלמים בכ.אשראי שופרסל.\",\"miglog.onlinOrdersNew.orderNF.orderPicking\":\"בטיפול\",\"miglog.onlinOrdersNew.orderNF.orderOnTheWay\":\"הועברה לשילוח\",\"miglog.onlinOrdersNew.order.orderOnTheWay\":\"בדרך אליך\",\"miglog.onlinOrdersNew.order.orderConfirmed\":\"הזמנתך התקבלה \",\"miglog.onlinOrdersNew.order.orderNumConfirmed\":\"הזמנה &lt;span&gt;{0}&lt;/span&gt; התקבלה \",\"miglog.onlinOrdersNew.order.orderDeliverd\":\"הגיעה ליעד\",\"miglog.onlinOrdersNew.order.orderCancelled\":\"בוטלה\",\"miglog.onlinOrdersNew.order.orderReadyToBePicked\":\"מוכנה לאיסוף \",\"miglog.onlinOrdersNew.order.orderPicking\":\"בהכנה \",\"miglog.onlinOrdersNew.order.orderHandled\":\"נאספה \",\"miglog.onlinOrdersNew.orderNF.countDays\":\"אספקה תוך 7 ימי עסקים\",\"miglog.onlinOrdersNew.order.showLess\":\"הצג פחות \",\"miglog.onlinOrdersNew.order.showMore\":\"הצג הכל\",\"miglog.onlinOrdersNew.orderNF.vendorMobile\":\"ספק:\",\"miglog.onlinOrdersNew.orderNF.vendor\":\"ספק/נותן אחריות:\",\"miglog.onlinOrdersNew.voucher.backup\":\"{0} {1}**\",\"miglog.onlinOrdersNew.paymentInfo.voucher\":\"תו קניה {0}** בסכום {1} ₪\",\"miglog.onlinOrdersNew.NF.trackingData.id\":\"מספר מעקב\",\"miglog.onlinOrdersNew.NF.trackingData.shipping\":\"משלוח עד הבית\",\"miglog.onlinOrdersNew.NF.trackingData.shippingCompany\":\"חברת השילוח: \",\"miglog.checkoutNew.deliveryOption.SMS\":\"שלחו sms/whatsapp לתיאום פריטים חלופיים\",\"miglog.checkoutNew.deliveryOption.ALTERNATIVE\":\"ספקו פריטים חלופיים ללא תיאום\",\"miglog.checkoutNew.deliveryOption.NO_ALTERNATIVE\":\"אל תספקו פריטים חלופיים\",\"miglog.checkoutNew.deliveryOption.ATTACH_WITH_PRICE\":\"תציגו מחירים בהזמנה\",\"miglog.checkoutNew.deliveryOption.ATTACH_WITHOUT_PRICE\":\"אל תציגו מחירים בהזמנה\",\"miglog.checkoutNew.deliveryOption.NOT_HOME\":\"לא בבית. תשאירו ליד הדלת\",\"miglog.checkoutNew.deliveryOption.AT_HOME\":\"אני בבית לקבל את המוצרים\",\"miglog.checkoutNew.deliveryOption.NOT_HOME_CFC\":\"משלוח ליד הדלת - תוספת {0} ש&quot;ח עבור צידנית רב פעמית לשמירת הטריות\",\"miglog.checkoutNew.title.payment\":\"איך משלמים?\",\"miglog.checkoutNew.cardTypes.text\":\"אנחנו מכבדים\",\"miglog.checkoutNew.payment.direct.title\":\"סופרמרקט ופארם\",\"miglog.checkoutNew.payment.other.title\":\"פריטים באספקה נפרדת\",\"miglog.payment.voucher.creditcard.title\":\"בחירת כרטיס אשראי להשלמת חיוב (במידת הצורך) \",\"miglog.payment.voucher.creditcard.disclaimer\":\"* למעט כרטיס דיירקט\",\"order.back.to.shopping.cart\":\"חזרה לסל הקניות\",\"miglog.checkoutNew.timeslot.btn.isPickup.true\":\"בחירת שעת איסוף \",\"miglog.checkoutNew.timeslot.btn.isPickup.false\":\"בחירת שעת משלוח\",\"miglog.account.newClubProgram.link\":\"לצפייה\",\"miglog.account.newClubProgram.title\":\"תכנית המועדון החדשה\",\"miglog.account.newClubProgram.subtitle\":\"במיוחד בשבילך\",\"cart.customer.message.newClubProgram.without.savings\":\"עוד לא התחלת לחסוך? קנו וצפו בחסכון שלכם גדל &lt;br class=&quot;hidden-xs&quot;/&gt;&lt;a href=&quot;/online/he/coupons&quot; class=&quot;colorText&quot;&gt;למתחם קופונים והטבות&lt;/a&gt;\",\"cart.customer.message.newClubProgram.savings\":\"מתאריך {0} &lt;b&gt;חסכת ₪{1} &lt;/b&gt;  בזכות חברותך במועדון לקוחות שופרסל &lt;a href=&quot;/online/he/coupons&quot; class=&quot;colorText&quot;&gt;למתחם קופונים והטבות&lt;/a&gt;\",\"cart.customer.message.newClubProgram.savings.creditCard\":\"מתאריך {0} &lt;b&gt;חסכת ₪{1}&lt;/b&gt; מתוכם ₪{2}  בזכות כרטיס אשראי שופרסל &lt;br class=&quot;hidden-lg-header&quot;/&gt;&lt;a href=&quot;/online/he/coupons&quot; class=&quot;colorText&quot;&gt;למתחם קופונים והטבות&lt;/a&gt;\",\"cart.customer.message.anonimus.newClubProgram\":\"קופונים, מבצעים, הטבות והנחות &lt;br/&gt; מחכים לך!\",\"miglog.account.newClubProgram.personal.info.title\":\"מועדון לקוחות שופרסל\",\"miglog.account.newClubProgram.personal.info.content.fromDate\":\"מתאריך ה {0}\",\"miglog.account.newClubProgram.personal.info.content.savings\":\"הנחות והטבות המועדון חסכו לך&lt;span style=&quot;color: #ffc100;&quot;&gt;  {0} ₪&lt;/span&gt;\",\"miglog.account.newClubProgram.personal.info.content.without.savings\":\"עוד לא התחלת לחסוך, בואו נשנה את זה!\",\"miglog.account.newClubProgram.personal.info.content.without.fromDate\":\"קנו וצפו בחסכון שלכם גדל\",\"miglog.account.costumers.club\":\"מועדון לקוחות שופרסל\"}}"
+        },
+        {
+          "name": "_dycst",
+          "value": "dk.w.c.ms.fst."
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1746457604718"
+        },
+        {
+          "name": "dy_fs_page",
+          "value": "www.shufersal.co.il/online/he/a"
+        },
+        {
+          "name": "_dy_df_geo",
+          "value": "Israel..Rishon LeTsiyyon"
+        },
+        {
+          "name": "_dy_csc",
+          "value": "{\"_pv\":4,\"_ses\":1,\"_prev_ses\":\"smnqkbjbtue4qbr78m7ouuww8hxr4c5g\",\"firstpv\":{\"ts\":1746457601200,\"ses\":1,\"pv\":1},\"lastevent_sync cart\":{\"ts\":1746457608096,\"ses\":1,\"pv\":4},\"closeaction_1168045\":{\"ts\":1746457606391,\"ses\":1,\"pv\":2},\"lastpv\":{\"ts\":1746457608509,\"ses\":1,\"pv\":4}}"
+        },
+        {
+          "name": "_dyaud_nchc",
+          "value": "1787347.1869363.1894287*15979624@2**1498514@1.1498515@1.1498516@1.1656967@1.1683031@1.1683032@1.1687833@1.1764950@1.1780469@1.1780472@1.1780473@1.1780474@1.1780476@1.1780477@1.1780485@1.1780574@1.1782907@1.1783533@1.1783615@1.1787347@1.1797440@1.1797441@1.1804031@1.1805014@1.1805016@1.1806040@1.1844350@1.1844351@1.1846587@1.1869363@1.1894284@1.1894285@1.1894286@1.1894287@1.1900445@1.1926813@1.2048670@1.2100788@1.2100817@1"
+        },
+        {
+          "name": "_dy_device",
+          "value": "{\"brand\":\"Other\",\"type\":\"desktop\",\"os\":\"windows\",\"browser\":\"chrome\"}"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "taboola global:user-id",
+          "value": "9bce0a85-ce17-4c59-8fa6-76deb04c7d8e-tuctf125983"
+        },
+        {
+          "name": "li_adsId",
+          "value": "065583e1-2c37-4b3c-b7d7-8485102fd80e"
+        },
+        {
+          "name": "_dy_toffset",
+          "value": "0"
+        },
+        {
+          "name": "1700915:session-data",
+          "value": "v2_db439356c59ceeee5fbf92b721048f93_9bce0a85-ce17-4c59-8fa6-76deb04c7d8e-tuctf125983_1746457606_1746457609_CNawjgYQs-hnGNP88IfqMiACKAMwZjiI6wpAr5AQSMHS2ANQ____________AVgAYABojoHKouiN7vRTcAGAAQA"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.youtube.com",
+      "localStorage": [
+        {
+          "name": "yt-remote-connected-devices",
+          "value": "{\"data\":\"[]\",\"expiration\":1746544003186,\"creation\":1746457603186}"
+        },
+        {
+          "name": "yt-remote-device-id",
+          "value": "{\"data\":\"96c43db8-03ae-405f-a6e4-baa8880fca3a\",\"expiration\":1777993603182,\"creation\":1746457603182}"
+        },
+        {
+          "name": "ytidb::LAST_RESULT_ENTRY_KEY",
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1749049607490,\"creation\":1746457607490}"
+        }
+      ]
+    }
+  ]
+}
