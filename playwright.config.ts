@@ -4,7 +4,7 @@ export default defineConfig({
   testDir: './tests',
   timeout: 90 * 1000,
   use: {
-    headless: false,
+    headless: true,
     storageState: 'LoginAuth.json',
     screenshot: 'only-on-failure',
     video: { mode: 'on', size: { width: 1281, height: 720 } },
