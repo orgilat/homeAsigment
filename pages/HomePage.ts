@@ -66,27 +66,37 @@ async checkCartAndExpandIfNeeded() {
 
 
 async navigate() {
-    logger.info("⏳ מוודא ששלב 1 מופיע...");
-    await this.step.waitFor({ state: 'visible', timeout: 10000 });
-    logger.info("✅ שלב 1 הופיע, לוחץ...");
-    await this.step.click();
+    await this.page.waitForLoadState('networkidle');
+    logger.info("🌐 טעינת העמוד הושלמה");
 
-    logger.info("⏳ מוודא ששלב 2 מופיע...");
-    await this.step2.waitFor({ state: 'visible', timeout: 10000 });
-    logger.info("✅ שלב 2 הופיע, לוחץ...");
-    await this.step2.click();
+    try {
+        logger.info("⏳ מוודא ששלב 1 מופיע...");
+        await this.step.waitFor({ state: 'visible', timeout: 20000 });
+        logger.info("✅ שלב 1 הופיע, לוחץ...");
+        await this.step.click();
 
-    const products = ["גבינה", "ביצים", "חלב"];
-    for (const product of products) {
-        logger.info(`🔍 מחפש מוצר: ${product}`);
-        await this.searchAndEnter(product);
+        logger.info("⏳ מוודא ששלב 2 מופיע...");
+        await this.step2.waitFor({ state: 'visible', timeout: 20000 });
+        logger.info("✅ שלב 2 הופיע, לוחץ...");
+        await this.step2.click();
+
+        const products = ["גבינה", "ביצים", "חלב"];
+        for (const product of products) {
+            logger.info(`🔍 מחפש מוצר: ${product}`);
+            await this.searchAndEnter(product);
+        }
+
+        logger.info("✅ כל המוצרים הוזנו. לוחץ על אישור...");
+        await this.confirm.waitFor({ state: 'visible', timeout: 20000 });
+        await this.confirm.click();
+        logger.info("📦 לחצנו על אישור בהצלחה");
+    } catch (err) {
+        logger.error("❌ שגיאה בניווט: " + err);
+        await this.page.screenshot({ path: 'navigate-error.png', fullPage: true });
+        throw err;
     }
-
-    logger.info("✅ כל המוצרים הוזנו. לוחץ על אישור...");
-    await this.confirm.waitFor({ state: 'visible', timeout: 10000 });
-    await this.confirm.click();
-    logger.info("📦 לחצנו על אישור בהצלחה");
 }
+
 
     async calculate() {
         const firstInput = this.allInputs.first();
